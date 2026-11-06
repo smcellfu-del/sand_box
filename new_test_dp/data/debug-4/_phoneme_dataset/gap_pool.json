@@ -1,0 +1,434 @@
+[
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 1,
+    "w_segments": [
+      "W3"
+    ],
+    "l_segments": [
+      "L1",
+      "L2",
+      "L3"
+    ],
+    "w_line": [
+      "風が | 表| で呼んでいる 呼んでいる さあ行こう海を抜いて"
+    ],
+    "l_line": [
+      "風がおもてで呼んでいる",
+      "呼んでいる",
+      "さぁ行こう海を脱いで"
+    ],
+    "unit_id": 1,
+    "type": "INSERT",
+    "l_sequence": "",
+    "w_sequence": "k i g o u",
+    "l_phonemes": [],
+    "w_phonemes": [
+      "k",
+      "i",
+      "g",
+      "o",
+      "u"
+    ],
+    "alignment": [
+      {
+        "l": "-",
+        "w": "k",
+        "op": "INSERT"
+      },
+      {
+        "l": "-",
+        "w": "i",
+        "op": "INSERT"
+      },
+      {
+        "l": "-",
+        "w": "g",
+        "op": "INSERT"
+      },
+      {
+        "l": "-",
+        "w": "o",
+        "op": "INSERT"
+      },
+      {
+        "l": "-",
+        "w": "u",
+        "op": "INSERT"
+      }
+    ],
+    "substitutions": [],
+    "counts": {
+      "MATCH": 0,
+      "SUB": 0,
+      "INSERT": 5,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "GAP_POOL",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 1,
+    "w_segments": [
+      "W3"
+    ],
+    "l_segments": [
+      "L1",
+      "L2",
+      "L3"
+    ],
+    "w_line": [
+      "風が | 表| で呼んでいる 呼んでいる さあ行こう海を抜いて"
+    ],
+    "l_line": [
+      "風がおもてで呼んでいる",
+      "呼んでいる",
+      "さぁ行こう海を脱いで"
+    ],
+    "unit_id": 2,
+    "type": "INSERT",
+    "l_sequence": "",
+    "w_sequence": "k i g o u",
+    "l_phonemes": [],
+    "w_phonemes": [
+      "k",
+      "i",
+      "g",
+      "o",
+      "u"
+    ],
+    "alignment": [
+      {
+        "l": "-",
+        "w": "k",
+        "op": "INSERT"
+      },
+      {
+        "l": "-",
+        "w": "i",
+        "op": "INSERT"
+      },
+      {
+        "l": "-",
+        "w": "g",
+        "op": "INSERT"
+      },
+      {
+        "l": "-",
+        "w": "o",
+        "op": "INSERT"
+      },
+      {
+        "l": "-",
+        "w": "u",
+        "op": "INSERT"
+      }
+    ],
+    "substitutions": [],
+    "counts": {
+      "MATCH": 0,
+      "SUB": 0,
+      "INSERT": 5,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "GAP_POOL",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 2,
+    "w_segments": [
+      "W1"
+    ],
+    "l_segments": [],
+    "w_line": [
+      "ん"
+    ],
+    "l_line": [],
+    "unit_id": 1,
+    "type": "INSERT",
+    "l_sequence": "",
+    "w_sequence": "n",
+    "l_phonemes": [],
+    "w_phonemes": [
+      "n"
+    ],
+    "alignment": [
+      {
+        "l": "-",
+        "w": "n",
+        "op": "INSERT"
+      }
+    ],
+    "substitutions": [],
+    "counts": {
+      "MATCH": 0,
+      "SUB": 0,
+      "INSERT": 1,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "GAP_POOL",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 3,
+    "w_segments": [
+      "W2"
+    ],
+    "l_segments": [],
+    "w_line": [
+      "ん"
+    ],
+    "l_line": [],
+    "unit_id": 1,
+    "type": "INSERT",
+    "l_sequence": "",
+    "w_sequence": "n",
+    "l_phonemes": [],
+    "w_phonemes": [
+      "n"
+    ],
+    "alignment": [
+      {
+        "l": "-",
+        "w": "n",
+        "op": "INSERT"
+      }
+    ],
+    "substitutions": [],
+    "counts": {
+      "MATCH": 0,
+      "SUB": 0,
+      "INSERT": 1,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "GAP_POOL",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 7,
+    "w_segments": [
+      "W7"
+    ],
+    "l_segments": [
+      "L8",
+      "L9"
+    ],
+    "w_line": [
+      "地とり足のあたし 確かに今日も回り道"
+    ],
+    "l_line": [
+      "千鳥足の私不確かに",
+      "今日も回り道"
+    ],
+    "unit_id": 3,
+    "type": "DELETE",
+    "l_sequence": "f u",
+    "w_sequence": "",
+    "l_phonemes": [
+      "f",
+      "u"
+    ],
+    "w_phonemes": [],
+    "alignment": [
+      {
+        "l": "f",
+        "w": "-",
+        "op": "DELETE"
+      },
+      {
+        "l": "u",
+        "w": "-",
+        "op": "DELETE"
+      }
+    ],
+    "substitutions": [],
+    "counts": {
+      "MATCH": 0,
+      "SUB": 0,
+      "INSERT": 0,
+      "DELETE": 2
+    },
+    "review": {
+      "category": "GAP_POOL",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 11,
+    "w_segments": [
+      "W11"
+    ],
+    "l_segments": [
+      "L13"
+    ],
+    "w_line": [
+      "ふざけたあれの変点"
+    ],
+    "l_line": [
+      "ふざけた晴れの炎天"
+    ],
+    "unit_id": 1,
+    "type": "DELETE",
+    "l_sequence": "h a",
+    "w_sequence": "a",
+    "l_phonemes": [
+      "h",
+      "a"
+    ],
+    "w_phonemes": [
+      "a"
+    ],
+    "alignment": [
+      {
+        "l": "h",
+        "w": "-",
+        "op": "DELETE"
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [],
+    "counts": {
+      "MATCH": 1,
+      "SUB": 0,
+      "INSERT": 0,
+      "DELETE": 1
+    },
+    "review": {
+      "category": "GAP_POOL",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 11,
+    "w_segments": [
+      "W11"
+    ],
+    "l_segments": [
+      "L13"
+    ],
+    "w_line": [
+      "ふざけたあれの変点"
+    ],
+    "l_line": [
+      "ふざけた晴れの炎天"
+    ],
+    "unit_id": 2,
+    "type": "INSERT",
+    "l_sequence": "e",
+    "w_sequence": "h e",
+    "l_phonemes": [
+      "e"
+    ],
+    "w_phonemes": [
+      "h",
+      "e"
+    ],
+    "alignment": [
+      {
+        "l": "-",
+        "w": "h",
+        "op": "INSERT"
+      },
+      {
+        "l": "e",
+        "w": "e",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [],
+    "counts": {
+      "MATCH": 1,
+      "SUB": 0,
+      "INSERT": 1,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "GAP_POOL",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 15,
+    "w_segments": [
+      "W15"
+    ],
+    "l_segments": [
+      "L17"
+    ],
+    "w_line": [
+      "風足もかなり変点"
+    ],
+    "l_line": [
+      "風下からり炎天"
+    ],
+    "unit_id": 3,
+    "type": "INSERT",
+    "l_sequence": "e",
+    "w_sequence": "h e",
+    "l_phonemes": [
+      "e"
+    ],
+    "w_phonemes": [
+      "h",
+      "e"
+    ],
+    "alignment": [
+      {
+        "l": "-",
+        "w": "h",
+        "op": "INSERT"
+      },
+      {
+        "l": "e",
+        "w": "e",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [],
+    "counts": {
+      "MATCH": 1,
+      "SUB": 0,
+      "INSERT": 1,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "GAP_POOL",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  }
+]

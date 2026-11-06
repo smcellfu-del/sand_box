@@ -1,0 +1,330 @@
+[
+  {
+    "start": 20.04,
+    "end": 28.2,
+    "line": "あ ちょっと楽しい 花が咲く手前みたい",
+    "hira": "あちょっとたのしいはながさくてまえみたい",
+    "roma": "a chotto tanoshii hana ga saku temae mitai",
+    "roma_mom": "a oo aoii aa a au eae iai"
+  },
+  {
+    "start": 29.66,
+    "end": 37.2,
+    "line": "あ ちょっと苦しい 水を忘れた魚みたい",
+    "hira": "あちょっとくるしいみずをわすれたさかなみたい",
+    "roma": "a chotto kurushii mizu wo wasureta sakana mitai",
+    "roma_mom": "a oo uuii iu o auea aaa iai"
+  },
+  {
+    "start": 38.86,
+    "end": 43.2,
+    "line": "Rは刻んでる 私の子供待ちみたい",
+    "hira": "Rはきざんでるわたくしのこどもまちみたい",
+    "roma": "r wa kizanderu watakushi no kodomo machi mitai",
+    "roma_mom": "a iaeu aaui o ooo ai iai"
+  },
+  {
+    "start": 43.2,
+    "end": 46.2,
+    "line": "メロがポップじゃないから少しダサいけど",
+    "hira": "めろがぽっぷじゃないからすこしださいけど",
+    "roma": "mero ga poppu ja naikara sukoshi dasaikedo",
+    "roma_mom": "eo a ou a aiaa uoi aaieo"
+  },
+  {
+    "start": 46.2,
+    "end": 52.8,
+    "line": "私はするようとしているわ 悲しい歌を愛しているの",
+    "hira": "わたくしはするようとしているわかなしいうたをあいしているの",
+    "roma": "watakushi wa suru you to shite iru wa kanashii uta wo aishite iru no",
+    "roma_mom": "aaui a uu ou o ie iu a aaii ua o aiie iu o"
+  },
+  {
+    "start": 52.8,
+    "end": 56.52,
+    "line": "飽きるくらいに回していたの そのレコード",
+    "hira": "あきるくらいにまわしていたのそのれこーど",
+    "roma": "akiru kurai ni mawashite ita no sono rekoodo",
+    "roma_mom": "aiu uai i aaie ia o oo eooo"
+  },
+  {
+    "start": 56.52,
+    "end": 62.2,
+    "line": "飽きのないものをずっと探していたわ おひさまとのレカップくらい",
+    "hira": "あきのないものをずっとさがしていたわおひさまとのれかっぷくらい",
+    "roma": "aki no nai mono wo zutto sagashite ita wa ohisama to no re kappu kurai",
+    "roma_mom": "ai o ai oo o uo aaie ia a oiaa o o e au uai"
+  },
+  {
+    "start": 62.2,
+    "end": 68.08,
+    "line": "楽しい楽しい楽しい楽しい楽しい",
+    "hira": "たのしいたのしいたのしいたのしいたのしい",
+    "roma": "tanoshii tanoshii tanoshii tanoshii tanoshii",
+    "roma_mom": "aoii aoii aoii aoii aoii"
+  },
+  {
+    "start": 87.24,
+    "end": 90.5,
+    "line": "ああ ちょっと悲しい",
+    "hira": "ああちょっとかなしい",
+    "roma": "aa chotto kanashii",
+    "roma_mom": "aa oo aaii"
+  },
+  {
+    "start": 91.68,
+    "end": 94.5,
+    "line": "月を見かけた夜景みたい",
+    "hira": "つきをみかけたやけいみたい",
+    "roma": "tsuki wo mikaketa yakei mitai",
+    "roma_mom": "ui o iaea aei iai"
+  },
+  {
+    "start": 96.86,
+    "end": 99.5,
+    "line": "ああ どうどろくほどに丸い",
+    "hira": "ああどうどろくほどにまりい",
+    "roma": "aa doudo roku hodo ni marii",
+    "roma_mom": "aa ouo ou oo i aii"
+  },
+  {
+    "start": 101.4,
+    "end": 104.5,
+    "line": "少しかじったらダメかい",
+    "hira": "すこしかじったらだめかい",
+    "roma": "sukoshi kajittara dame ka i",
+    "roma_mom": "uoi aiaa ae a i"
+  },
+  {
+    "start": 106.36,
+    "end": 107.5,
+    "line": "誰もが笑ってる",
+    "hira": "だれもがわらってる",
+    "roma": "dare mo ga waratteru",
+    "roma_mom": "ae o a aaeu"
+  },
+  {
+    "start": 107.5,
+    "end": 110.5,
+    "line": "そんなにこれをポップかい?違う",
+    "hira": "そんなにこれをぽっぷかい?ちがう",
+    "roma": "sonna ni kore wo poppu ka i chigau",
+    "roma_mom": "oa i oe o ou a i iau"
+  },
+  {
+    "start": 110.5,
+    "end": 113.5,
+    "line": "お前のズレたセンスをバカにしてんのさ",
+    "hira": "おまえのずれたせんすをばかにしてんのさ",
+    "roma": "omae no zureta sensu wo baka ni shiten no sa",
+    "roma_mom": "oae o uea eu o aa i ie o a"
+  },
+  {
+    "start": 113.54,
+    "end": 120.34,
+    "line": "私忘れようとしているわ 楽しい歌も愛しているの",
+    "hira": "わたくしわすれようとしているわたのしいうたもあいしているの",
+    "roma": "watakushi wasureyou to shite iru wa tanoshii uta mo aishite iru no",
+    "roma_mom": "aaui aueou o ie iu a aoii ua o aiie iu o"
+  },
+  {
+    "start": 120.44,
+    "end": 124.42,
+    "line": "あそう式の家にしましょうこのレコード",
+    "hira": "あそうしきのいえにしましょうこのれこーど",
+    "roma": "a sou shiki no ie ni shimashou kono rekoodo",
+    "roma_mom": "a ou ii o ie i iaou oo eooo"
+  },
+  {
+    "start": 124.48,
+    "end": 130.02,
+    "line": "あてのない旅をずっと続けていたわ 神様とのviva check ride",
+    "hira": "あてのないたびをずっとつづけていたわかみさまとのvivacheckride",
+    "roma": "ate no nai tabi wo zutto tsuzukete ita wa kamisama to no viva check ride",
+    "roma_mom": "ae o ai ai o uo uuee ia a aiaa o o ia e ie"
+  },
+  {
+    "start": 130.08,
+    "end": 135.7,
+    "line": "楽しい楽しい楽しい楽しい楽しい",
+    "hira": "たのしいたのしいたのしいたのしいたのしい",
+    "roma": "tanoshii tanoshii tanoshii tanoshii tanoshii",
+    "roma_mom": "aoii aoii aoii aoii aoii"
+  },
+  {
+    "start": 153.56,
+    "end": 156.0,
+    "line": "あなたも笑ってる",
+    "hira": "あなたもわらってる",
+    "roma": "anata mo waratteru",
+    "roma_mom": "aaa o aaeu"
+  },
+  {
+    "start": 158.32,
+    "end": 162.0,
+    "line": "あ メロがポップじゃないから少し止めるけど",
+    "hira": "あめろがぽっぷじゃないからすこしとめるけど",
+    "roma": "a mero ga poppu ja naikara sukoshi tomerukedo",
+    "roma_mom": "a eo a ou a aiaa uoi oeueo"
+  },
+  {
+    "start": 165.74,
+    "end": 168.2,
+    "line": "私忘れようとしているわ",
+    "hira": "わたくしわすれようとしているわ",
+    "roma": "watakushi wasureyou to shite iru wa",
+    "roma_mom": "aaui aueou o ie iu a"
+  },
+  {
+    "start": 168.2,
+    "end": 170.2,
+    "line": "バカなりにでも愛していたの",
+    "hira": "ばかなりにでもあいしていたの",
+    "roma": "bakanari ni de mo aishite ita no",
+    "roma_mom": "aaai i e o aiie ia o"
+  },
+  {
+    "start": 170.2,
+    "end": 173.2,
+    "line": "踊るみたいに踊っていたの",
+    "hira": "おどるみたいにおどっていたの",
+    "roma": "odoru mitai ni odotte ita no",
+    "roma_mom": "oou iai i ooe ia o"
+  },
+  {
+    "start": 174.02,
+    "end": 174.7,
+    "line": "ん?",
+    "hira": "ん?",
+    "roma": "n",
+    "roma_mom": ""
+  },
+  {
+    "start": 174.86,
+    "end": 177.7,
+    "line": "飽きのないものをずっと探していたわ",
+    "hira": "あきのないものをずっとさがしていたわ",
+    "roma": "aki no nai mono wo zutto sagashite ita wa",
+    "roma_mom": "ai o ai oo o uo aaie ia a"
+  },
+  {
+    "start": 177.7,
+    "end": 180.2,
+    "line": "お日様とのダカっぽくらい",
+    "hira": "おひさまとのだかっぽくらい",
+    "roma": "ohisama to no dakappo kurai",
+    "roma_mom": "oiaa o o aao uai"
+  },
+  {
+    "start": 180.2,
+    "end": 184.7,
+    "line": "楽しい 楽しい 楽しい 楽しい",
+    "hira": "たのしいたのしいたのしいたのしい",
+    "roma": "tanoshii tanoshii tanoshii tanoshii",
+    "roma_mom": "aoii aoii aoii aoii"
+  },
+  {
+    "start": 184.7,
+    "end": 187.2,
+    "line": "私忘れようとしているわ",
+    "hira": "わたくしわすれようとしているわ",
+    "roma": "watakushi wasureyou to shite iru wa",
+    "roma_mom": "aaui aueou o ie iu a"
+  },
+  {
+    "start": 187.2,
+    "end": 189.7,
+    "line": "一つ残らず愛していたのに",
+    "hira": "ひとつのこらずあいしていたのに",
+    "roma": "hitotsu nokorazu aishite ita no ni",
+    "roma_mom": "iou ooau aiie ia o i"
+  },
+  {
+    "start": 189.7,
+    "end": 192.2,
+    "line": "いつも間にか忘れていくの",
+    "hira": "いつもまにかわすれていくの",
+    "roma": "itsu mo ma ni ka wasurete iku no",
+    "roma_mom": "iu o a i a auee iu o"
+  },
+  {
+    "start": 192.2,
+    "end": 193.7,
+    "line": "あのレコード",
+    "hira": "あのれこーど",
+    "roma": "ano rekoodo",
+    "roma_mom": "ao eooo"
+  },
+  {
+    "start": 193.78,
+    "end": 197.06,
+    "line": "脇のないものをずっと探していたわ",
+    "hira": "わきのないものをずっとさがしていたわ",
+    "roma": "waki no nai mono wo zutto sagashite ita wa",
+    "roma_mom": "ai o ai oo o uo aaie ia a"
+  },
+  {
+    "start": 197.08,
+    "end": 199.46,
+    "line": "おひさまとの中っぽくらい",
+    "hira": "おひさまとのなかっぽくらい",
+    "roma": "ohisama to no nakappo kurai",
+    "roma_mom": "oiaa o o aao uai"
+  },
+  {
+    "start": 199.68,
+    "end": 200.7,
+    "line": "楽しい",
+    "hira": "たのしい",
+    "roma": "tanoshii",
+    "roma_mom": "aoii"
+  },
+  {
+    "start": 200.88,
+    "end": 201.9,
+    "line": "楽しい",
+    "hira": "たのしい",
+    "roma": "tanoshii",
+    "roma_mom": "aoii"
+  },
+  {
+    "start": 202.06,
+    "end": 203.1,
+    "line": "楽しい",
+    "hira": "たのしい",
+    "roma": "tanoshii",
+    "roma_mom": "aoii"
+  },
+  {
+    "start": 203.3,
+    "end": 204.3,
+    "line": "楽しい",
+    "hira": "たのしい",
+    "roma": "tanoshii",
+    "roma_mom": "aoii"
+  },
+  {
+    "start": 204.48,
+    "end": 205.3,
+    "line": "楽しい",
+    "hira": "たのしい",
+    "roma": "tanoshii",
+    "roma_mom": "aoii"
+  },
+  {
+    "start": 208.46,
+    "end": 210.3,
+    "line": "Dun-dun-dun-dun-dun",
+    "hira": "Dun-dun-dun-dun-dun",
+    "roma": "dundundundundun",
+    "roma_mom": "uuuuu"
+  },
+  {
+    "start": 212.66,
+    "end": 215.2,
+    "line": "Durururu dururu dururu dururu",
+    "hira": "Durururudururudururudururu",
+    "roma": "durururu dururu dururu dururu",
+    "roma_mom": "uuuu uuu uuu uuu"
+  }
+]

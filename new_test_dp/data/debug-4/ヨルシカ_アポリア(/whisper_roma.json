@@ -1,0 +1,202 @@
+[
+  {
+    "start": 4.52,
+    "end": 5.5,
+    "line": "はっ",
+    "hira": "はっ",
+    "roma": "ha",
+    "roma_mom": "a"
+  },
+  {
+    "start": 20.22,
+    "end": 23.4,
+    "line": "絵描き始めたあなたは小さく",
+    "hira": "えかきはじめたあなたはちいさく",
+    "roma": "ekaki hajimeta anata wa chiisaku",
+    "roma_mom": "eai aiea aaa a iiau"
+  },
+  {
+    "start": 23.4,
+    "end": 27.4,
+    "line": "埋め息をしたあんなに大きく",
+    "hira": "うめいきをしたあんなにおおきく",
+    "roma": "ume iki wo shita anna ni ookiku",
+    "roma_mom": "ue ii o ia aa i ooiu"
+  },
+  {
+    "start": 27.4,
+    "end": 31.4,
+    "line": "波打つ窓の光の束が",
+    "hira": "なみうつまどのひかりのたばが",
+    "roma": "namiutsu mado no hikari no taba ga",
+    "roma_mom": "aiuu ao o iai o aa a"
+  },
+  {
+    "start": 31.98,
+    "end": 37.4,
+    "line": "あなたの横顔にはめてる",
+    "hira": "あなたのよこがおにはめてる",
+    "roma": "anata no yokogao ni hameteru",
+    "roma_mom": "aaa o ooao i aeeu"
+  },
+  {
+    "start": 39.94,
+    "end": 47.0,
+    "line": "僕の体は雨の集まり あなたの指は晴れの零れ日",
+    "hira": "ぼくのからだはあめのあつまりあなたのゆびははれのこぼれひ",
+    "roma": "boku no karada wa ame no atsumari anata no yubi wa hare no kobore hi",
+    "roma_mom": "ou o aaa a ae o auai aaa o ui a ae o ooe i"
+  },
+  {
+    "start": 47.66,
+    "end": 57.0,
+    "line": "髪に弾けたインクの影が 僕らの横が彷彿してる",
+    "hira": "かみにはじけたいんくのかげがぼくらのよこがほうふつしてる",
+    "roma": "kami ni hajiketa inku no kage ga bokura no yoko ga houfutsu shiteru",
+    "roma_mom": "ai i aiea iu o ae a oua o oo a ouuu ieu"
+  },
+  {
+    "start": 58.46,
+    "end": 66.0,
+    "line": "長い夢を見た僕らは地球にいた",
+    "hira": "ながいゆめをみたぼくらはちきゅうにいた",
+    "roma": "nagai yume wo mita bokura wa chikyuu ni ita",
+    "roma_mom": "aai ue o ia oua a iuu i ia"
+  },
+  {
+    "start": 66.0,
+    "end": 74.0,
+    "line": "遠い国の誰かが突き飛び間違ったらいい",
+    "hira": "とおいくにのだれかがつきとびまちがったらいい",
+    "roma": "tooi kuni no dare ka ga tsuki tobi machigattara ii",
+    "roma_mom": "ooi ui o ae a a ui oi aiaaa ii"
+  },
+  {
+    "start": 74.0,
+    "end": 82.0,
+    "line": "あの海を見たら魂がひどく跳ねた",
+    "hira": "あのうみをみたらたましいがひどくはねた",
+    "roma": "ano umi wo mitara tamashii ga hidoku haneta",
+    "roma_mom": "ao ui o iaa aaii a iou aea"
+  },
+  {
+    "start": 82.0,
+    "end": 91.0,
+    "line": "白い魚の胸にあなたは見とれてる",
+    "hira": "しろいさかなのむねにあなたはみとれてる",
+    "roma": "shiroi sakana no mune ni anata wa mitoreteru",
+    "roma_mom": "ioi aaa o ue i aaa a ioeeu"
+  },
+  {
+    "start": 106.36,
+    "end": 109.8,
+    "line": "描き始めた あなたは小さく",
+    "hira": "えがきはじめたあなたはちいさく",
+    "roma": "egaki hajimeta anata wa chiisaku",
+    "roma_mom": "eai aiea aaa a iiau"
+  },
+  {
+    "start": 110.34,
+    "end": 113.8,
+    "line": "ため息をした あんなに大きく",
+    "hira": "ためいきをしたあんなにおおきく",
+    "roma": "tameiki wo shita anna ni ookiku",
+    "roma_mom": "aeii o ia aa i ooiu"
+  },
+  {
+    "start": 114.14,
+    "end": 117.8,
+    "line": "波打つ前夜 ためらう跡が",
+    "hira": "なみうつぜんやためらうあとが",
+    "roma": "namiutsu zenya tamerau ato ga",
+    "roma_mom": "aiuu ea aeau ao a"
+  },
+  {
+    "start": 118.08,
+    "end": 123.8,
+    "line": "あなたの指先をはねてる",
+    "hira": "あなたのゆびさきをはねてる",
+    "roma": "anata no yubisaki wo haneteru",
+    "roma_mom": "aaa o uiai o aeeu"
+  },
+  {
+    "start": 125.26,
+    "end": 129.8,
+    "line": "長い夢を見た",
+    "hira": "ながいゆめをみた",
+    "roma": "nagai yume wo mita",
+    "roma_mom": "aai ue o ia"
+  },
+  {
+    "start": 129.82,
+    "end": 133.8,
+    "line": "僕らの気球がゆく",
+    "hira": "ぼくらのききゅうがゆく",
+    "roma": "bokura no kikyuu ga yuku",
+    "roma_mom": "oua o iuu a uu"
+  },
+  {
+    "start": 133.8,
+    "end": 141.8,
+    "line": "あの日もあの空も実は天気だったらいい",
+    "hira": "あのひもあのそらもじつはてんきだったらいい",
+    "roma": "ano hi mo ano sora mo jitsu wa tenki dattara ii",
+    "roma_mom": "ao i o ao oa o iu a ei aaa ii"
+  },
+  {
+    "start": 141.8,
+    "end": 150.12,
+    "line": "あの海を見たら魂が酷く跳ねた",
+    "hira": "あのうみをみたらたましいがひどくはねた",
+    "roma": "ano umi wo mitara tamashii ga hidoku haneta",
+    "roma_mom": "ao ui o iaa aaii a iou aea"
+  },
+  {
+    "start": 150.12,
+    "end": 159.48,
+    "line": "水平線の色にあなたは見とれてる",
+    "hira": "すいへいせんのいろにあなたはみとれてる",
+    "roma": "suiheisen no iro ni anata wa mitoreteru",
+    "roma_mom": "uieie o io i aaa a ioeeu"
+  },
+  {
+    "start": 173.1,
+    "end": 181.1,
+    "line": "広い地平を見た 僕らの地球はゆく",
+    "hira": "ひろいちへいをみたぼくらのちきゅうはゆく",
+    "roma": "hiroi chihei wo mita bokura no chikyuu wa yuku",
+    "roma_mom": "ioi iei o ia oua o iuu a uu"
+  },
+  {
+    "start": 181.14,
+    "end": 189.1,
+    "line": "この夢があの日にような ほんの続きだったらいい",
+    "hira": "このゆめがあのひにようなほんのつづきだったらいい",
+    "roma": "kono yume ga ano hi ni you na honno tsuzukidattara ii",
+    "roma_mom": "oo ue a ao i i ou a oo uuiaaa ii"
+  },
+  {
+    "start": 189.1,
+    "end": 197.6,
+    "line": "あの海を見たら 魂がひどく跳ねた",
+    "hira": "あのうみをみたらたましいがひどくはねた",
+    "roma": "ano umi wo mitara tamashii ga hidoku haneta",
+    "roma_mom": "ao ui o iaa aaii a iou aea"
+  },
+  {
+    "start": 197.96,
+    "end": 205.6,
+    "line": "水平線の先を僕らは知ろうとする",
+    "hira": "すいへいせんのさきをぼくらはしろうとする",
+    "roma": "suiheisen no saki wo bokura wa shirou to suru",
+    "roma_mom": "uieie o ai o oua a iou o uu"
+  },
+  {
+    "start": 205.9,
+    "end": 214.6,
+    "line": "白い魚の群れをあなたは探してる",
+    "hira": "しろいさかなのむれをあなたはさがしてる",
+    "roma": "shiroi sakana no mure wo anata wa sagashiteru",
+    "roma_mom": "ioi aaa o ue o aaa a aaieu"
+  }
+]

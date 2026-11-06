@@ -1,0 +1,202 @@
+[
+  {
+    "start": 20.8,
+    "end": 25.1,
+    "line": "大丈夫だよ大丈夫 寝てればなんとかなるし",
+    "hira": "だいじょうぶだよだいじょうぶねてればなんとかなるし",
+    "roma": "daijoubu da yo daijoubu netereba nan to ka narushi",
+    "roma_mom": "aiouu a o aiouu eeea a o a aui"
+  },
+  {
+    "start": 25.1,
+    "end": 30.1,
+    "line": "どうしたんだい そんな顔してさ 別にどうともないよ",
+    "hira": "どうしたんだいそんなかおしてさべつにどうともないよ",
+    "roma": "dou shita n da i sonna kao shite sa betsu ni dou to mo nai yo",
+    "roma_mom": "ou ia a i oa ao ie a eu i ou o o ai o"
+  },
+  {
+    "start": 30.96,
+    "end": 35.1,
+    "line": "駅前で愛を待ちぼうけ 他にすることもないし",
+    "hira": "えきまえであいをまちぼうけほかにすることもないし",
+    "roma": "ekimae de ai wo machibouke hoka ni suru koto mo naishi",
+    "roma_mom": "eiae e ai o aioue oa i uu oo o aii"
+  },
+  {
+    "start": 35.1,
+    "end": 39.1,
+    "line": "誠実の価値も教えて欲しいわ",
+    "hira": "せいじつのかちもおしえてほしいわ",
+    "roma": "seijitsu no kachi mo oshiete hoshii wa",
+    "roma_mom": "eiiu o ai o oiee oii a"
+  },
+  {
+    "start": 39.84,
+    "end": 44.1,
+    "line": "ことなかれ 愛など忘れておくんだ",
+    "hira": "ことなかれあいなどわすれておくんだ",
+    "roma": "koto nakare ai nado wasurete oku n da",
+    "roma_mom": "oo aae ai ao auee ou a"
+  },
+  {
+    "start": 44.1,
+    "end": 49.1,
+    "line": "もし苦しいことだって 何でも教えておくれ",
+    "hira": "もしくるしいことだってなんでもおしえておくれ",
+    "roma": "moshi kurushii koto da tte nan de mo oshiete okure",
+    "roma_mom": "oi uuii oo a e a e o oiee oue"
+  },
+  {
+    "start": 49.22,
+    "end": 55.0,
+    "line": "さよならかげろの一つがいいなら忘れた方がマシ",
+    "hira": "さよならかげろのひとつがいいならわすれたほうがまし",
+    "roma": "sayonara ka gero no hitotsu ga iinara wasureta hou ga mashi",
+    "roma_mom": "aoaa a eo o iou a iiaa auea ou a ai"
+  },
+  {
+    "start": 55.0,
+    "end": 58.8,
+    "line": "線のない言葉が聞いてられないわ",
+    "hira": "せんのないことばがきいてられないわ",
+    "roma": "sen no nai kotoba ga kiiterarenai wa",
+    "roma_mom": "e o ai ooa a iieaeai a"
+  },
+  {
+    "start": 59.64,
+    "end": 61.3,
+    "line": "言いたくないわ",
+    "hira": "いいたくないわ",
+    "roma": "iitaku nai wa",
+    "roma_mom": "iiau ai a"
+  },
+  {
+    "start": 81.4,
+    "end": 85.7,
+    "line": "大丈夫 どれだけ吐いても言葉は言い足りないし",
+    "hira": "だいじょうぶどれだけはいてもことばはいいたりないし",
+    "roma": "daijoubu dore dake haite mo kotoba wa iitarinaishi",
+    "roma_mom": "aiouu oe ae aie o ooa a iiaiaii"
+  },
+  {
+    "start": 85.7,
+    "end": 89.5,
+    "line": "どうしたんだい?あんたにわかるかい?この憂いが",
+    "hira": "どうしたんだい?あんたにわかるかい?このうれいが",
+    "roma": "dou shita n da i anta ni wakaru ka i kono urei ga",
+    "roma_mom": "ou ia a i aa i aau a i oo uei a"
+  },
+  {
+    "start": 91.54,
+    "end": 95.8,
+    "line": "玄関で愛を待ちぼうけ 囁く声でやえいで",
+    "hira": "げんかんであいをまちぼうけささやくこえでやえいで",
+    "roma": "genkan de ai wo machibouke sasayaku koe de yae ide",
+    "roma_mom": "ea e ai o aioue aaau oe e ae ie"
+  },
+  {
+    "start": 95.8,
+    "end": 99.2,
+    "line": "後悔の会を教えて欲しいわ",
+    "hira": "こうかいのかいをおしえてほしいわ",
+    "roma": "koukai no kai wo oshiete hoshii wa",
+    "roma_mom": "ouai o ai o oiee oii a"
+  },
+  {
+    "start": 100.68,
+    "end": 105.6,
+    "line": "加減王や今日なるのか 忘れておくんなもし",
+    "hira": "かげんおうやきょうなるのかわすれておくんなもし",
+    "roma": "kagen ou ya kyou naru no ka wasurete oku n na moshi",
+    "roma_mom": "ae ou a ou au o a auee ou a oi"
+  },
+  {
+    "start": 105.76,
+    "end": 109.6,
+    "line": "悲しいことなしの愛だけ歌っておくれ",
+    "hira": "かなしいことなしのあいだけうたっておくれ",
+    "roma": "kanashii koto nashi no ai dake utatte okure",
+    "roma_mom": "aaii oo ai o ai ae uae oue"
+  },
+  {
+    "start": 109.6,
+    "end": 115.6,
+    "line": "しまいは くちづけ ひとつかいも 言わないおだまし",
+    "hira": "しまいはくちづけひとつかいもいわないおだまし",
+    "roma": "shimai wa kuchizuke hitotsukai mo iwanai odamashi",
+    "roma_mom": "iai a uiue iouai o iaai oaai"
+  },
+  {
+    "start": 115.6,
+    "end": 119.6,
+    "line": "せんのないことでも 忘れられないわ",
+    "hira": "せんのないことでもわすれられないわ",
+    "roma": "sen no nai koto de mo wasurerarenai wa",
+    "roma_mom": "e o ai oo e o aueaeai a"
+  },
+  {
+    "start": 120.2,
+    "end": 121.6,
+    "line": "知りたくないわ",
+    "hira": "しりたくないわ",
+    "roma": "shiritaku nai wa",
+    "roma_mom": "iiau ai a"
+  },
+  {
+    "start": 146.3,
+    "end": 148.5,
+    "line": "いつか忘れてしまうのでしょう",
+    "hira": "いつかわすれてしまうのでしょう",
+    "roma": "itsu ka wasurete shimau no deshou",
+    "roma_mom": "iu a auee iau o eou"
+  },
+  {
+    "start": 148.5,
+    "end": 149.5,
+    "line": "苦しいの",
+    "hira": "くるしいの",
+    "roma": "kurushii no",
+    "roma_mom": "uuii o"
+  },
+  {
+    "start": 149.5,
+    "end": 179.5,
+    "line": "ラララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララララ",
+    "hira": "ららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららららら",
+    "roma": "rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rararararara rarararararararararararararararararararararararara",
+    "roma_mom": "aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaa aaaaaaaaaaaaaaaaaaaaaaaaa"
+  },
+  {
+    "start": 179.5,
+    "end": 183.3,
+    "line": "ないことだって聞かせてもっと",
+    "hira": "ないことだってきかせてもっと",
+    "roma": "nai koto da tte kikasete motto",
+    "roma_mom": "ai oo a e iaee oo"
+  },
+  {
+    "start": 183.3,
+    "end": 186.1,
+    "line": "愛して欲しいわ",
+    "hira": "あいしてほしいわ",
+    "roma": "aishite hoshii wa",
+    "roma_mom": "aiie oii a"
+  },
+  {
+    "start": 186.24,
+    "end": 188.6,
+    "line": "ムッタルヌヌッタ",
+    "hira": "むったるぬぬった",
+    "roma": "muttarununutta",
+    "roma_mom": "uauuua"
+  },
+  {
+    "start": 188.76,
+    "end": 191.3,
+    "line": "ムッタルヌヌッタ",
+    "hira": "むったるぬぬった",
+    "roma": "muttarununutta",
+    "roma_mom": "uauuua"
+  }
+]

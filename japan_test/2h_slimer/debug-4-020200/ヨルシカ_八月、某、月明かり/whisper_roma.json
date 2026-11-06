@@ -1,0 +1,298 @@
+[
+  {
+    "start": 1.76,
+    "end": 3.0,
+    "line": "何もいらない",
+    "hira": "なんもいらない",
+    "roma": "nan mo iranai",
+    "roma_mom": "a o iaai"
+  },
+  {
+    "start": 24.54,
+    "end": 29.0,
+    "line": "心臓がうるさかった 歩く度 気が詰まった",
+    "hira": "しんぞうがうるさかったふくどきがつまった",
+    "roma": "shinzou ga urusakatta fu ku do ki ga tsumatta",
+    "roma_mom": "iou a uuaaa u u o i a uaa"
+  },
+  {
+    "start": 29.76,
+    "end": 37.0,
+    "line": "初めてバイト逃げ出した 音楽も生活も もうどうでもよかった",
+    "hira": "はじめてばいとにげだしたおんがくもせいかつももうどうでもよかった",
+    "roma": "hajimete baito nigedashita ongaku mo seikatsu mo mou dou de mo yokatta",
+    "roma_mom": "aiee aio ieaia oau o eiau o ou ou e o oaa"
+  },
+  {
+    "start": 37.38,
+    "end": 41.0,
+    "line": "ただ気に食わないものばかりが増えた",
+    "hira": "ただきにくわないものばかりがふえた",
+    "roma": "tada ki ni kuwanai mono bakari ga fueta",
+    "roma_mom": "aa i i uaai oo aai a uea"
+  },
+  {
+    "start": 42.0,
+    "end": 50.0,
+    "line": "8月号月明かり自転車で飛んで 東不思議の高架橋 古代ラフじみ通り途上展開",
+    "hira": "8がつごうつきあかりじてんしゃでとんでひがしふしぎのこうかきょうこだいらふじみとおりとじょうてんかい",
+    "roma": "gatsu gou tsukiakari jitensha de tonde higashi fushigi no koukakyou kodai rafujimi toori tojou tenkai",
+    "roma_mom": "au ou uiaai iea e oe iai uii o ouaou oai auii ooi oou eai"
+  },
+  {
+    "start": 50.0,
+    "end": 54.4,
+    "line": "夜風が花を潰すぐった この胸の痛みは気のせいだ",
+    "hira": "よかぜがはなをつぶすぐったこのむねのいたみはきのせいだ",
+    "roma": "yokaze ga hana wo tsubusu gut ta kono mune no itami wa ki no sei da",
+    "roma_mom": "oae a aa o uuu u a oo ue o iai a i o ei a"
+  },
+  {
+    "start": 54.4,
+    "end": 57.3,
+    "line": "分かっただ わかった 振り下",
+    "hira": "わかっただわかったふりした",
+    "roma": "wakat tada wakatta furi shita",
+    "roma_mom": "aa aa aaa ui ia"
+  },
+  {
+    "start": 61.08,
+    "end": 69.2,
+    "line": "最低だ 最低だ 僕の全部最低だ 君を形し残したかった 想い出になんてしてやるもんか",
+    "hira": "さいていださいていだぼくのぜんぶさいていだきみをかたちしのこしたかったおもいでになんてしてやるもんか",
+    "roma": "saitei da saitei da boku no zenbu saitei da kimi wo katachi shinokoshitakatta omoide ni nante shite yaru mon ka",
+    "roma_mom": "aiei a aiei a ou o eu aiei a ii o aai iooiaaa ooie i ae ie au o a"
+  },
+  {
+    "start": 69.2,
+    "end": 78.2,
+    "line": "最低だ 最低だ 気持ちよくて仕方がないわ 最低 だってこの歌詞自体が",
+    "hira": "さいていださいていだきもちよくてしかたがないわさいていだってこのかしじたいが",
+    "roma": "saitei da saitei da kimochi yokute shikata ga nai wa saitei da tte kono kashi jitai ga",
+    "roma_mom": "aiei a aiei a ioi oue iaa a ai a aiei a e oo ai iai a"
+  },
+  {
+    "start": 78.8,
+    "end": 83.2,
+    "line": "人生27で死ねるならロックンロールは僕を救った",
+    "hira": "じんせい27でしねるならろっくんろーるはぼくをすくった",
+    "roma": "jinsei de shinerunara rokkunrooru wa boku wo sukutta",
+    "roma_mom": "iei e ieuaa ouoou a ou o uua"
+  },
+  {
+    "start": 83.2,
+    "end": 87.2,
+    "line": "考えるのもやめだ 同性死ぬんだから",
+    "hira": "かんがえるのもやめだどうせいしぬんだから",
+    "roma": "kangaeru no mo yameda dousei shinu n dakara",
+    "roma_mom": "aaeu o o aea ouei iu aaa"
+  },
+  {
+    "start": 87.54,
+    "end": 90.2,
+    "line": "君も何もいらない",
+    "hira": "きみもなんもいらない",
+    "roma": "kimi mo nan mo iranai",
+    "roma_mom": "ii o a o iaai"
+  },
+  {
+    "start": 111.76,
+    "end": 116.2,
+    "line": "心臓がうるさかった 笑うほど喉が渇いた",
+    "hira": "しんぞうがうるさかったわらうほどのどがかわいた",
+    "roma": "shinzou ga urusakatta warau hodo nodo ga kawaita",
+    "roma_mom": "iou a uuaaa aau oo oo a aaia"
+  },
+  {
+    "start": 117.02,
+    "end": 119.2,
+    "line": "初めて心を売り出した",
+    "hira": "はじめてこころをうりだした",
+    "roma": "hajimete kokoro wo uridashita",
+    "roma_mom": "aiee ooo o uiaia"
+  },
+  {
+    "start": 120.02,
+    "end": 124.2,
+    "line": "強心もプライドも もうどうでもよかった",
+    "hira": "きょうしんもぷらいどももうどうでもよかった",
+    "roma": "kyoushin mo puraido mo mou dou de mo yokatta",
+    "roma_mom": "oui o uaio o ou ou e o oaa"
+  },
+  {
+    "start": 124.64,
+    "end": 128.2,
+    "line": "気に食わない奴にも頭を下げた",
+    "hira": "きにくわないやつにもあたまをさげた",
+    "roma": "ki ni kuwanai yatsu ni mo atama wo sageta",
+    "roma_mom": "i i uaai au i o aaa o aea"
+  },
+  {
+    "start": 129.28,
+    "end": 133.2,
+    "line": "8月号あの頃の景色をまたいだ",
+    "hira": "8がつごうあのころのけしきをまたいだ",
+    "roma": "gatsu gou ano koro no keshiki wo mataida",
+    "roma_mom": "au ou ao oo o eii o aaia"
+  },
+  {
+    "start": 133.66,
+    "end": 137.2,
+    "line": "ストックホルムのロテンション キレナがムラスタンは石畳",
+    "hira": "すとっくほるむのろてんしょんきれながむらすたんはいしだたみ",
+    "roma": "sutokkuhorumu no rotenshon kirena ga mura sutan wa ishidatami",
+    "roma_mom": "uououu o oeo iea a ua ua a iiaai"
+  },
+  {
+    "start": 137.2,
+    "end": 142.2,
+    "line": "君だけを胸にしまった この空の青さも気のせいだ",
+    "hira": "きみだけをむねにしまったこのそらのあおさもきのせいだ",
+    "roma": "kimi dake wo mune ni shimatta kono sora no aosa mo ki no sei da",
+    "roma_mom": "ii ae o ue i iaa oo oa o aoa o i o ei a"
+  },
+  {
+    "start": 142.22,
+    "end": 145.2,
+    "line": "笑ったか 笑った顔のまま",
+    "hira": "わらったかわらったかおのまま",
+    "roma": "waratta ka waratta kao no mama",
+    "roma_mom": "aaa a aaa ao o aa"
+  },
+  {
+    "start": 148.04,
+    "end": 152.5,
+    "line": "最低だ 傲慢だ 君もみんなどんよくた",
+    "hira": "さいていだごうまんだきみもみんなどんよくた",
+    "roma": "saitei da gouman da kimi mo minna donyoku ta",
+    "roma_mom": "aiei a oua a ii o ia oou a"
+  },
+  {
+    "start": 152.5,
+    "end": 156.5,
+    "line": "ドラマチックな歌も愛もさ バカらしくて仕方がないわ",
+    "hira": "どらまちっくなうたもあいもさばからしくてしかたがないわ",
+    "roma": "doramachikku na uta mo ai mo sa bakarashikute shikata ga nai wa",
+    "roma_mom": "oaaiu a ua o ai o a aaaiue iaa a ai a"
+  },
+  {
+    "start": 156.5,
+    "end": 161.5,
+    "line": "知っていた 知っていた 君の人生 君のものだ",
+    "hira": "しっていたしっていたきみのじんせいくんのものだ",
+    "roma": "shitte ita shitte ita kimi no jinseikun no mono da",
+    "roma_mom": "ie ia ie ia ii o ieiu o oo a"
+  },
+  {
+    "start": 161.72,
+    "end": 165.5,
+    "line": "最低だって いくら叫ぼうが",
+    "hira": "さいていだっていくらさけぼうが",
+    "roma": "saitei da tte ikura sakebouga",
+    "roma_mom": "aiei a e iua aeoua"
+  },
+  {
+    "start": 166.02,
+    "end": 170.5,
+    "line": "そうだ きっとそうだ あの世ではロックンロールが流れてるんだ",
+    "hira": "そうだきっとそうだあのよではろっくんろーるがながれてるんだ",
+    "roma": "sou da kitto sou da anoyo de wa rokkunrooru ga nagareteru n da",
+    "roma_mom": "ou a io ou a aoo e a ouoou a aaeeu a"
+  },
+  {
+    "start": 170.5,
+    "end": 174.5,
+    "line": "三微化とか流行らない 神様がいないんだから",
+    "hira": "さんびかとかはやらないかみさまがいないんだから",
+    "roma": "san bika to ka hayaranai kamisama ga inai n dakara",
+    "roma_mom": "a ia o a aaaai aiaa a iai aaa"
+  },
+  {
+    "start": 174.84,
+    "end": 180.4,
+    "line": "罪も 誤ちも 犯罪も 自殺も 戦争も マイナリティも",
+    "hira": "つみもあやまちもはんざいもじさつもせんそうもまいなりてぃも",
+    "roma": "tsumi mo ayamachi mo hanzai mo jisatsu mo sensou mo mainariti mo",
+    "roma_mom": "ui o aaai o aai o iau o eou o aiaii o"
+  },
+  {
+    "start": 180.7,
+    "end": 182.4,
+    "line": "全部知らない",
+    "hira": "ぜんぶしらない",
+    "roma": "zenbu shiranai",
+    "roma_mom": "eu iaai"
+  },
+  {
+    "start": 202.92,
+    "end": 211.2,
+    "line": "最低だ 最低だ 別れなんてごまんだ 君の全てにうなずけたいんだ そんなの欺瞞となし絶えれば",
+    "hira": "さいていださいていだわかれなんてごまんだきみのすべてにうなずけたいんだそんなのぎまんとなしたえれば",
+    "roma": "saitei da saitei da wakare nante goma n da kimi no subete ni unazuketai n da sonna no giman to nashi taereba",
+    "roma_mom": "aiei a aiei a aae ae oa a ii o uee i uaueai a oa o ia o ai aeea"
+  },
+  {
+    "start": 211.2,
+    "end": 219.2,
+    "line": "最低だ 最低だ 愛おしくて仕方がないわ ドラマジックな夜で僕を痛みたい",
+    "hira": "さいていださいていだいとおしくてしかたがないわどらまじっくなよるでぼくをいたみたい",
+    "roma": "saitei da saitei da itooshikute shikata ga nai wa dora majikku na yoru de boku wo itamitai",
+    "roma_mom": "aiei a aiei a iooiue iaa a ai a oa aiu a ou e ou o iaiai"
+  },
+  {
+    "start": 220.36,
+    "end": 228.2,
+    "line": "最低だ 最低だ 言葉なんて情緒だ 君の人生は月明かりだ ありがちだなんて言わせるもんか",
+    "hira": "さいていださいていだことばなんてじょうちょだきみのじんせいはつきあかりだありがちだなんていわせるもんか",
+    "roma": "saitei da saitei da kotoba nante joucho da kimi no jinsei wa tsukiakari da arigachi da nante iwaseru mon ka",
+    "roma_mom": "aiei a aiei a ooa ae ouo a ii o iei a uiaai a aiai a ae iaeu o a"
+  },
+  {
+    "start": 228.2,
+    "end": 233.2,
+    "line": "最低だ 最低だ 笑われたって仕方がないわ",
+    "hira": "さいていださいていだわらわれたってしかたがないわ",
+    "roma": "saitei da saitei da warawareta tte shikata ga nai wa",
+    "roma_mom": "aiei a aiei a aaaea e iaa a ai a"
+  },
+  {
+    "start": 233.2,
+    "end": 237.2,
+    "line": "最低 なんて このだけの歌詞だ",
+    "hira": "さいていなんてこのだけのかしだ",
+    "roma": "saitei nante kono dake no kashi da",
+    "roma_mom": "aiei ae oo ae o ai a"
+  },
+  {
+    "start": 238.06,
+    "end": 242.2,
+    "line": "人生27で死ねるなら ロックンロールは僕を救った",
+    "hira": "じんせい27でしねるならろっくんろーるはぼくをすくった",
+    "roma": "jinsei de shinerunara rokkunrooru wa boku wo sukutta",
+    "roma_mom": "iei e ieuaa ouoou a ou o uua"
+  },
+  {
+    "start": 242.2,
+    "end": 246.2,
+    "line": "考えるのもやめだ どうせ死ぬんだから",
+    "hira": "かんがえるのもやめだどうせしぬんだから",
+    "roma": "kangaeru no mo yameda douse shinu n dakara",
+    "roma_mom": "aaeu o o aea oue iu aaa"
+  },
+  {
+    "start": 246.2,
+    "end": 254.2,
+    "line": "今も 愛も 過去も 夢も",
+    "hira": "いまもあいもかこもゆめも",
+    "roma": "ima mo ai mo kako mo yume mo",
+    "roma_mom": "ia o ai o ao o ue o"
+  },
+  {
+    "start": 255.1,
+    "end": 271.2,
+    "line": "思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない",
+    "hira": "おもいでもはなうたもうすいゆめもよるかすみもやさしさもくるしさもかでんうさもゆううつもあのなつもこのうたもぎぜんもよかぜもうそもきみもぼくもてんじょうもなんもいらない",
+    "roma": "omoide mo hana uta mo usui yume mo yoru kasumi mo yasashisa mo kurushisa mo kaden usa mo yuuutsu mo ano natsu mo kono uta mo gizen mo yokaze mo uso mo kimi mo boku mo tenjou mo nan mo iranai",
+    "roma_mom": "ooie o aa ua o uui ue o ou aui o aaia o uuia o ae ua o uuuu o ao au o oo ua o ie o oae o uo o ii o ou o eou o a o iaai"
+  }
+]

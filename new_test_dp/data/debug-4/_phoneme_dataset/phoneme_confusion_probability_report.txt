@@ -1,0 +1,103 @@
+================================================================================================
+PHONEME CONFUSION PROBABILITY REPORT
+================================================================================================
+Reviewed phonemes       : b, ch, d, f, g, h, j, k, m, n, p, r, s, sh, t, ts, w, z
+Accepted review units   : 61
+Selected SUB count      : 61
+Unique SUB pairs        : 34
+INCLUDE_VOWELS          : False
+INCLUDE_Q               : False
+
+WHAT THIS REPORT CALCULATES
+------------------------------------------------------------------------------------------------
+This report uses only human-reviewed substitution errors
+(review.use_for_matrix == True).
+
+For each Lyrics phoneme, it first counts all reviewed
+substitution errors produced from that source phoneme.
+
+Then each pair is converted to:
+
+    pair_count / all_substitution_errors_from_that_Lyrics_phoneme
+
+Example:
+    d -> t = 6
+    d -> b = 1
+    total errors from d = 7
+
+    d -> t = 6 / 7 = 0.8571
+    d -> b = 1 / 7 = 0.1429
+
+IMPORTANT
+------------------------------------------------------------------------------------------------
+These values describe the current reviewed confusion distribution.
+They are NOT yet the final Needleman-Wunsch substitution scores.
+Sample-size confidence / smoothing / score mapping can be added later.
+
+================================================================================================
+REVIEWED SUBSTITUTION STATISTICS
+================================================================================================
+  Lyrics      ASR    Count    Songs  SourceErr   P(Target|Source,Error)
+------------------------------------------------------------------------------------------------
+       b        g        2        1          4                   0.5000
+       b        m        1        1          4                   0.2500
+       b        r        1        1          4                   0.2500
+      ch        j        1        1          2                   0.5000
+      ch       sh        1        1          2                   0.5000
+       d        t        6        3          8                   0.7500
+       d        b        1        1          8                   0.1250
+       d        n        1        1          8                   0.1250
+       f        k        2        2          4                   0.5000
+       f        n        1        1          4                   0.2500
+       f        p        1        1          4                   0.2500
+       g        k        4        3          4                   1.0000
+       j        d        1        1          1                   1.0000
+       k       ch        3        2          7                   0.4286
+       k        g        2        2          7                   0.2857
+       k        f        1        1          7                   0.1429
+       k        t        1        1          7                   0.1429
+       m        b        2        1          7                   0.2857
+       m        n        2        1          7                   0.2857
+       m        w        2        2          7                   0.2857
+       m        g        1        1          7                   0.1429
+       n        m        3        3          3                   1.0000
+       p        t        2        2          2                   1.0000
+       r        n        5        4          8                   0.6250
+       r        d        2        1          8                   0.2500
+       r        m        1        1          8                   0.1250
+       s        z        2        2          2                   1.0000
+      sh        j        1        1          1                   1.0000
+       t        b        2        2          5                   0.4000
+       t        d        2        2          5                   0.4000
+       t        n        1        1          5                   0.2000
+       w        h        1        1          1                   1.0000
+       z        s        1        1          2                   0.5000
+       z       ts        1        1          2                   0.5000
+
+====================================================================================================
+PHONEME CONFUSION PROBABILITY MATRIX
+Row = Lyrics / Column = ASR
+
+Value = P(ASR target | Lyrics source, substitution error)
+Range = 0.0 ~ 1.0
+NOTE: This is NOT the final Needleman-Wunsch substitution score.
+====================================================================================================
+  L\ASR      b     ch      d      f      g      h      j      k      m      n      p      r      s     sh      t     ts      w      z
+      b      -      -      -      -  0.500      -      -      -  0.250      -      -  0.250      -      -      -      -      -      -
+     ch      -      -      -      -      -      -  0.500      -      -      -      -      -      -  0.500      -      -      -      -
+      d  0.125      -      -      -      -      -      -      -      -  0.125      -      -      -      -  0.750      -      -      -
+      f      -      -      -      -      -      -      -  0.500      -  0.250  0.250      -      -      -      -      -      -      -
+      g      -      -      -      -      -      -      -  1.000      -      -      -      -      -      -      -      -      -      -
+      h      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -
+      j      -      -  1.000      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -
+      k      -  0.429      -  0.143  0.286      -      -      -      -      -      -      -      -      -  0.143      -      -      -
+      m  0.286      -      -      -  0.143      -      -      -      -  0.286      -      -      -      -      -      -  0.286      -
+      n      -      -      -      -      -      -      -      -  1.000      -      -      -      -      -      -      -      -      -
+      p      -      -      -      -      -      -      -      -      -      -      -      -      -      -  1.000      -      -      -
+      r      -      -  0.250      -      -      -      -      -  0.125  0.625      -      -      -      -      -      -      -      -
+      s      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -  1.000
+     sh      -      -      -      -      -      -  1.000      -      -      -      -      -      -      -      -      -      -      -
+      t  0.400      -  0.400      -      -      -      -      -      -  0.200      -      -      -      -      -      -      -      -
+     ts      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -
+      w      -      -      -      -      -  1.000      -      -      -      -      -      -      -      -      -      -      -      -
+      z      -      -      -      -      -      -      -      -      -      -      -      -  0.500      -      -  0.500      -      -

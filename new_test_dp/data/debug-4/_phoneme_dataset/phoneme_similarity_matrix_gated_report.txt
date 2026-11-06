@@ -1,0 +1,116 @@
+================================================================================================
+GATED PHONEME SUBSTITUTION SIMILARITY REPORT
+================================================================================================
+Reviewed phonemes          : b, ch, d, f, g, h, j, k, m, n, p, r, s, sh, t, ts, w, z
+Accepted review units      : 53
+Selected MATCH count       : 5364
+Selected SUB count         : 53
+Passed substitution pairs  : 11
+Blocked substitution pairs : 19
+
+PARAMETERS
+------------------------------------------------------------------------------------------------
+MATCH_SCORE                = 1.0
+UNSEEN_MISMATCH_SCORE      = 0.0
+MAX_SUB_SIMILARITY         = 0.8
+MIN_PAIR_COUNT             = 2
+MIN_SONG_COUNT             = 2
+SATURATION_K               = 2.0
+INCLUDE_VOWELS             = False
+INCLUDE_Q                  = False
+
+EVIDENCE GATE
+------------------------------------------------------------------------------------------------
+A substitution receives a positive score only when:
+    raw_count >= MIN_PAIR_COUNT
+and song_count >= MIN_SONG_COUNT
+
+Otherwise the substitution score remains exactly 0.0,
+the same as an ordinary unseen mismatch.
+
+SCORING FORMULA
+------------------------------------------------------------------------------------------------
+1. Exact match:
+   S(l,l) = MATCH_SCORE
+
+2. Reviewed substitution that FAILS the evidence gate:
+   S(l,w) = UNSEEN_MISMATCH_SCORE = 0.0
+
+3. Reviewed substitution that PASSES the evidence gate:
+   effective_count = count - MIN_PAIR_COUNT + 1
+
+   S(l,w) = MAX_SUB_SIMILARITY
+            * effective_count
+            / (effective_count + SATURATION_K)
+
+4. Unseen mismatch:
+   S(l,w) = 0.0
+
+IMPORTANT
+------------------------------------------------------------------------------------------------
+P(ASR|Lyrics) is printed only as descriptive statistics.
+It does NOT directly determine the similarity score.
+
+The similarity score is evidence-driven:
+repeated substitutions across multiple songs receive bonus;
+single / isolated observations remain ordinary mismatches.
+
+================================================================================================
+REVIEWED SUBSTITUTION EVIDENCE
+================================================================================================
+  Lyrics      ASR    Count    Songs    P(ASR|Lyrics)     Gate      Score
+------------------------------------------------------------------------------
+       d        t        6        3         1.8576%     PASS     0.5714
+       g        k        4        3         2.3810%     PASS     0.4800
+       r        n        4        3         0.7937%     PASS     0.4800
+       k       ch        3        2         0.3989%     PASS     0.4000
+       n        m        3        3         0.3464%     PASS     0.4000
+       b        g        2        1         1.4493%    BLOCK     0.0000
+       f        k        2        2         4.0816%     PASS     0.2667
+       k        g        2        2         0.2660%     PASS     0.2667
+       m        b        2        1         0.3774%    BLOCK     0.0000
+       p        t        2        2        11.1111%     PASS     0.2667
+       s        z        2        2         0.6920%     PASS     0.2667
+       t        b        2        2         0.2959%     PASS     0.2667
+       t        d        2        2         0.2959%     PASS     0.2667
+       b        m        1        1         0.7246%    BLOCK     0.0000
+       b        r        1        1         0.7246%    BLOCK     0.0000
+      ch        j        1        1         2.2222%    BLOCK     0.0000
+      ch       sh        1        1         2.2222%    BLOCK     0.0000
+       d        b        1        1         0.3096%    BLOCK     0.0000
+       f        n        1        1         2.0408%    BLOCK     0.0000
+       f        p        1        1         2.0408%    BLOCK     0.0000
+       j        d        1        1         2.5641%    BLOCK     0.0000
+       k        f        1        1         0.1330%    BLOCK     0.0000
+       m        g        1        1         0.1887%    BLOCK     0.0000
+       m        w        1        1         0.1887%    BLOCK     0.0000
+       r        d        1        1         0.1984%    BLOCK     0.0000
+      sh        j        1        1         0.4348%    BLOCK     0.0000
+       t        n        1        1         0.1479%    BLOCK     0.0000
+       w        h        1        1         0.3676%    BLOCK     0.0000
+       z        s        1        1         1.0526%    BLOCK     0.0000
+       z       ts        1        1         1.0526%    BLOCK     0.0000
+
+====================================================================================================
+PHONEME SUBSTITUTION SIMILARITY MATRIX
+Row = Lyrics / Column = ASR
+====================================================================================================
+  L\ASR      b     ch      d      f      g      h      j      k      m      n      p      r      s     sh      t     ts      w      z
+      b  1.000      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -
+     ch      -  1.000      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -
+      d      -      -  1.000      -      -      -      -      -      -      -      -      -      -      -  0.571      -      -      -
+      f      -      -      -  1.000      -      -      -  0.267      -      -      -      -      -      -      -      -      -      -
+      g      -      -      -      -  1.000      -      -  0.480      -      -      -      -      -      -      -      -      -      -
+      h      -      -      -      -      -  1.000      -      -      -      -      -      -      -      -      -      -      -      -
+      j      -      -      -      -      -      -  1.000      -      -      -      -      -      -      -      -      -      -      -
+      k      -  0.400      -      -  0.267      -      -  1.000      -      -      -      -      -      -      -      -      -      -
+      m      -      -      -      -      -      -      -      -  1.000      -      -      -      -      -      -      -      -      -
+      n      -      -      -      -      -      -      -      -  0.400  1.000      -      -      -      -      -      -      -      -
+      p      -      -      -      -      -      -      -      -      -      -  1.000      -      -      -  0.267      -      -      -
+      r      -      -      -      -      -      -      -      -      -  0.480      -  1.000      -      -      -      -      -      -
+      s      -      -      -      -      -      -      -      -      -      -      -      -  1.000      -      -      -      -  0.267
+     sh      -      -      -      -      -      -      -      -      -      -      -      -      -  1.000      -      -      -      -
+      t  0.267      -  0.267      -      -      -      -      -      -      -      -      -      -      -  1.000      -      -      -
+     ts      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -  1.000      -      -
+      w      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -  1.000      -
+      z      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -      -  1.000

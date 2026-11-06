@@ -1,0 +1,386 @@
+[
+  {
+    "start": 1.2,
+    "end": 5.5,
+    "line": "夕日を飲み込んだコップがルビーみたいだ",
+    "hira": "ゆうひをのみこんだこっぷがるびーみたいだ",
+    "roma": "yuuhi wo nomikonda koppu ga rubii mitai da",
+    "roma_mom": "uui o oioa ou a uii iai a"
+  },
+  {
+    "start": 5.5,
+    "end": 11.5,
+    "line": "飲みかけの土曜の生活感をテーブルに置いて",
+    "hira": "のみかけのどようのせいかつかんをてーぶるにおいて",
+    "roma": "nomikake no doyou no seikatsu kan wo teeburu ni oite",
+    "roma_mom": "oiae o oou o eiau a o eeuu i oie"
+  },
+  {
+    "start": 12.7,
+    "end": 16.5,
+    "line": "花瓶の白い花 優しすぎて枯れたみたいだ",
+    "hira": "かびんのしろいはなやさしすぎてかれたみたいだ",
+    "roma": "kabin no shiroi hana yasashi sugite kareta mitai da",
+    "roma_mom": "ai o ioi aa aai uie aea iai a"
+  },
+  {
+    "start": 16.5,
+    "end": 22.5,
+    "line": "本当に大事だったのに そろそろ変えなければ",
+    "hira": "ほんとうにだいじだったのにそろそろかえなければ",
+    "roma": "hontou ni daiji datta no ni sorosoro kaenakereba",
+    "roma_mom": "oou i aii aa o i oooo aeaeea"
+  },
+  {
+    "start": 31.2,
+    "end": 32.5,
+    "line": "夕日",
+    "hira": "ゆうひ",
+    "roma": "yuuhi",
+    "roma_mom": "uui"
+  },
+  {
+    "start": 36.02,
+    "end": 37.5,
+    "line": "本当に綺麗だね",
+    "hira": "ほんとうにきれいだね",
+    "roma": "hontou ni kirei da ne",
+    "roma_mom": "oou i iei a e"
+  },
+  {
+    "start": 37.5,
+    "end": 41.0,
+    "line": "これからさちのもっと先を描いた",
+    "hira": "これからさちのもっとさきをえがいた",
+    "roma": "kore kara sachi no motto saki wo egaita",
+    "roma_mom": "oe aa ai o oo ai o eaia"
+  },
+  {
+    "start": 41.02,
+    "end": 43.0,
+    "line": "実はないんだろうか",
+    "hira": "じつはないんだろうか",
+    "roma": "jitsu wa nai n darou ka",
+    "roma_mom": "iu a ai aou a"
+  },
+  {
+    "start": 43.06,
+    "end": 45.0,
+    "line": "迷いはしないだろうか",
+    "hira": "まよいはしないだろうか",
+    "roma": "mayoi wa shinaidarou ka",
+    "roma_mom": "aoi a iaiaou a"
+  },
+  {
+    "start": 45.0,
+    "end": 47.0,
+    "line": "それでいいから",
+    "hira": "それでいいから",
+    "roma": "sore de iikara",
+    "roma_mom": "oe e iiaa"
+  },
+  {
+    "start": 47.0,
+    "end": 49.0,
+    "line": "そのままでいいから",
+    "hira": "そのままでいいから",
+    "roma": "sono mama de iikara",
+    "roma_mom": "oo aa e iiaa"
+  },
+  {
+    "start": 49.0,
+    "end": 51.0,
+    "line": "本当はいらなかった",
+    "hira": "ほんとうはいらなかった",
+    "roma": "hontou wa iranakatta",
+    "roma_mom": "oou a iaaaa"
+  },
+  {
+    "start": 51.0,
+    "end": 55.0,
+    "line": "物もソファーも本も捨てよう",
+    "hira": "ものもそふぁーもほんもすてよう",
+    "roma": "mono mo sofaa mo hon mo suteyou",
+    "roma_mom": "oo o oaa o o o ueou"
+  },
+  {
+    "start": 62.12,
+    "end": 64.0,
+    "line": "まずいでよ",
+    "hira": "まずいでよ",
+    "roma": "mazu ideyo",
+    "roma_mom": "au ieo"
+  },
+  {
+    "start": 74.84,
+    "end": 78.9,
+    "line": "本当は僕らの心は頭にあった",
+    "hira": "ほんとうはぼくらのこころはあたまにあった",
+    "roma": "hontou wa bokura no kokoro wa atama ni atta",
+    "roma_mom": "oou a oua o ooo a aaa i aa"
+  },
+  {
+    "start": 78.9,
+    "end": 81.7,
+    "line": "何を間違えたのか",
+    "hira": "なんをまちがえたのか",
+    "roma": "nan wo machigaeta no ka",
+    "roma_mom": "a o aiaea o a"
+  },
+  {
+    "start": 82.58,
+    "end": 84.7,
+    "line": "今じゃ文字の中",
+    "hira": "いまじゃもじのなか",
+    "roma": "ima ja moji no naka",
+    "roma_mom": "ia a oi o aa"
+  },
+  {
+    "start": 86.08,
+    "end": 87.7,
+    "line": "花瓶の白い花",
+    "hira": "かびんのしろいはな",
+    "roma": "kabin no shiroi hana",
+    "roma_mom": "ai o ioi aa"
+  },
+  {
+    "start": 87.7,
+    "end": 90.2,
+    "line": "いつの間に書かれたみたいだ",
+    "hira": "いつのあいだにかかれたみたいだ",
+    "roma": "itsu no aida ni kakareta mitai da",
+    "roma_mom": "iu o aia i aaea iai a"
+  },
+  {
+    "start": 90.2,
+    "end": 92.7,
+    "line": "本当に大事だったなら",
+    "hira": "ほんとうにだいじだったなら",
+    "roma": "hontou ni daiji dattanara",
+    "roma_mom": "oou i aii aaaa"
+  },
+  {
+    "start": 92.7,
+    "end": 95.7,
+    "line": "そもそも買わなければ",
+    "hira": "そもそもかわなければ",
+    "roma": "somosomo kawanakereba",
+    "roma_mom": "oooo aaaeea"
+  },
+  {
+    "start": 99.3,
+    "end": 106.0,
+    "line": "S Believe In Ghost",
+    "hira": "SBelieveInGhost",
+    "roma": "s believe in ghost",
+    "roma_mom": "eiee i o"
+  },
+  {
+    "start": 109.4,
+    "end": 112.7,
+    "line": "それでも綺麗だね ずっと叶えたかった",
+    "hira": "それでもきれいだねずっとかなえたかった",
+    "roma": "sore de mo kirei da ne zutto kanaetakatta",
+    "roma_mom": "oe e o iei a e uo aaeaaa"
+  },
+  {
+    "start": 112.7,
+    "end": 115.7,
+    "line": "夢があなたを縛っていないだろうか",
+    "hira": "ゆめがあなたをしばっていないだろうか",
+    "roma": "yume ga anata wo shibatte inaidarou ka",
+    "roma_mom": "ue a aaa o iae iaiaou a"
+  },
+  {
+    "start": 115.7,
+    "end": 119.7,
+    "line": "それを諦めていいと言える勇気が",
+    "hira": "それをあきらめていいといえるゆうきが",
+    "roma": "sore wo akiramete ii to ieru yuuki ga",
+    "roma_mom": "oe o aiaee ii o ieu uui a"
+  },
+  {
+    "start": 119.7,
+    "end": 123.7,
+    "line": "少しでもあったら本当に欲しかった",
+    "hira": "すこしでもあったらほんとうにほしかった",
+    "roma": "sukoshi de mo attara hontou ni hoshikatta",
+    "roma_mom": "uoi e o aaa oou i oiaa"
+  },
+  {
+    "start": 123.7,
+    "end": 128.7,
+    "line": "物も鞄も天も捨てよう",
+    "hira": "ものもかばんもてんもすてよう",
+    "roma": "mono mo kaban mo ten mo suteyou",
+    "roma_mom": "oo o aa o e o ueou"
+  },
+  {
+    "start": 134.7,
+    "end": 136.7,
+    "line": "交えてよ",
+    "hira": "まじえてよ",
+    "roma": "majiete yo",
+    "roma_mom": "aiee o"
+  },
+  {
+    "start": 148.0,
+    "end": 152.5,
+    "line": "あなたの欲しがった 自分を捨ててしまった",
+    "hira": "あなたのほしがったじぶんをすててしまった",
+    "roma": "anata no hoshigat ta jibun wo sutete shimatta",
+    "roma_mom": "aaa o oia a iu o uee iaa"
+  },
+  {
+    "start": 152.5,
+    "end": 158.5,
+    "line": "本当に大事だったのに 今更思い出す",
+    "hira": "ほんとうにだいじだったのにいまさらおもいだす",
+    "roma": "hontou ni daiji datta no ni imasara omoidasu",
+    "roma_mom": "oou i aii aa o i iaaa ooiau"
+  },
+  {
+    "start": 159.52,
+    "end": 163.5,
+    "line": "花瓶の白い花 枯れたことも気づかなかった",
+    "hira": "かびんのしろいはなかれたこともきづかなかった",
+    "roma": "kabin no shiroi hana kareta koto mo kizukanakatta",
+    "roma_mom": "ai o ioi aa aea oo o iuaaaa"
+  },
+  {
+    "start": 163.5,
+    "end": 169.5,
+    "line": "本当に大事だったのは 花を変える人なのに",
+    "hira": "ほんとうにだいじだったのははなをかえるひとなのに",
+    "roma": "hontou ni daiji datta no wa hana wo kaeru hito na no ni",
+    "roma_mom": "oou i aii aa o a aa o aeu io a o i"
+  },
+  {
+    "start": 172.68,
+    "end": 177.9,
+    "line": "この multiplic tears",
+    "hira": "このmultiplictears",
+    "roma": "kono multiplic tears",
+    "roma_mom": "oo uii ea"
+  },
+  {
+    "start": 177.96,
+    "end": 179.28,
+    "line": "待って",
+    "hira": "まって",
+    "roma": "matte",
+    "roma_mom": "ae"
+  },
+  {
+    "start": 182.82,
+    "end": 184.3,
+    "line": "本当に行くんだね",
+    "hira": "ほんとうにいくんだね",
+    "roma": "hontou ni iku n da ne",
+    "roma_mom": "oou i iu a e"
+  },
+  {
+    "start": 187.14,
+    "end": 192.3,
+    "line": "これから先のもっと先を描いた 地図はないんだろうか?",
+    "hira": "これからさきのもっとさきをえがいたちずはないんだろうか?",
+    "roma": "kore kara saki no motto saki wo egaita chizu wa nai n darou ka",
+    "roma_mom": "oe aa ai o oo ai o eaia iu a ai aou a"
+  },
+  {
+    "start": 192.3,
+    "end": 194.3,
+    "line": "迷いはしないだろうか?",
+    "hira": "まよいはしないだろうか?",
+    "roma": "mayoi wa shinaidarou ka",
+    "roma_mom": "aoi a iaiaou a"
+  },
+  {
+    "start": 194.3,
+    "end": 198.3,
+    "line": "それでいいから そのままでいいから",
+    "hira": "それでいいからそのままでいいから",
+    "roma": "sore de iikara sono mama de iikara",
+    "roma_mom": "oe e iiaa oo aa e iiaa"
+  },
+  {
+    "start": 198.3,
+    "end": 204.3,
+    "line": "本当はいらなかったものも ソファーも本も捨てよう",
+    "hira": "ほんとうはいらなかったものもそふぁーもほんもすてよう",
+    "roma": "hontou wa iranakatta mono mo sofaa mo hon mo suteyou",
+    "roma_mom": "oou a iaaaa oo o oaa o o o ueou"
+  },
+  {
+    "start": 204.3,
+    "end": 206.3,
+    "line": "それでいいかな?",
+    "hira": "それでいいかな?",
+    "roma": "sore de ii ka na",
+    "roma_mom": "oe e ii a a"
+  },
+  {
+    "start": 206.3,
+    "end": 212.3,
+    "line": "あなたの夜をずっと照らす 大きな光はあるんだろうか?",
+    "hira": "あなたのよるをずっとてらすおおきなひかりはあるんだろうか?",
+    "roma": "anata no yoru wo zutto terasu ookina hikari wa aru n darou ka",
+    "roma_mom": "aaa o ou o uo eau ooia iai a au aou a"
+  },
+  {
+    "start": 212.5,
+    "end": 214.74,
+    "line": "それでも行くんだろうか",
+    "hira": "それでもいくんだろうか",
+    "roma": "sore de mo iku n darou ka",
+    "roma_mom": "oe e o iu aou a"
+  },
+  {
+    "start": 214.74,
+    "end": 216.5,
+    "line": "それでいいから",
+    "hira": "それでいいから",
+    "roma": "sore de iikara",
+    "roma_mom": "oe e iiaa"
+  },
+  {
+    "start": 216.74,
+    "end": 218.1,
+    "line": "そのままでいいから",
+    "hira": "そのままでいいから",
+    "roma": "sono mama de iikara",
+    "roma_mom": "oo aa e iiaa"
+  },
+  {
+    "start": 218.1,
+    "end": 220.9,
+    "line": "全部を読み終わった後は",
+    "hira": "ぜんぶをよみおわったあとは",
+    "roma": "zenbu wo yomi owatta ato wa",
+    "roma_mom": "eu o oi oaa ao a"
+  },
+  {
+    "start": 220.9,
+    "end": 223.9,
+    "line": "どうか目を開けて",
+    "hira": "どうかめをあけて",
+    "roma": "dou ka me wo akete",
+    "roma_mom": "ou a e o aee"
+  },
+  {
+    "start": 231.34,
+    "end": 234.1,
+    "line": "この本を捨てよう",
+    "hira": "このほんをすてよう",
+    "roma": "kono hon wo suteyou",
+    "roma_mom": "oo o o ueou"
+  },
+  {
+    "start": 234.36,
+    "end": 235.7,
+    "line": "待ち入れてよ",
+    "hira": "まちいれてよ",
+    "roma": "machiirete yo",
+    "roma_mom": "aiiee o"
+  }
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "start": 1.38,
+    "end": 4.5,
+    "line": "夜に浮かんでいた",
+    "hira": "よるにうかんでいた",
+    "roma": "yoru ni ukande ita",
+    "roma_mom": "ou i uae ia"
+  },
+  {
+    "start": 4.8,
+    "end": 8.5,
+    "line": "クラゲのような月が褐ぜた",
+    "hira": "くらげのようなつきがかちぜた",
+    "roma": "kurage no you na tsuki ga kachi ze ta",
+    "roma_mom": "uae o ou a ui a ai e a"
+  },
+  {
+    "start": 8.5,
+    "end": 11.5,
+    "line": "バス停の背を覗けば",
+    "hira": "ばすていのせをのぞけば",
+    "roma": "basutei no se wo nozokeba",
+    "roma_mom": "auei o e o ooea"
+  },
+  {
+    "start": 11.5,
+    "end": 16.5,
+    "line": "あの夏の君が頭にいる",
+    "hira": "あのなつのきみがあたまにいる",
+    "roma": "ano natsu no kimi ga atama ni iru",
+    "roma_mom": "ao au o ii a aaa i iu"
+  },
+  {
+    "start": 22.18,
+    "end": 22.78,
+    "line": "�속跡",
+    "hira": "�속あと",
+    "roma": "ato",
+    "roma_mom": "ao"
+  },
+  {
+    "start": 28.8,
+    "end": 31.3,
+    "line": "鳥居乾いた雲",
+    "hira": "とりいかわいたくも",
+    "roma": "torii kawaita kumo",
+    "roma_mom": "oii aaia uo"
+  },
+  {
+    "start": 31.3,
+    "end": 35.3,
+    "line": "夏の匂いが頬を撫でる",
+    "hira": "なつのにおいがほおをなでる",
+    "roma": "natsu no nioi ga hoo wo naderu",
+    "roma_mom": "au o ioi a oo o aeu"
+  },
+  {
+    "start": 35.3,
+    "end": 38.3,
+    "line": "大人になるまで",
+    "hira": "おとなになるまで",
+    "roma": "otona ni naru made",
+    "roma_mom": "ooa i au ae"
+  },
+  {
+    "start": 38.46,
+    "end": 41.3,
+    "line": "ほら背伸びしたままで",
+    "hira": "ほらせのびしたままで",
+    "roma": "hora senobi shita mama de",
+    "roma_mom": "oa eoi ia aa e"
+  },
+  {
+    "start": 41.3,
+    "end": 45.3,
+    "line": "遊び疲れたら",
+    "hira": "あそびつかれたら",
+    "roma": "asobitsukaretara",
+    "roma_mom": "aoiuaeaa"
+  },
+  {
+    "start": 45.96,
+    "end": 49.3,
+    "line": "バス停プラで空でも見よう",
+    "hira": "ばすていぷらでそらでもみよう",
+    "roma": "basutei pura de sora de mo miyou",
+    "roma_mom": "auei ua e oa e o iou"
+  },
+  {
+    "start": 49.4,
+    "end": 52.3,
+    "line": "月に夏が暮れても",
+    "hira": "つきになつがくれても",
+    "roma": "tsuki ni natsu ga kurete mo",
+    "roma_mom": "ui i au a uee o"
+  },
+  {
+    "start": 52.3,
+    "end": 56.3,
+    "line": "きっときっと覚えてるから",
+    "hira": "きっときっとおぼえてるから",
+    "roma": "kitto kitto oboeterukara",
+    "roma_mom": "io io ooeeuaa"
+  },
+  {
+    "start": 56.66,
+    "end": 59.8,
+    "line": "追いつけないまま大人になって",
+    "hira": "おいつけないままおとなになって",
+    "roma": "oitsukenai mama otona ni natte",
+    "roma_mom": "oiueai aa ooa i ae"
+  },
+  {
+    "start": 59.8,
+    "end": 63.0,
+    "line": "君のポケットに夜が咲く",
+    "hira": "きみのぽけっとによるがさく",
+    "roma": "kimi no poketto ni yoru ga saku",
+    "roma_mom": "ii o oeo i ou a au"
+  },
+  {
+    "start": 63.0,
+    "end": 66.6,
+    "line": "口に出せないなら僕は一人だ",
+    "hira": "くちにだせないならぼくはひとりだ",
+    "roma": "kuchi ni dasenainara boku wa hitori da",
+    "roma_mom": "ui i aeaiaa ou a ioi a"
+  },
+  {
+    "start": 66.6,
+    "end": 70.6,
+    "line": "それでいいからもう諦めてる",
+    "hira": "それでいいからもうあきらめてる",
+    "roma": "sore de iikara mou akirameteru",
+    "roma_mom": "oe e iiaa ou aiaeeu"
+  },
+  {
+    "start": 73.6,
+    "end": 74.9,
+    "line": "だけ",
+    "hira": "だけ",
+    "roma": "dake",
+    "roma_mom": "ae"
+  },
+  {
+    "start": 87.06,
+    "end": 93.5,
+    "line": "夏日 乾いた雲 ゆすな梅 錆びた標識",
+    "hira": "なつひかわいたくもゆすなうめさびたひょうしき",
+    "roma": "natsu hi kawaita kumo yu suna ume sabita hyoushiki",
+    "roma_mom": "au i aaia uo u ua ue aia ouii"
+  },
+  {
+    "start": 93.5,
+    "end": 100.5,
+    "line": "記憶の中はいつも夏の匂いがする",
+    "hira": "きおくのなかはいつもなつのにおいがする",
+    "roma": "kioku no naka wa itsu mo natsu no nioi ga suru",
+    "roma_mom": "iou o aa a iu o au o ioi a uu"
+  },
+  {
+    "start": 100.76,
+    "end": 107.5,
+    "line": "写真なんて紙切れだ 思い出なんてただのゴミだ",
+    "hira": "しゃしんなんてかみきれだおもいでなんてただのごみだ",
+    "roma": "shashin nante kamikire da omoide nante tada no gomi da",
+    "roma_mom": "ai ae aiie a ooie ae aa o oi a"
+  },
+  {
+    "start": 107.5,
+    "end": 113.5,
+    "line": "それがわからないから 朽ちを継ぐんだまま",
+    "hira": "それがわからないからくちをつぐんだまま",
+    "roma": "sore ga wakaranaikara kuchi wo tsugu n da mama",
+    "roma_mom": "oe a aaaaiaa ui o uu a aa"
+  },
+  {
+    "start": 114.52,
+    "end": 121.5,
+    "line": "絶えず君の以降 記憶に夏の石一つ",
+    "hira": "たえずきみのいこうきおくになつのいしひとつ",
+    "roma": "taezu kimi no ikou kioku ni natsu no ishi hitotsu",
+    "roma_mom": "aeu ii o iou iou i au o ii iou"
+  },
+  {
+    "start": 121.82,
+    "end": 128.5,
+    "line": "俯いたまま大人になって 追いつけない ただ君に晴れ",
+    "hira": "うつむいたままおとなになっておいつけないただくんにはれ",
+    "roma": "utsumuita mama otona ni natte oitsukenai tadakun ni hare",
+    "roma_mom": "uuuia aa ooa i ae oiueai aau i ae"
+  },
+  {
+    "start": 128.5,
+    "end": 136.5,
+    "line": "口に出せないまま坂を登った 僕らの影に夜が咲いてく",
+    "hira": "くちにだせないままさかをのぼったぼくらのかげによるがさいてく",
+    "roma": "kuchi ni dasenai mama saka wo nobotta bokura no kage ni yoru ga saiteku",
+    "roma_mom": "ui i aeai aa aa o ooa oua o ae i ou a aieu"
+  },
+  {
+    "start": 152.68,
+    "end": 159.2,
+    "line": "ぶつむいたまま大人になった 君が思うまま手を叩け",
+    "hira": "ぶつむいたままおとなになったきみがおもうままてをたたけ",
+    "roma": "butsu muita mama otona ni natta kimi ga omou mama te wo tatake",
+    "roma_mom": "uu uia aa ooa i aa ii a oou aa e o aae"
+  },
+  {
+    "start": 159.54,
+    "end": 165.2,
+    "line": "昨日落ちる坂道を登って 僕らの影は",
+    "hira": "きのうおちるさかみちをのぼってぼくらのかげは",
+    "roma": "kinou ochiru sakamichi wo nobotte bokura no kage wa",
+    "roma_mom": "iou oiu aaii o ooe oua o ae a"
+  },
+  {
+    "start": 165.2,
+    "end": 172.2,
+    "line": "ああ 追いつけないまま大人になって 君のポケットに夜が咲く",
+    "hira": "ああおいつけないままおとなになってきみのぽけっとによるがさく",
+    "roma": "aa oitsukenai mama otona ni natte kimi no poketto ni yoru ga saku",
+    "roma_mom": "aa oiueai aa ooa i ae ii o oeo i ou a au"
+  },
+  {
+    "start": 172.2,
+    "end": 179.2,
+    "line": "口に出せなくても僕ら一つだ それでいいだろもう",
+    "hira": "くちにだせなくてもぼくらひとつだそれでいいだろもう",
+    "roma": "kuchi ni dasenakute mo bokura hitotsu da sore de iidaro mou",
+    "roma_mom": "ui i aeaue o oua iou a oe e iiao ou"
+  },
+  {
+    "start": 180.08,
+    "end": 184.2,
+    "line": "君の思い出を噛み締めてる",
+    "hira": "きみのおもいでをかみしめてる",
+    "roma": "kimi no omoide wo kamishimeteru",
+    "roma_mom": "ii o ooie o aiieeu"
+  },
+  {
+    "start": 190.16,
+    "end": 191.02,
+    "line": "だって",
+    "hira": "だって",
+    "roma": "da tte",
+    "roma_mom": "a e"
+  }
+]

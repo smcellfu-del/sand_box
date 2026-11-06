@@ -1,0 +1,535 @@
+{
+  "total_score": 7.689535353514385,
+  "alignment": [
+    {
+      "type": "match",
+      "lyrics_range": [
+        0,
+        1
+      ],
+      "whisper_range": [
+        0,
+        0
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "僕に心を / 君に花束を",
+      "whisper_text": "僕に心を 君に花束を",
+      "lyrics_roma": "boku ni kokoro wo kimi ni hana taba wo",
+      "whisper_roma": "boku ni kokoro wo kimi ni hanataba wo"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        2,
+        2
+      ],
+      "whisper_range": [
+        1,
+        1
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "揺れる髪だけ靡くままにして",
+      "whisper_text": "揺れる髪だけ なびくままにして",
+      "lyrics_roma": "yureru kami dake nabiku mama ni shite",
+      "whisper_roma": "yureru kami dake nabiku mama ni shite"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        3,
+        4
+      ],
+      "whisper_range": [
+        2,
+        3
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 2,
+      "score": 0.9241749607124148,
+      "detail": {
+        "hira_score": 0.8260869565217391,
+        "roma_score": 0.9879518072289156,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "箱の中の小さい家の / 二人で並んだキッチンの小窓のカーテンの先の思い出の庭に",
+      "whisper_text": "箱の中の小さい家の 二人で並んだキッチンの / 小窓のカーテンの先の 思い出の庭に",
+      "lyrics_roma": "wa kono naka no chiisai ie no futari de naranda kitchin no koma dono kaaten no saki no omoide no niwa ni",
+      "whisper_roma": "bako no naka no chiisai ie no futari de naranda kitchin no komado no kaaten no saki no omoide no niwa ni"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        5,
+        5
+      ],
+      "whisper_range": [
+        4,
+        4
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "春の日差しを一つ埋めてたまには少しの水をやって",
+      "whisper_text": "春の日差しをひとつ埋めて たまには少しの水をやって",
+      "lyrics_roma": "haru no hiza shi wo hitotsu umete tamani wa sukoshi no mizu wo yatte",
+      "whisper_roma": "haru no hizashi wo hitotsu umete tamani wa sukoshi no mizu wo yatte"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        6,
+        6
+      ],
+      "whisper_range": [
+        5,
+        5
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "小さな枇杷が生ったとき忘れてください",
+      "whisper_text": "小さなビワが鳴った時 忘れてください",
+      "lyrics_roma": "chiisana biwa ga natta toki wasurete kudasai",
+      "whisper_roma": "chiisana biwa ga natta toki wasurete kudasai"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        7,
+        7
+      ],
+      "whisper_range": [
+        6,
+        6
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "僕に僕に僕に",
+      "whisper_text": "僕に 僕に 僕に",
+      "lyrics_roma": "boku ni boku ni boku ni",
+      "whisper_roma": "boku ni boku ni boku ni"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        8,
+        9
+      ],
+      "whisper_range": [
+        7,
+        7
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "僕に心を / 君に花束を",
+      "whisper_text": "僕に心を 君に花束を",
+      "lyrics_roma": "boku ni kokoro wo kimi ni hana taba wo",
+      "whisper_roma": "boku ni kokoro wo kimi ni hanataba wo"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        10,
+        10
+      ],
+      "whisper_range": [
+        8,
+        8
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "揺れる髪だけ靡くままにして",
+      "whisper_text": "揺れる髪だけ なびくままにして",
+      "lyrics_roma": "yureru kami dake nabiku mama ni shite",
+      "whisper_roma": "yureru kami dake nabiku mama ni shite"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        11,
+        12
+      ],
+      "whisper_range": [
+        9,
+        9
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "僕に言葉を / 君の鼻歌を",
+      "whisper_text": "僕に言葉を 君の花唄を",
+      "lyrics_roma": "boku ni kotoba wo kimi no hanauta wo",
+      "whisper_roma": "boku ni kotoba wo kimi no hana uta wo"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        13,
+        13
+      ],
+      "whisper_range": [
+        10,
+        10
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "長い長い迷路の先に置いて",
+      "whisper_text": "長い長い迷路の先に置いて",
+      "lyrics_roma": "nagai nagai meiro no saki ni oite",
+      "whisper_roma": "nagai nagai meiro no saki ni oite"
+    },
+    {
+      "type": "skip_whisper",
+      "whisper_index": 11,
+      "whisper_line": "ご視聴ありがとうございました",
+      "whisper_roma": "goshichou arigatou gozaimashita"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        14,
+        14
+      ],
+      "whisper_range": [
+        12,
+        12
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "一つ一つ数えてみてあなた自身の人生のあなたが愛したいものを",
+      "whisper_text": "ひとつひとつ数えてみて あなた自身の人生の あなたが愛したいものを",
+      "lyrics_roma": "hitotsu hitotsu kazoete mite anata jishin no jin sei no anata ga aishitai mono wo",
+      "whisper_roma": "hitotsu hitotsu kazoete mite anata jishin no jinsei no anata ga aishitai mono wo"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        15,
+        16
+      ],
+      "whisper_range": [
+        13,
+        14
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 2,
+      "score": 0.8903050108932461,
+      "detail": {
+        "hira_score": 0.8888888888888888,
+        "roma_score": 0.9417989417989417,
+        "roma_mom_score": 0.9607843137254902,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "何もないのかい / 海の側の小さい駅を歩いて五分の海岸の僕と見た翡翠の色も忘れてください",
+      "whisper_text": "何もないのかい 海のそばの小さい駅を 歩いて5分の海岸の / 僕と満たし水の色も 忘れてください",
+      "lyrics_roma": "nani mo nai no ka i umi no soba no chiisai eki wo aruite gofun no kai gan no boku to mita hisui no iro mo wasurete kudasai",
+      "whisper_roma": "nan mo nai no ka i umi no soba no chiisai eki wo aruite bun no kaigan no boku to mitashi mizu no iro mo wasurete kudasai"
+    },
+    {
+      "type": "skip_whisper",
+      "whisper_index": 15,
+      "whisper_line": "僕に",
+      "whisper_roma": "boku ni"
+    },
+    {
+      "type": "skip_whisper",
+      "whisper_index": 16,
+      "whisper_line": "僕に",
+      "whisper_roma": "boku ni"
+    },
+    {
+      "type": "skip_whisper",
+      "whisper_index": 17,
+      "whisper_line": "僕に",
+      "whisper_roma": "boku ni"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        17,
+        17
+      ],
+      "whisper_range": [
+        18,
+        20
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 3,
+      "score": 0.9499999999999998,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "僕に僕に僕に",
+      "whisper_text": "僕に / 僕に / 僕に",
+      "lyrics_roma": "boku ni boku ni boku ni",
+      "whisper_roma": "boku ni boku ni boku ni"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        18,
+        19
+      ],
+      "whisper_range": [
+        21,
+        21
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.8890112994350282,
+      "detail": {
+        "hira_score": 0.8666666666666667,
+        "roma_score": 0.9152542372881356,
+        "roma_mom_score": 0.9333333333333333,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "僕に心を / 君に花束を",
+      "whisper_text": "僕に誇ろう 君に花束を",
+      "lyrics_roma": "boku ni kokoro wo kimi ni hana taba wo",
+      "whisper_roma": "boku ni hokorou kimi ni hanataba wo"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        20,
+        20
+      ],
+      "whisper_range": [
+        22,
+        22
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.898891129032258,
+      "detail": {
+        "hira_score": 0.8387096774193549,
+        "roma_score": 0.90625,
+        "roma_mom_score": 0.9032258064516129,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "揺れる髪だけ靡くままにして",
+      "whisper_text": "揺れる髪だけ 眩くままにして",
+      "lyrics_roma": "yureru kami dake nabiku mama ni shite",
+      "whisper_roma": "yureru kami dake mabayuku mama ni shite"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        21,
+        22
+      ],
+      "whisper_range": [
+        23,
+        23
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "僕に言葉を / 君の鼻歌を",
+      "whisper_text": "僕に言葉を 君の鼻歌を",
+      "lyrics_roma": "boku ni kotoba wo kimi no hanauta wo",
+      "whisper_roma": "boku ni kotoba wo kimi no hanauta wo"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        23,
+        23
+      ],
+      "whisper_range": [
+        24,
+        24
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9207711792851111,
+      "detail": {
+        "hira_score": 0.8823529411764706,
+        "roma_score": 0.9122807017543859,
+        "roma_mom_score": 0.9696969696969697,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "長い長い迷路の先に置いて",
+      "whisper_text": "長い長い 銘色の先に置いて",
+      "lyrics_roma": "nagai nagai meiro no saki ni oite",
+      "whisper_roma": "nagai nagai meishoku no saki ni oite"
+    },
+    {
+      "type": "skip_whisper",
+      "whisper_index": 25,
+      "whisper_line": "最後までご視聴ありがとうございました!",
+      "whisper_roma": "saigo made goshichou arigatou gozaimashita"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        24,
+        25
+      ],
+      "whisper_range": [
+        26,
+        27
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 2,
+      "score": 0.8056127693610299,
+      "detail": {
+        "hira_score": 0.8235294117647058,
+        "roma_score": 0.9032258064516129,
+        "roma_mom_score": 0.9135802469135802,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.041714285714285725
+      },
+      "lyrics_text": "箱の中の小さい家の / 朝の日に揺れるカーテンを開けた静かな休日の",
+      "whisper_text": "箱の中の小さい家の 朝の日に揺れるカーテンを / 開けた静かな休日の寝起きの君が",
+      "lyrics_roma": "wa kono naka no chiisai ie no asa no hi ni yureru kaaten wo aketa shizuka na kyuu jitsu no",
+      "whisper_roma": "bako no naka no chiisai ie no asa no hi ni yureru kaaten wo aketa shizuka na kyuujitsu no neoki no kimi ga"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        26,
+        26
+      ],
+      "whisper_range": [
+        28,
+        28
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.7107690047952997,
+      "detail": {
+        "hira_score": 0.576271186440678,
+        "roma_score": 0.8598130841121495,
+        "roma_mom_score": 0.8363636363636363,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.116
+      },
+      "lyrics_text": "寝起きの君が寝ぼけ眼で座ったその朝のダイニングテーブルに",
+      "whisper_text": "寝ぼけまぬ子で座ったその 朝のダイニングテーブルに",
+      "lyrics_roma": "neoki no kimi ga neboke manako de suwatta sono asa no dainingu teeburu ni",
+      "whisper_roma": "neboke ma nu ko de suwatta sono asa no dainingu teeburu ni"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        27,
+        27
+      ],
+      "whisper_range": [
+        29,
+        29
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0,
+        "length_penalty": 0.0,
+        "overhang_penalty": 0.0
+      },
+      "lyrics_text": "僕の心があったこと忘れてください",
+      "whisper_text": "僕の心があったこと 忘れてください",
+      "lyrics_roma": "boku no kokoro ga atta koto wasurete kudasai",
+      "whisper_roma": "boku no kokoro ga atta koto wasurete kudasai"
+    }
+  ]
+}

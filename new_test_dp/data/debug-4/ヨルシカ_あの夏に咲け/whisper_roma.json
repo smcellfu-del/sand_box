@@ -1,0 +1,354 @@
+[
+  {
+    "start": 5.5,
+    "end": 8.0,
+    "line": "君が触れた たったった",
+    "hira": "きみがふれたたったった",
+    "roma": "kimi ga fureta tattatta",
+    "roma_mom": "ii a uea aaa"
+  },
+  {
+    "start": 8.0,
+    "end": 12.0,
+    "line": "ただの花さえ笑って 宙に叫え",
+    "hira": "ただのはなさえわらってちゅうにさけびえ",
+    "roma": "tada no hana sae waratte chuu ni sakebi e",
+    "roma_mom": "aa o aa ae aae uu i aei e"
+  },
+  {
+    "start": 12.0,
+    "end": 16.0,
+    "line": "君にだって 照れるまま座って",
+    "hira": "きみにだっててれるまますわって",
+    "roma": "kimi ni datte tereru mama suwatte",
+    "roma_mom": "ii i ae eeu aa uae"
+  },
+  {
+    "start": 16.12,
+    "end": 19.0,
+    "line": "バスの最終時刻をパー",
+    "hira": "ばすのさいしゅうじこくをぱー",
+    "roma": "basu no saishuu jikoku wo paa",
+    "roma_mom": "au o aiuu iou o aa"
+  },
+  {
+    "start": 30.02,
+    "end": 41.5,
+    "line": "水紋の通りバス停で君はさ、板を持っていた それだって様になってるな",
+    "hira": "すいもんのとおりばすていできみはさ、いたをもっていたそれだってようになってるな",
+    "roma": "suimon no toori basutei de kimi wa sa ita wo motte ita sore da tte you ni natteru na",
+    "roma_mom": "uio o ooi auei e ii a a ia o oe ia oe a e ou i aeu a"
+  },
+  {
+    "start": 42.0,
+    "end": 53.5,
+    "line": "知らないものだけ出会った僕はその風景を描いていた 隣に座る間もなく消えたパスが走ってく",
+    "hira": "しらないものだけであったぼくはそのふうけいをえがいていたとなりにすわるまもなくきえたぱすがはしってく",
+    "roma": "shiranai mono dake deatta boku wa sono fuukei wo egaite ita tonari ni suwaru ma mo naku kieta pasu ga hashitteku",
+    "roma_mom": "iaai oo ae eaa ou a oo uuei o eaie ia oai i uau a o au iea au a aieu"
+  },
+  {
+    "start": 53.64,
+    "end": 57.9,
+    "line": "書いて 書いて ようやく",
+    "hira": "かいてかいてようやく",
+    "roma": "kaite kaite youyaku",
+    "roma_mom": "aie aie ouau"
+  },
+  {
+    "start": 58.16,
+    "end": 62.7,
+    "line": "得たものが 痛みとか 下げすみとか",
+    "hira": "えたものがいたみとかさげすみとか",
+    "roma": "eta mono ga itami to ka sage sumi to ka",
+    "roma_mom": "ea oo a iai o a ae ui o a"
+  },
+  {
+    "start": 62.7,
+    "end": 65.3,
+    "line": "なんかも 忘れたい",
+    "hira": "なんかもわすれたい",
+    "roma": "nan ka mo wasuretai",
+    "roma_mom": "a a o aueai"
+  },
+  {
+    "start": 65.5,
+    "end": 68.0,
+    "line": "君が触れたら たったったった",
+    "hira": "きみがふれたらたったったった",
+    "roma": "kimi ga furetara tattat tatta",
+    "roma_mom": "ii a ueaa aa aa"
+  },
+  {
+    "start": 68.0,
+    "end": 71.7,
+    "line": "あの花さえ笑って 宙に叫びへ",
+    "hira": "あのはなさえわらってちゅうにさけびへ",
+    "roma": "ano hana sae waratte chuu ni sakebi e",
+    "roma_mom": "ao aa ae aae uu i aei e"
+  },
+  {
+    "start": 71.86,
+    "end": 77.3,
+    "line": "君が登って 照れる雲を 上がらんで飛んでいく",
+    "hira": "きみがのぼっててれるくもをあがらんでとんでいく",
+    "roma": "kimi ga nobotte tereru kumo wo agarande tonde iku",
+    "roma_mom": "ii a ooe eeu uo o aaae oe iu"
+  },
+  {
+    "start": 77.48,
+    "end": 79.9,
+    "line": "君がいるなら たったったった",
+    "hira": "きみがいるならたったったった",
+    "roma": "kimi ga irunara tattat tatta",
+    "roma_mom": "ii a iuaa aa aa"
+  },
+  {
+    "start": 79.9,
+    "end": 83.6,
+    "line": "いくつな日々もなんてことはないけど",
+    "hira": "いくつなひびもなんてことはないけど",
+    "roma": "ikutsu na hibi mo nan te koto wa naikedo",
+    "roma_mom": "iuu a ii o a e oo a aieo"
+  },
+  {
+    "start": 83.6,
+    "end": 87.9,
+    "line": "君がいた想像しなつもさよなら",
+    "hira": "きみがいたそうぞうしなつもさよなら",
+    "roma": "kimi ga ita souzou shi natsu mo sayonara",
+    "roma_mom": "ii a ia ouou i au o aoaa"
+  },
+  {
+    "start": 88.12,
+    "end": 90.9,
+    "line": "誰かをどう願おうか",
+    "hira": "だれかをどうねがおうか",
+    "roma": "dare ka wo dou negaou ka",
+    "roma_mom": "ae a o ou eaou a"
+  },
+  {
+    "start": 104.08,
+    "end": 109.4,
+    "line": "雨の街路あき 君は立っていた",
+    "hira": "あめのがいろあきくんはたっていた",
+    "roma": "ame no gairo akikun wa tatte ita",
+    "roma_mom": "ae o aio aiu a ae ia"
+  },
+  {
+    "start": 110.1,
+    "end": 113.4,
+    "line": "片手には赤いカトリア",
+    "hira": "かたてにはあかいかとりあ",
+    "roma": "katate ni wa akai kato ria",
+    "roma_mom": "aae i a aai ao ia"
+  },
+  {
+    "start": 113.4,
+    "end": 119.4,
+    "line": "君の名が下すいてきた 夕立ちにいた靴立っていた",
+    "hira": "きみのながしたすいてきたゆうだちにいたくつたっていた",
+    "roma": "kimi no na ga shita suite kita yuudachi ni ita kutsu tatte ita",
+    "roma_mom": "ii o a a ia uie ia uuai i ia uu ae ia"
+  },
+  {
+    "start": 119.4,
+    "end": 125.4,
+    "line": "君が泣いてるの見ては動いた 声もかけないで",
+    "hira": "きみがないてるのみてはうごいたこえもかけないで",
+    "roma": "kimi ga naiteru no mite wa ugoita koe mo kakenaide",
+    "roma_mom": "ii a aieu o ie a uoia oe o aeaie"
+  },
+  {
+    "start": 126.06,
+    "end": 128.4,
+    "line": "その顔を書いていた",
+    "hira": "そのかおをかいていた",
+    "roma": "sono kao wo kaite ita",
+    "roma_mom": "oo ao o aie ia"
+  },
+  {
+    "start": 128.64,
+    "end": 132.9,
+    "line": "吐いて吐いてようやく",
+    "hira": "はいてはいてようやく",
+    "roma": "haite haite youyaku",
+    "roma_mom": "aie aie ouau"
+  },
+  {
+    "start": 133.12,
+    "end": 136.14,
+    "line": "わかるのが痛みです",
+    "hira": "わかるのがいたみです",
+    "roma": "wakaru no ga itami desu",
+    "roma_mom": "aau o a iai eu"
+  },
+  {
+    "start": 136.14,
+    "end": 138.92,
+    "line": "無償しさです なんかもう",
+    "hira": "むしょうしさですなんかもう",
+    "roma": "mushou shisa desu nanka mou",
+    "roma_mom": "uou ia eu aa ou"
+  },
+  {
+    "start": 138.92,
+    "end": 141.76,
+    "line": "馬鹿みたい満たされるから",
+    "hira": "ばかみたいみたされるから",
+    "roma": "baka mitai mitasarerukara",
+    "roma_mom": "aa iai iaaeuaa"
+  },
+  {
+    "start": 141.76,
+    "end": 143.96,
+    "line": "たったりってたぶん",
+    "hira": "たったりってたぶん",
+    "roma": "tat tari tte tabun",
+    "roma_mom": "a ai e au"
+  },
+  {
+    "start": 143.96,
+    "end": 146.6,
+    "line": "どうして嫌になるんだよ",
+    "hira": "どうしていやになるんだよ",
+    "roma": "dou shite iya ni naru n da yo",
+    "roma_mom": "ou ie ia i au a o"
+  },
+  {
+    "start": 146.6,
+    "end": 149.96,
+    "line": "それでよかったって笑えるほど",
+    "hira": "それでよかったってわらえるほど",
+    "roma": "sore de yokatta tte waraeru hodo",
+    "roma_mom": "oe e oaa e aaeu oo"
+  },
+  {
+    "start": 149.96,
+    "end": 152.2,
+    "line": "大人じゃないのにさ",
+    "hira": "おとなじゃないのにさ",
+    "roma": "otona ja nai no ni sa",
+    "roma_mom": "ooa a ai o i a"
+  },
+  {
+    "start": 152.2,
+    "end": 153.72,
+    "line": "君が乗り込む",
+    "hira": "きみがのりこむ",
+    "roma": "kimi ga norikomu",
+    "roma_mom": "ii a oiou"
+  },
+  {
+    "start": 153.72,
+    "end": 156.0,
+    "line": "パッパッパスの隙間に",
+    "hira": "ぱっぱっぱすのすきまに",
+    "roma": "pappap pasu no sukima ni",
+    "roma_mom": "aa au o uia i"
+  },
+  {
+    "start": 156.0,
+    "end": 158.7,
+    "line": "何僕の場所はないから",
+    "hira": "なんぼくのばしょはないから",
+    "roma": "nan boku no basho wa naikara",
+    "roma_mom": "a ou o ao a aiaa"
+  },
+  {
+    "start": 158.84,
+    "end": 163.0,
+    "line": "君がいた想像だけが重ねゆく",
+    "hira": "きみがいたそうぞうだけがかさねゆく",
+    "roma": "kimi ga ita souzou dake ga kasane yuku",
+    "roma_mom": "ii a ia ouou ae a aae uu"
+  },
+  {
+    "start": 163.16,
+    "end": 166.0,
+    "line": "常人生不観法化",
+    "hira": "つねじんせいふかんぽうか",
+    "roma": "tsune jinsei fukanpouka",
+    "roma_mom": "ue iei uaoua"
+  },
+  {
+    "start": 173.82,
+    "end": 175.5,
+    "line": "ご視聴ありがとうございました",
+    "hira": "ごしちょうありがとうございました",
+    "roma": "goshichou arigatou gozaimashita",
+    "roma_mom": "oiou aiaou oaiaia"
+  },
+  {
+    "start": 188.84,
+    "end": 195.3,
+    "line": "ああ 君が歩けば花が咲く 君が歩けば空が泣く",
+    "hira": "ああきみがあるけばはながさくきみがあるけばそらがなく",
+    "roma": "aa kimi ga arukeba hana ga saku kimi ga arukeba sora ga naku",
+    "roma_mom": "aa ii a auea aa a au ii a auea oa a au"
+  },
+  {
+    "start": 195.4,
+    "end": 201.3,
+    "line": "君が笑えば遠い夏 笑う顔が描いてみたい",
+    "hira": "きみがわらえばとおいなつわらうかおがえがいてみたい",
+    "roma": "kimi ga waraeba tooi natsu warau kao ga egaite mitai",
+    "roma_mom": "ii a aaea ooi au aau ao a eaie iai"
+  },
+  {
+    "start": 201.4,
+    "end": 212.3,
+    "line": "夕立の中泣く君に 僕が言えるのなら もう一回 あの夏に戻って",
+    "hira": "ゆうだちのなかなくきみにぼくがいえるのならもういちかいあのなつにもどって",
+    "roma": "yuudachi no naka naku kimi ni boku ga ieru no nara mou ichi kai ano natsu ni modotte",
+    "roma_mom": "uuai o aa au ii i ou a ieu o aa ou ii ai ao au i ooe"
+  },
+  {
+    "start": 212.46,
+    "end": 218.2,
+    "line": "君が泣いてると止まらない理由を僕は知っていたい",
+    "hira": "きみがないてるととまらないりゆうをぼくはしっていたい",
+    "roma": "kimi ga naiteruto tomaranai riyuu wo boku wa shitte itai",
+    "roma_mom": "ii a aieuo oaaai iuu o ou a ie iai"
+  },
+  {
+    "start": 218.2,
+    "end": 224.2,
+    "line": "君に触れたら適当なことでも喋ってみよう",
+    "hira": "きみにふれたらてきとうなことでもしゃべってみよう",
+    "roma": "kimi ni furetara tekitou na koto de mo shabette miyou",
+    "roma_mom": "ii i ueaa eiou a oo e o aee iou"
+  },
+  {
+    "start": 224.2,
+    "end": 230.6,
+    "line": "君がいたから退屈な日々もなんてことはないのさ",
+    "hira": "きみがいたからたいくつなひびもなんてことはないのさ",
+    "roma": "kimi ga itakara taikutsu na hibi mo nan te koto wa nai no sa",
+    "roma_mom": "ii a iaaa aiuu a ii o a e oo a ai o a"
+  },
+  {
+    "start": 230.6,
+    "end": 234.9,
+    "line": "君に笑って照れるまま座って",
+    "hira": "きみにわらっててれるまますわって",
+    "roma": "kimi ni waratte tereru mama suwatte",
+    "roma_mom": "ii i aae eeu aa uae"
+  },
+  {
+    "start": 234.9,
+    "end": 237.9,
+    "line": "バスの最終時刻オーバー",
+    "hira": "ばすのさいしゅうじこくおーばー",
+    "roma": "basu no saishuu jikoku oobaa",
+    "roma_mom": "au o aiuu iou ooaa"
+  },
+  {
+    "start": 246.06,
+    "end": 247.0,
+    "line": "ご視聴ありがとうございました",
+    "hira": "ごしちょうありがとうございました",
+    "roma": "goshichou arigatou gozaimashita",
+    "roma_mom": "oiou aiaou oaiaia"
+  }
+]

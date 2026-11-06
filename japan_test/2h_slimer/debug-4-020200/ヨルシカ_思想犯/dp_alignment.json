@@ -1,0 +1,603 @@
+{
+  "total_score": 13.200504681613927,
+  "alignment": [
+    {
+      "type": "match",
+      "lyrics_range": [
+        0,
+        0
+      ],
+      "whisper_range": [
+        0,
+        0
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "他人に優しいあんたにこの心がわかるものか",
+      "whisper_text": "人に優しいあんたに この心がわかるものか",
+      "lyrics_roma": "hito ni yasashii anta ni kono kokoro ga wakaru mono ka",
+      "whisper_roma": "hito ni yasashii anta ni kono kokoro ga wakaru mono ka"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        1,
+        1
+      ],
+      "whisper_range": [
+        1,
+        1
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "人を呪うのが心地良いだから詩を書いていた",
+      "whisper_text": "人を呪うのが心地いい だから歌を書いていた",
+      "lyrics_roma": "hito wo norou no ga kokochi iidakara uta wo kaite ita",
+      "whisper_roma": "hito wo norou no ga kokochi iidakara uta wo kaite ita"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        2,
+        2
+      ],
+      "whisper_range": [
+        2,
+        2
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9121634601391274,
+      "detail": {
+        "hira_score": 0.7659574468085106,
+        "roma_score": 0.9411764705882353,
+        "roma_mom_score": 0.8837209302325582
+      },
+      "lyrics_text": "朝の報道ニュースにいつか載ることが夢だった",
+      "whisper_text": "そのほどニュースに いつか乗ることが夢だった",
+      "lyrics_roma": "asa no hou dou nyuusu ni itsu ka noru koto ga yume datta",
+      "whisper_roma": "sono hodo nyuusu ni itsu ka noru koto ga yume datta"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        3,
+        3
+      ],
+      "whisper_range": [
+        3,
+        3
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.8918551476949697,
+      "detail": {
+        "hira_score": 0.9032258064516129,
+        "roma_score": 0.8888888888888888,
+        "roma_mom_score": 0.896551724137931
+      },
+      "lyrics_text": "その為に包丁を研いでる",
+      "whisper_text": "そのために包丁を研いでる",
+      "lyrics_roma": "sono tame ni houchou wo to ideru",
+      "whisper_roma": "sono tame ni houchou wo migaideru"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        4,
+        5
+      ],
+      "whisper_range": [
+        4,
+        6
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 3,
+      "score": 0.8890507668655252,
+      "detail": {
+        "hira_score": 0.9206349206349206,
+        "roma_score": 0.9623430962343096,
+        "roma_mom_score": 0.9917355371900827
+      },
+      "lyrics_text": "硝子を叩きつける音何かの紙を破くことさよならの後の夕陽が美しいって君だってわかるだろ / 烏の歌に茜",
+      "whisper_text": "ガラスを叩きつける音 何かの紙を破ること / さよならの後の夕日が美しいね / 君だってわかるだろ ガラスの歌にあかんね",
+      "lyrics_roma": "garasu wo tatakitsukeru otona ni ka no kami wo yabuku koto sayonara no ato no yuuhi ga utsukushii tte kimi da tte wakarudaro karasu no uta ni akane",
+      "whisper_roma": "garasu wo tatakitsukeru oto nan ka no kami wo yaburu koto sayonara no ato no yuuhi ga utsukushii ne kimi da tte wakarudaro garasu no uta ni akan ne"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        6,
+        7
+      ],
+      "whisper_range": [
+        7,
+        7
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9112499999999999,
+      "detail": {
+        "hira_score": 0.88,
+        "roma_score": 0.9375,
+        "roma_mom_score": 0.96
+      },
+      "lyrics_text": "この孤独も今音に変わる / 面影に差した日暮れ",
+      "whisper_text": "この孤独を今 音に変わる面影に刺したギグル",
+      "lyrics_roma": "kono kodoku mo ima oto ni kawaru omokage ni sashita hi gure",
+      "whisper_roma": "kono kodoku wo ima oto ni kawaru omokage ni sashita gigu ru"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        8,
+        8
+      ],
+      "whisper_range": [
+        8,
+        9
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.9563664596273291,
+      "detail": {
+        "hira_score": 0.9565217391304348,
+        "roma_score": 0.9795918367346939,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "爪先立つ雲が焼けるさよならが口を滑る",
+      "whisper_text": "つま先立つ雲が焼ける / さよならが口を滑る",
+      "lyrics_roma": "tsumasaki datsu kumo ga yakeru sayonara ga kuchi wo suberu",
+      "whisper_roma": "tsumasaki tatsu kumo ga yakeru sayonara ga kuchi wo suberu"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        9,
+        10
+      ],
+      "whisper_range": [
+        10,
+        10
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.93500481000481,
+      "detail": {
+        "hira_score": 0.9545454545454546,
+        "roma_score": 0.9629629629629629,
+        "roma_mom_score": 0.9523809523809523
+      },
+      "lyrics_text": "認められたい愛したい / これが夢ってやつか",
+      "whisper_text": "認められたい 愛したい これが夢っていつか",
+      "lyrics_roma": "mitomeraretai ai shitai kore ga yume tte yatsu ka",
+      "whisper_roma": "mitomeraretai aishitai kore ga yume tte itsu ka"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        11,
+        11
+      ],
+      "whisper_range": [
+        11,
+        11
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9712585034013604,
+      "detail": {
+        "hira_score": 0.9387755102040817,
+        "roma_score": 0.9795918367346939,
+        "roma_mom_score": 0.9583333333333334
+      },
+      "lyrics_text": "何もしなくても叶えよ早く僕を満たしてくれ",
+      "whisper_text": "何もしなくても叶えよう 早く僕を満たしてくれ",
+      "lyrics_roma": "nani mo shinakute mo kanaeyo hayaku boku wo mitashite kure",
+      "whisper_roma": "nan mo shinakute mo kanae you hayaku boku wo mitashite kure"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        12,
+        12
+      ],
+      "whisper_range": [
+        12,
+        12
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9402898550724637,
+      "detail": {
+        "hira_score": 0.8695652173913043,
+        "roma_score": 0.9333333333333333,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "他人に優しい世間にこの妬みがわかるものか",
+      "whisper_text": "人に優しい世間に この女神がわかるものが",
+      "lyrics_roma": "hito ni yasashii seken ni kono netami ga wakaru mono ka",
+      "whisper_roma": "hito ni yasashii seken ni kono megami ga wakaru mono ga"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        13,
+        13
+      ],
+      "whisper_range": [
+        13,
+        13
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "いつも誰かを殴れる機会を探してる",
+      "whisper_text": "いつも誰かを殴れる機会を探してる",
+      "lyrics_roma": "itsu mo dare ka wo nagureru kikai wo sagashiteru",
+      "whisper_roma": "itsu mo dare ka wo nagureru kikai wo sagashiteru"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        14,
+        15
+      ],
+      "whisper_range": [
+        14,
+        16
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 3,
+      "score": 0.9139457328776928,
+      "detail": {
+        "hira_score": 0.9315068493150684,
+        "roma_score": 0.996078431372549,
+        "roma_mom_score": 0.9927007299270073
+      },
+      "lyrics_text": "ビール瓶で殴る街路灯投げるギターの折れる音戻らない後悔の全部が美しいってそういうのさぁ僕だってわかるのに / 言葉の雨に打たれ",
+      "whisper_text": "ビール瓶で殴る街路と 投げるギターの折れる音 / 戻らない後悔の全部が美しいって そういうのさ / 僕だってわかるのに 言葉の雨に打たれ",
+      "lyrics_roma": "biiru bin de naguruga iroto u nageru gitaa no oreru oto modoranai koukai no zenbu ga utsukushii tte sou iu no sa boku da tte wakaru no ni kotoba no ame ni u tare",
+      "whisper_roma": "biiru bin de naguru gairo to nageru gitaa no oreru oto modoranai koukai no zenbu ga utsukushii tte sou iu no sa boku da tte wakaru no ni kotoba no ame ni utare"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        16,
+        18
+      ],
+      "whisper_range": [
+        17,
+        18
+      ],
+      "lyrics_count": 3,
+      "whisper_count": 2,
+      "score": 0.8992368177613321,
+      "detail": {
+        "hira_score": 0.9347826086956522,
+        "roma_score": 0.9787234042553191,
+        "roma_mom_score": 0.9782608695652174
+      },
+      "lyrics_text": "秋惜しむまま冬に落ちる / 春の山のうしろからまた一つ煙が立つ / 夏風が頬を滑る",
+      "whisper_text": "秋をしむまま冬に落ちる 春の山のお城から / また一つ煙が立つ 夏風が頬をすべる",
+      "lyrics_roma": "aki oshimu mama fuyu ni ochiru haru no yama no ushiro kara mata hitotsu kemuri ga tatsu natsu kaze ga hoho wo suberu",
+      "whisper_roma": "aki wo shimu mama fuyu ni ochiru haru no yama no oshiro kara mata hitotsu kemuri ga tatsu natsukaze ga hoo wo suberu"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        19,
+        19
+      ],
+      "whisper_range": [
+        19,
+        19
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9797430830039525,
+      "detail": {
+        "hira_score": 0.9565217391304348,
+        "roma_score": 0.9772727272727273,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "他人に優しいあんたにこの孤独がわかるものか",
+      "whisper_text": "人に優しいあんたに この孤独がわかるものが",
+      "lyrics_roma": "hito ni yasashii anta ni kono kodoku ga wakaru mono ka",
+      "whisper_roma": "hito ni yasashii anta ni kono kodoku ga wakaru mono ga"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        20,
+        20
+      ],
+      "whisper_range": [
+        20,
+        20
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "死にたくないが生きられないだから詩を書いている",
+      "whisper_text": "死にたくないが生きられない だから歌を書いている",
+      "lyrics_roma": "shinitaku naiga ikirarenaidakara uta wo kaite iru",
+      "whisper_roma": "shinitaku naiga ikirarenaidakara uta wo kaite iru"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        21,
+        21
+      ],
+      "whisper_range": [
+        21,
+        21
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "罵倒も失望も嫌悪も僕への興味だと思うから",
+      "whisper_text": "罵倒も失望も嫌悪も 僕への興味だと思うから",
+      "lyrics_roma": "ba tou mo shitsubou mo ken omo boku e no kyoumi da to omoukara",
+      "whisper_roma": "batou mo shitsubou mo keno mo boku e no kyoumi da to omoukara"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        22,
+        22
+      ],
+      "whisper_range": [
+        22,
+        22
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "他人を傷付ける詩を書いてる",
+      "whisper_text": "人を傷つける歌を書いてる",
+      "lyrics_roma": "hito wo kizutsukeru uta wo kaiteru",
+      "whisper_roma": "hito wo kizutsukeru uta wo kaiteru"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        23,
+        23
+      ],
+      "whisper_range": [
+        23,
+        23
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "こんな中身のない詩を書いてる",
+      "whisper_text": "こんな中身のない歌を書いてる",
+      "lyrics_roma": "konna nakami no nai uta wo kaiteru",
+      "whisper_roma": "konna nakami no nai uta wo kaiteru"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        24,
+        24
+      ],
+      "whisper_range": [
+        24,
+        24
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "君の言葉が呑みたい",
+      "whisper_text": "君の言葉が飲みたい",
+      "lyrics_roma": "kimi no kotoba ga nomitai",
+      "whisper_roma": "kimi no kotoba ga nomitai"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        25,
+        25
+      ],
+      "whisper_range": [
+        25,
+        25
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "入れ物もない両手で受けて",
+      "whisper_text": "入れ物もない両手で受けて",
+      "lyrics_roma": "iremono mo nai ryoute de ukete",
+      "whisper_roma": "iremono mo nai ryoute de ukete"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        26,
+        26
+      ],
+      "whisper_range": [
+        26,
+        26
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "いつしか喉が潤う",
+      "whisper_text": "いつしか喉がうるおう",
+      "lyrics_roma": "itsu shi ka nodo ga uruou",
+      "whisper_roma": "itsu shi ka nodo ga uruou"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        27,
+        27
+      ],
+      "whisper_range": [
+        27,
+        27
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "その時を待ちながら",
+      "whisper_text": "その時を待ちながら",
+      "lyrics_roma": "sono toki wo machinagara",
+      "whisper_roma": "sono toki wo machinagara"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        28,
+        28
+      ],
+      "whisper_range": [
+        28,
+        28
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9511111111111111,
+      "detail": {
+        "hira_score": 0.9,
+        "roma_score": 0.9444444444444444,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "烏の歌に茜",
+      "whisper_text": "ガラスの唄にあかね",
+      "lyrics_roma": "karasu no uta ni akane",
+      "whisper_roma": "garasu no uta ni akane"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        29,
+        30
+      ],
+      "whisper_range": [
+        29,
+        30
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 2,
+      "score": 0.9499999999999998,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "この孤独よ今詩に変われ / さよなら君に茜",
+      "whisper_text": "この孤独よ / 今歌に変われさよなら 君にあかね",
+      "lyrics_roma": "kono kodoku yoi ma uta ni kaware sayonara kimi ni akane",
+      "whisper_roma": "kono kodoku yo ima uta ni kaware sayonara kimi ni akane"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        31,
+        31
+      ],
+      "whisper_range": [
+        31,
+        31
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "僕は今夜を待つ",
+      "whisper_text": "僕は今 夜を待つ",
+      "lyrics_roma": "boku wa ima yoru wo matsu",
+      "whisper_roma": "boku wa ima yoru wo matsu"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        32,
+        32
+      ],
+      "whisper_range": [
+        32,
+        33
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.7463788819875775,
+      "detail": {
+        "hira_score": 0.72,
+        "roma_score": 0.7755102040816326,
+        "roma_mom_score": 0.782608695652174
+      },
+      "lyrics_text": "また明日口が滑る",
+      "whisper_text": "また明日 口が滑る / ポンッ",
+      "lyrics_roma": "mata ashita kuchi ga suberu",
+      "whisper_roma": "mata asu kuchi ga suberu pontto"
+    }
+  ]
+}

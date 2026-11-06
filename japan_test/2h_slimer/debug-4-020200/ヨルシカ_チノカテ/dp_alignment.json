@@ -1,0 +1,776 @@
+{
+  "total_score": 17.93721690255639,
+  "alignment": [
+    {
+      "type": "match",
+      "lyrics_range": [
+        0,
+        1
+      ],
+      "whisper_range": [
+        0,
+        0
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9499999999999998,
+      "detail": {
+        "hira_score": 0.75,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "夕陽を呑み込んだ / コップがルビーみたいだ",
+      "whisper_text": "夕日を飲み込んだコップがルビーみたいだ",
+      "lyrics_roma": "yuuhi wo nomikonda koppu ga rubii mitai da",
+      "whisper_roma": "yuuhi wo nomikonda koppu ga rubii mitai da"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        2,
+        3
+      ],
+      "whisper_range": [
+        1,
+        1
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9624999999999999,
+      "detail": {
+        "hira_score": 0.875,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "飲み掛けの土曜の生活感を / テーブルに置いて",
+      "whisper_text": "飲みかけの土曜の生活感をテーブルに置いて",
+      "lyrics_roma": "nomi kake nodoyou no seikatsukan wo teeburu ni oite",
+      "whisper_roma": "nomikake no doyou no seikatsu kan wo teeburu ni oite"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        4,
+        5
+      ],
+      "whisper_range": [
+        2,
+        2
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "花瓶の白い花 / 優しすぎて枯れたみたいだ",
+      "whisper_text": "花瓶の白い花 優しすぎて枯れたみたいだ",
+      "lyrics_roma": "kabin no shiroi hana yasashi sugitekareta mitai da",
+      "whisper_roma": "kabin no shiroi hana yasashi sugite kareta mitai da"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        6,
+        7
+      ],
+      "whisper_range": [
+        3,
+        3
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "本当に大事だったのに / そろそろ変えなければ",
+      "whisper_text": "本当に大事だったのに そろそろ変えなければ",
+      "lyrics_roma": "hontou ni daiji datta no ni sorosoro kaenakereba",
+      "whisper_roma": "hontou ni daiji datta no ni sorosoro kaenakereba"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        8,
+        8
+      ],
+      "whisper_range": [
+        4,
+        5
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.9477407407407407,
+      "detail": {
+        "hira_score": 0.9629629629629629,
+        "roma_score": 0.9777777777777777,
+        "roma_mom_score": 0.96
+      },
+      "lyrics_text": "あ夕陽本当に綺麗だね",
+      "whisper_text": "夕日 / 本当に綺麗だね",
+      "lyrics_roma": "a yuuhi hontou ni kirei da ne",
+      "whisper_roma": "yuuhi hontou ni kirei da ne"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        9,
+        9
+      ],
+      "whisper_range": [
+        6,
+        7
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.9002525252525253,
+      "detail": {
+        "hira_score": 0.8888888888888888,
+        "roma_score": 0.9090909090909091,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "これから先のもっと先を描いた地図はないんだろうか",
+      "whisper_text": "これからさちのもっと先を描いた / 実はないんだろうか",
+      "lyrics_roma": "kore kara saki no motto saki wo egaita chizu wa nai n darou ka",
+      "whisper_roma": "kore kara sachi no motto saki wo egaita jitsu wa nai n darou ka"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        10,
+        10
+      ],
+      "whisper_range": [
+        8,
+        8
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "迷いはしないだろうか",
+      "whisper_text": "迷いはしないだろうか",
+      "lyrics_roma": "mayoi wa shinaidarou ka",
+      "whisper_roma": "mayoi wa shinaidarou ka"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        11,
+        11
+      ],
+      "whisper_range": [
+        9,
+        10
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "それでいいからそのままでいいから",
+      "whisper_text": "それでいいから / そのままでいいから",
+      "lyrics_roma": "sore de iikara sono mama de iikara",
+      "whisper_roma": "sore de iikara sono mama de iikara"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        12,
+        12
+      ],
+      "whisper_range": [
+        11,
+        12
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.9483880528955768,
+      "detail": {
+        "hira_score": 0.8627450980392157,
+        "roma_score": 0.9882352941176471,
+        "roma_mom_score": 0.9767441860465116
+      },
+      "lyrics_text": "本当はいらなかったものもソファも本も捨てよう",
+      "whisper_text": "本当はいらなかった / 物もソファーも本も捨てよう",
+      "lyrics_roma": "hontou wa iranakatta mono mo sofa mo hon mo suteyou",
+      "whisper_roma": "hontou wa iranakatta mono mo sofaa mo hon mo suteyou"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        13,
+        14
+      ],
+      "whisper_range": [
+        13,
+        14
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 2,
+      "score": 0.8822990065591454,
+      "detail": {
+        "hira_score": 0.9019607843137255,
+        "roma_score": 0.9347826086956522,
+        "roma_mom_score": 0.9387755102040817
+      },
+      "lyrics_text": "町へ出よう / 本当は僕らの心は頭にあった",
+      "whisper_text": "まずいでよ / 本当は僕らの心は頭にあった",
+      "lyrics_roma": "machi e de you hontou wa bokura no kokoro wa a tamani atta",
+      "whisper_roma": "mazu ideyo hontou wa bokura no kokoro wa atama ni atta"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        15,
+        15
+      ],
+      "whisper_range": [
+        15,
+        16
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.9538776288547455,
+      "detail": {
+        "hira_score": 0.9473684210526315,
+        "roma_score": 0.9855072463768116,
+        "roma_mom_score": 0.9714285714285714
+      },
+      "lyrics_text": "何を間違えたのか今じゃ文字の中",
+      "whisper_text": "何を間違えたのか / 今じゃ文字の中",
+      "lyrics_roma": "nani wo machigaeta no ka ima ja moji no naka",
+      "whisper_roma": "nan wo machigaeta no ka ima ja moji no naka"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        16,
+        16
+      ],
+      "whisper_range": [
+        17,
+        17
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "花瓶の白い花",
+      "whisper_text": "花瓶の白い花",
+      "lyrics_roma": "kabin no shiroi hana",
+      "whisper_roma": "kabin no shiroi hana"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        17,
+        17
+      ],
+      "whisper_range": [
+        18,
+        18
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9175824175824177,
+      "detail": {
+        "hira_score": 0.8571428571428571,
+        "roma_score": 0.9230769230769231,
+        "roma_mom_score": 0.9285714285714286
+      },
+      "lyrics_text": "いつの間にか枯れたみたいだ",
+      "whisper_text": "いつの間に書かれたみたいだ",
+      "lyrics_roma": "itsu no ma ni kakareta mitai da",
+      "whisper_roma": "itsu no aida ni kakareta mitai da"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        18,
+        18
+      ],
+      "whisper_range": [
+        19,
+        19
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "本当に大事だったなら",
+      "whisper_text": "本当に大事だったなら",
+      "lyrics_roma": "hontou ni daiji dattanara",
+      "whisper_roma": "hontou ni daiji dattanara"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        19,
+        19
+      ],
+      "whisper_range": [
+        20,
+        20
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "そもそも買わなければ",
+      "whisper_text": "そもそも買わなければ",
+      "lyrics_roma": "somosomo kawanakereba",
+      "whisper_roma": "somosomo kawanakereba"
+    },
+    {
+      "type": "skip_whisper",
+      "whisper_index": 21,
+      "whisper_line": "S Believe In Ghost",
+      "whisper_roma": "s believe in ghost"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        20,
+        21
+      ],
+      "whisper_range": [
+        22,
+        23
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 2,
+      "score": 0.9011692920852915,
+      "detail": {
+        "hira_score": 0.9487179487179487,
+        "roma_score": 0.9496402877697842,
+        "roma_mom_score": 0.9577464788732394
+      },
+      "lyrics_text": "あ散ったそれでも綺麗だね / ずっと叶えたかった夢が貴方を縛っていないだろうか",
+      "whisper_text": "それでも綺麗だね ずっと叶えたかった / 夢があなたを縛っていないだろうか",
+      "lyrics_roma": "a chitta sore de mo kirei da ne zutto kanaetakatta yume ga anata wo shibatte inaidarou ka",
+      "whisper_roma": "sore de mo kirei da ne zutto kanaetakatta yume ga anata wo shibatte inaidarou ka"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        22,
+        23
+      ],
+      "whisper_range": [
+        24,
+        26
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 3,
+      "score": 0.9133006535947712,
+      "detail": {
+        "hira_score": 0.9607843137254902,
+        "roma_score": 0.9888888888888889,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "それを諦めていいと言える勇気が少しでもあったら / 本当に欲しかったものも鞄もペンも捨てよう",
+      "whisper_text": "それを諦めていいと言える勇気が / 少しでもあったら本当に欲しかった / 物も鞄も天も捨てよう",
+      "lyrics_roma": "sore wo akiramete ii to ieru yuuki ga sukoshi de mo attara hontou ni hoshikatta mono mo kaban mo pen mo suteyou",
+      "whisper_roma": "sore wo akiramete ii to ieru yuuki ga sukoshi de mo attara hontou ni hoshikatta mono mo kaban mo ten mo suteyou"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        24,
+        24
+      ],
+      "whisper_range": [
+        27,
+        27
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.7081818181818181,
+      "detail": {
+        "hira_score": 0.36363636363636365,
+        "roma_score": 0.7,
+        "roma_mom_score": 0.9090909090909091
+      },
+      "lyrics_text": "町へ出よう",
+      "whisper_text": "交えてよ",
+      "lyrics_roma": "machi e de you",
+      "whisper_roma": "majiete yo"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        25,
+        26
+      ],
+      "whisper_range": [
+        28,
+        28
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "貴方の欲しがった / 自分を捨ててしまった",
+      "whisper_text": "あなたの欲しがった 自分を捨ててしまった",
+      "lyrics_roma": "anata no hoshigat ta jibun wo sutete shimatta",
+      "whisper_roma": "anata no hoshigat ta jibun wo sutete shimatta"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        27,
+        28
+      ],
+      "whisper_range": [
+        29,
+        29
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "本当に大事だったのに / 今更思い出す",
+      "whisper_text": "本当に大事だったのに 今更思い出す",
+      "lyrics_roma": "hontou ni daiji datta no ni imasara omoidasu",
+      "whisper_roma": "hontou ni daiji datta no ni imasara omoidasu"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        29,
+        30
+      ],
+      "whisper_range": [
+        30,
+        30
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "花瓶の白い花 / 枯れたことも気付かなかった",
+      "whisper_text": "花瓶の白い花 枯れたことも気づかなかった",
+      "lyrics_roma": "kabin no shiroi hana kareta koto mo kizukanakatta",
+      "whisper_roma": "kabin no shiroi hana kareta koto mo kizukanakatta"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        31,
+        32
+      ],
+      "whisper_range": [
+        31,
+        31
+      ],
+      "lyrics_count": 2,
+      "whisper_count": 1,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "本当に大事だったのは / 花を変える人なのに",
+      "whisper_text": "本当に大事だったのは 花を変える人なのに",
+      "lyrics_roma": "hontou ni daiji datta no wa hana wo kaeru hito na no ni",
+      "whisper_roma": "hontou ni daiji datta no wa hana wo kaeru hito na no ni"
+    },
+    {
+      "type": "skip_whisper",
+      "whisper_index": 32,
+      "whisper_line": "この multiplic tears",
+      "whisper_roma": "kono multiplic tears"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        33,
+        33
+      ],
+      "whisper_range": [
+        33,
+        34
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.9454934170050449,
+      "detail": {
+        "hira_score": 0.9629629629629629,
+        "roma_score": 0.9767441860465116,
+        "roma_mom_score": 0.9523809523809523
+      },
+      "lyrics_text": "あ待って本当に行くんだね",
+      "whisper_text": "待って / 本当に行くんだね",
+      "lyrics_roma": "amatte hontou ni iku n da ne",
+      "whisper_roma": "matte hontou ni iku n da ne"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        34,
+        34
+      ],
+      "whisper_range": [
+        35,
+        35
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "これから先のもっと先を描いた地図はないんだろうか",
+      "whisper_text": "これから先のもっと先を描いた 地図はないんだろうか?",
+      "lyrics_roma": "kore kara saki no motto saki wo egaita chizu wa nai n darou ka",
+      "whisper_roma": "kore kara saki no motto saki wo egaita chizu wa nai n darou ka"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        35,
+        35
+      ],
+      "whisper_range": [
+        36,
+        36
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "迷いはしないだろうか",
+      "whisper_text": "迷いはしないだろうか?",
+      "lyrics_roma": "mayoi wa shinaidarou ka",
+      "whisper_roma": "mayoi wa shinaidarou ka"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        36,
+        36
+      ],
+      "whisper_range": [
+        37,
+        37
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "それでいいからそのままでいいから",
+      "whisper_text": "それでいいから そのままでいいから",
+      "lyrics_roma": "sore de iikara sono mama de iikara",
+      "whisper_roma": "sore de iikara sono mama de iikara"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        37,
+        37
+      ],
+      "whisper_range": [
+        38,
+        38
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9733880528955768,
+      "detail": {
+        "hira_score": 0.8627450980392157,
+        "roma_score": 0.9882352941176471,
+        "roma_mom_score": 0.9767441860465116
+      },
+      "lyrics_text": "本当はいらなかったものもソファも本も捨てよう",
+      "whisper_text": "本当はいらなかったものも ソファーも本も捨てよう",
+      "lyrics_roma": "hontou wa iranakatta mono mo sofa mo hon mo suteyou",
+      "whisper_roma": "hontou wa iranakatta mono mo sofaa mo hon mo suteyou"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        38,
+        38
+      ],
+      "whisper_range": [
+        39,
+        39
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9273809523809523,
+      "detail": {
+        "hira_score": 0.8571428571428571,
+        "roma_score": 0.9166666666666666,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "それでいいから",
+      "whisper_text": "それでいいかな?",
+      "lyrics_roma": "sore de iikara",
+      "whisper_roma": "sore de ii ka na"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        39,
+        39
+      ],
+      "whisper_range": [
+        40,
+        40
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "貴方の夜をずっと照らす大きな光はあるんだろうか",
+      "whisper_text": "あなたの夜をずっと照らす 大きな光はあるんだろうか?",
+      "lyrics_roma": "anata no yoru wo zutto terasu ookina hikari wa aru n darou ka",
+      "whisper_roma": "anata no yoru wo zutto terasu ookina hikari wa aru n darou ka"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        40,
+        40
+      ],
+      "whisper_range": [
+        41,
+        41
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 1,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "それでも行くんだろうか",
+      "whisper_text": "それでも行くんだろうか",
+      "lyrics_roma": "sore de mo iku n darou ka",
+      "whisper_roma": "sore de mo iku n darou ka"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        41,
+        41
+      ],
+      "whisper_range": [
+        42,
+        43
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "それでいいからそのままでいいから",
+      "whisper_text": "それでいいから / そのままでいいから",
+      "lyrics_roma": "sore de iikara sono mama de iikara",
+      "whisper_roma": "sore de iikara sono mama de iikara"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        42,
+        42
+      ],
+      "whisper_range": [
+        44,
+        45
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "lyrics_text": "全部を読み終わったあとはどうか目を開けて",
+      "whisper_text": "全部を読み終わった後は / どうか目を開けて",
+      "lyrics_roma": "zenbu wo yomi owatta ato wa dou kame wo akete",
+      "whisper_roma": "zenbu wo yomi owatta ato wa dou ka me wo akete"
+    },
+    {
+      "type": "match",
+      "lyrics_range": [
+        43,
+        43
+      ],
+      "whisper_range": [
+        46,
+        47
+      ],
+      "lyrics_count": 1,
+      "whisper_count": 2,
+      "score": 0.877077922077922,
+      "detail": {
+        "hira_score": 0.8,
+        "roma_score": 0.9090909090909091,
+        "roma_mom_score": 0.9285714285714286
+      },
+      "lyrics_text": "この本を捨てよう町へ出よう",
+      "whisper_text": "この本を捨てよう / 待ち入れてよ",
+      "lyrics_roma": "kono hon wo suteyou machi e de you",
+      "whisper_roma": "kono hon wo suteyou machiirete yo"
+    }
+  ]
+}

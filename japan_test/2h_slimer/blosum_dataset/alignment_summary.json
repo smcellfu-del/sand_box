@@ -1,0 +1,51 @@
+{
+  "song_count": 3,
+  "total_pairs": 3953,
+  "operations": {
+    "MATCH": 3683,
+    "DELETE": 55,
+    "INSERT": 126,
+    "SUB": 89
+  },
+  "songs": [
+    {
+      "song": "ヨルシカ_八月、某、月明かり",
+      "dp_score": 3257,
+      "lyrics_token_count": 1741,
+      "asr_token_count": 1747,
+      "pair_count": 1768,
+      "operations": {
+        "MATCH": 1691,
+        "DELETE": 21,
+        "INSERT": 27,
+        "SUB": 29
+      }
+    },
+    {
+      "song": "ヨルシカ_千鳥",
+      "dp_score": 1517,
+      "lyrics_token_count": 900,
+      "asr_token_count": 926,
+      "pair_count": 942,
+      "operations": {
+        "INSERT": 42,
+        "MATCH": 839,
+        "DELETE": 16,
+        "SUB": 45
+      }
+    },
+    {
+      "song": "ヨルシカ_左右盲",
+      "dp_score": 2141,
+      "lyrics_token_count": 1186,
+      "asr_token_count": 1225,
+      "pair_count": 1243,
+      "operations": {
+        "INSERT": 57,
+        "MATCH": 1153,
+        "SUB": 15,
+        "DELETE": 18
+      }
+    }
+  ]
+}

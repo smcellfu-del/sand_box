@@ -1,0 +1,1352 @@
+{
+  "total_score": 7.847249639228671,
+  "final_alignment": [
+    {
+      "index": 0,
+      "path_index": 0,
+      "match_index": 0,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        0,
+        1
+      ],
+      "whisper_range": [
+        0,
+        0
+      ],
+      "lyrics_text": "僕に心を / 君に花束を",
+      "whisper_text": "僕に心を 君に花束を",
+      "start": 2.1,
+      "end": 8.0,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 1,
+      "path_index": 1,
+      "match_index": 1,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        2,
+        2
+      ],
+      "whisper_range": [
+        1,
+        1
+      ],
+      "lyrics_text": "揺れる髪だけ靡くままにして",
+      "whisper_text": "揺れる髪だけ なびくままにして",
+      "start": 8.0,
+      "end": 14.0,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 2,
+      "path_index": 2,
+      "match_index": 2,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        3,
+        4
+      ],
+      "whisper_range": [
+        2,
+        3
+      ],
+      "lyrics_text": "箱の中の小さい家の / 二人で並んだキッチンの小窓のカーテンの先の思い出の庭に",
+      "whisper_text": "箱の中の小さい家の 二人で並んだキッチンの / 小窓のカーテンの先の 思い出の庭に",
+      "start": 27.68,
+      "end": 39.6,
+      "score": 0.9241749607124148,
+      "detail": {
+        "hira_score": 0.8260869565217391,
+        "roma_score": 0.9879518072289156,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 3,
+      "path_index": 3,
+      "match_index": 3,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        5,
+        5
+      ],
+      "whisper_range": [
+        4,
+        4
+      ],
+      "lyrics_text": "春の日差しを一つ埋めてたまには少しの水をやって",
+      "whisper_text": "春の日差しをひとつ埋めて たまには少しの水をやって",
+      "start": 40.02,
+      "end": 45.7,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 4,
+      "path_index": 4,
+      "match_index": 4,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        6,
+        6
+      ],
+      "whisper_range": [
+        5,
+        5
+      ],
+      "lyrics_text": "小さな枇杷が生ったとき忘れてください",
+      "whisper_text": "小さなビワが鳴った時 忘れてください",
+      "start": 45.7,
+      "end": 51.0,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 5,
+      "path_index": 5,
+      "match_index": 5,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        7,
+        7
+      ],
+      "whisper_range": [
+        6,
+        6
+      ],
+      "lyrics_text": "僕に僕に僕に",
+      "whisper_text": "僕に 僕に 僕に",
+      "start": 51.36,
+      "end": 57.0,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 6,
+      "path_index": 6,
+      "match_index": 6,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        8,
+        9
+      ],
+      "whisper_range": [
+        7,
+        7
+      ],
+      "lyrics_text": "僕に心を / 君に花束を",
+      "whisper_text": "僕に心を 君に花束を",
+      "start": 57.52,
+      "end": 63.0,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 7,
+      "path_index": 7,
+      "match_index": 7,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        10,
+        10
+      ],
+      "whisper_range": [
+        8,
+        8
+      ],
+      "lyrics_text": "揺れる髪だけ靡くままにして",
+      "whisper_text": "揺れる髪だけ なびくままにして",
+      "start": 63.0,
+      "end": 69.0,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 8,
+      "path_index": 8,
+      "match_index": 8,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        11,
+        12
+      ],
+      "whisper_range": [
+        9,
+        9
+      ],
+      "lyrics_text": "僕に言葉を / 君の鼻歌を",
+      "whisper_text": "僕に言葉を 君の花唄を",
+      "start": 69.0,
+      "end": 75.0,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 9,
+      "path_index": 9,
+      "match_index": 9,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        13,
+        13
+      ],
+      "whisper_range": [
+        10,
+        10
+      ],
+      "lyrics_text": "長い長い迷路の先に置いて",
+      "whisper_text": "長い長い迷路の先に置いて",
+      "start": 75.0,
+      "end": 86.0,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 10,
+      "path_index": 10,
+      "type": "unknown_skip_whisper",
+      "status": "skipped",
+      "whisper_index": 11,
+      "whisper_text": "ご視聴ありがとうございました",
+      "start": 87.0,
+      "end": 87.1,
+      "classification": {
+        "type": "unknown_skip_whisper",
+        "whisper_index": 11,
+        "whisper_range": [
+          11,
+          11
+        ],
+        "score": 0.3793103448275862,
+        "best_candidate": {
+          "side": "left",
+          "lyrics_range": [
+            11,
+            12
+          ],
+          "score": 0.3793103448275862
+        },
+        "line": "ご視聴ありがとうございました"
+      }
+    },
+    {
+      "index": 11,
+      "path_index": 11,
+      "match_index": 10,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        14,
+        14
+      ],
+      "whisper_range": [
+        12,
+        12
+      ],
+      "lyrics_text": "一つ一つ数えてみてあなた自身の人生のあなたが愛したいものを",
+      "whisper_text": "ひとつひとつ数えてみて あなた自身の人生の あなたが愛したいものを",
+      "start": 98.46,
+      "end": 107.9,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 12,
+      "path_index": 12,
+      "match_index": 11,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        15,
+        16
+      ],
+      "whisper_range": [
+        13,
+        14
+      ],
+      "lyrics_text": "何もないのかい / 海の側の小さい駅を歩いて五分の海岸の僕と見た翡翠の色も忘れてください",
+      "whisper_text": "何もないのかい 海のそばの小さい駅を 歩いて5分の海岸の / 僕と満たし水の色も 忘れてください",
+      "start": 108.22,
+      "end": 122.1,
+      "score": 0.8903050108932461,
+      "detail": {
+        "hira_score": 0.8888888888888888,
+        "roma_score": 0.9417989417989417,
+        "roma_mom_score": 0.9607843137254902
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 13,
+      "path_index": 13,
+      "type": "repeat_whisper",
+      "status": "repeat",
+      "whisper_index": 15,
+      "whisper_text": "僕に",
+      "start": 122.1,
+      "end": 123.6,
+      "repeat_of_lyrics_range": [
+        17,
+        17
+      ],
+      "repeat_side": "right",
+      "score": 1.0
+    },
+    {
+      "index": 14,
+      "path_index": 14,
+      "type": "unknown_skip_whisper",
+      "status": "skipped",
+      "whisper_index": 16,
+      "whisper_text": "僕に",
+      "start": 123.66,
+      "end": 125.2,
+      "classification": null
+    },
+    {
+      "index": 15,
+      "path_index": 15,
+      "type": "unknown_skip_whisper",
+      "status": "skipped",
+      "whisper_index": 17,
+      "whisper_text": "僕に",
+      "start": 125.24,
+      "end": 126.7,
+      "classification": null
+    },
+    {
+      "index": 16,
+      "path_index": 16,
+      "match_index": 12,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        17,
+        17
+      ],
+      "whisper_range": [
+        18,
+        20
+      ],
+      "lyrics_text": "僕に僕に僕に",
+      "whisper_text": "僕に / 僕に / 僕に",
+      "start": 128.28,
+      "end": 141.7,
+      "score": 0.9499999999999998,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 17,
+      "path_index": 17,
+      "match_index": 13,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        18,
+        19
+      ],
+      "whisper_range": [
+        21,
+        21
+      ],
+      "lyrics_text": "僕に心を / 君に花束を",
+      "whisper_text": "僕に誇ろう 君に花束を",
+      "start": 152.88,
+      "end": 158.7,
+      "score": 0.8890112994350282,
+      "detail": {
+        "hira_score": 0.8666666666666667,
+        "roma_score": 0.9152542372881356,
+        "roma_mom_score": 0.9333333333333333
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 18,
+      "path_index": 18,
+      "match_index": 14,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        20,
+        20
+      ],
+      "whisper_range": [
+        22,
+        22
+      ],
+      "lyrics_text": "揺れる髪だけ靡くままにして",
+      "whisper_text": "揺れる髪だけ 眩くままにして",
+      "start": 158.7,
+      "end": 164.7,
+      "score": 0.898891129032258,
+      "detail": {
+        "hira_score": 0.8387096774193549,
+        "roma_score": 0.90625,
+        "roma_mom_score": 0.9032258064516129
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 19,
+      "path_index": 19,
+      "match_index": 15,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        21,
+        22
+      ],
+      "whisper_range": [
+        23,
+        23
+      ],
+      "lyrics_text": "僕に言葉を / 君の鼻歌を",
+      "whisper_text": "僕に言葉を 君の鼻歌を",
+      "start": 164.7,
+      "end": 170.7,
+      "score": 0.9749999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 20,
+      "path_index": 20,
+      "match_index": 16,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        23,
+        23
+      ],
+      "whisper_range": [
+        24,
+        24
+      ],
+      "lyrics_text": "長い長い迷路の先に置いて",
+      "whisper_text": "長い長い 銘色の先に置いて",
+      "start": 170.7,
+      "end": 181.7,
+      "score": 0.9207711792851111,
+      "detail": {
+        "hira_score": 0.8823529411764706,
+        "roma_score": 0.9122807017543859,
+        "roma_mom_score": 0.9696969696969697
+      },
+      "boundary_adjustments": []
+    },
+    {
+      "index": 21,
+      "path_index": 21,
+      "type": "unknown_skip_whisper",
+      "status": "skipped",
+      "whisper_index": 25,
+      "whisper_text": "最後までご視聴ありがとうございました!",
+      "start": 182.24,
+      "end": 182.5,
+      "classification": {
+        "type": "unknown_skip_whisper",
+        "whisper_index": 25,
+        "whisper_range": [
+          25,
+          25
+        ],
+        "score": 0.3486238532110092,
+        "best_candidate": {
+          "side": "right",
+          "lyrics_range": [
+            24,
+            25
+          ],
+          "score": 0.3486238532110092
+        },
+        "line": "最後までご視聴ありがとうございました!"
+      }
+    },
+    {
+      "index": 22,
+      "path_index": 22,
+      "match_index": 17,
+      "type": "boundary_match",
+      "status": "boundary_adjusted",
+      "lyrics_range": [
+        24,
+        25
+      ],
+      "whisper_range": [
+        26,
+        27
+      ],
+      "lyrics_text": "箱の中の小さい家の / 朝の日に揺れるカーテンを開けた静かな休日の",
+      "whisper_text": "箱の中の小さい家の 朝の日に揺れるカーテンを / 開けた静かな休日の寝起きの君が",
+      "start": 193.8,
+      "end": 205.3,
+      "score": 0.8473270550753156,
+      "detail": {
+        "hira_score": 0.8235294117647058,
+        "roma_score": 0.9032258064516129,
+        "roma_mom_score": 0.9135802469135802
+      },
+      "boundary_adjustments": [
+        {
+          "side": "current",
+          "case": "tail_to_next",
+          "between_match": [
+            17,
+            18
+          ],
+          "suggestion": {
+            "type": "tail_to_next",
+            "score": 1.0,
+            "whisper_index": 27,
+            "lyrics_index": 26,
+            "source_text": "neokinokimiga",
+            "target_text": "neokinokimiga",
+            "length": 13,
+            "split_at": 25
+          },
+          "validation": {
+            "old_score": 1.7630388905637624,
+            "new_score": 1.96924882629108,
+            "improvement": 0.2062099357273175,
+            "accepted": true,
+            "fixed_current_whisper_roma": "bakononakanochiisaiienoasanohiniyurerukaatenwoaketashizukanakyuujitsuno",
+            "fixed_next_whisper_roma": "neokinokimiganebokemanukodesuwattasonoasanodaininguteeburuni"
+          },
+          "fixed_whisper_roma": "bakononakanochiisaiienoasanohiniyurerukaatenwoaketashizukanakyuujitsuno"
+        }
+      ],
+      "fixed_whisper_roma": "bakononakanochiisaiienoasanohiniyurerukaatenwoaketashizukanakyuujitsuno"
+    },
+    {
+      "index": 23,
+      "path_index": 23,
+      "match_index": 18,
+      "type": "boundary_match",
+      "status": "boundary_adjusted",
+      "lyrics_range": [
+        26,
+        26
+      ],
+      "whisper_range": [
+        28,
+        28
+      ],
+      "lyrics_text": "寝起きの君が寝ぼけ眼で座ったその朝のダイニングテーブルに",
+      "whisper_text": "寝ぼけまぬ子で座ったその 朝のダイニングテーブルに",
+      "start": 206.1,
+      "end": 211.3,
+      "score": 0.8267690047952997,
+      "detail": {
+        "hira_score": 0.576271186440678,
+        "roma_score": 0.8598130841121495,
+        "roma_mom_score": 0.8363636363636363
+      },
+      "boundary_adjustments": [
+        {
+          "side": "next",
+          "case": "tail_to_next",
+          "between_match": [
+            17,
+            18
+          ],
+          "suggestion": {
+            "type": "tail_to_next",
+            "score": 1.0,
+            "whisper_index": 27,
+            "lyrics_index": 26,
+            "source_text": "neokinokimiga",
+            "target_text": "neokinokimiga",
+            "length": 13,
+            "split_at": 25
+          },
+          "validation": {
+            "old_score": 1.7630388905637624,
+            "new_score": 1.96924882629108,
+            "improvement": 0.2062099357273175,
+            "accepted": true,
+            "fixed_current_whisper_roma": "bakononakanochiisaiienoasanohiniyurerukaatenwoaketashizukanakyuujitsuno",
+            "fixed_next_whisper_roma": "neokinokimiganebokemanukodesuwattasonoasanodaininguteeburuni"
+          },
+          "fixed_whisper_roma": "neokinokimiganebokemanukodesuwattasonoasanodaininguteeburuni"
+        }
+      ],
+      "fixed_whisper_roma": "neokinokimiganebokemanukodesuwattasonoasanodaininguteeburuni"
+    },
+    {
+      "index": 24,
+      "path_index": 24,
+      "match_index": 19,
+      "type": "match",
+      "status": "matched",
+      "lyrics_range": [
+        27,
+        27
+      ],
+      "whisper_range": [
+        29,
+        29
+      ],
+      "lyrics_text": "僕の心があったこと忘れてください",
+      "whisper_text": "僕の心があったこと 忘れてください",
+      "start": 211.3,
+      "end": 217.3,
+      "score": 0.9999999999999999,
+      "detail": {
+        "hira_score": 1.0,
+        "roma_score": 1.0,
+        "roma_mom_score": 1.0
+      },
+      "boundary_adjustments": []
+    }
+  ],
+  "debug": {
+    "path": [
+      {
+        "prev": [
+          0,
+          0
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            0,
+            1
+          ],
+          "whisper_range": [
+            0,
+            0
+          ],
+          "lyrics_count": 2,
+          "whisper_count": 1,
+          "score": 0.9749999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          2,
+          1
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            2,
+            2
+          ],
+          "whisper_range": [
+            1,
+            1
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.9999999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          3,
+          2
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            3,
+            4
+          ],
+          "whisper_range": [
+            2,
+            3
+          ],
+          "lyrics_count": 2,
+          "whisper_count": 2,
+          "score": 0.9241749607124148,
+          "detail": {
+            "hira_score": 0.8260869565217391,
+            "roma_score": 0.9879518072289156,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          5,
+          4
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            5,
+            5
+          ],
+          "whisper_range": [
+            4,
+            4
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.9999999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          6,
+          5
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            6,
+            6
+          ],
+          "whisper_range": [
+            5,
+            5
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.9999999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          7,
+          6
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            7,
+            7
+          ],
+          "whisper_range": [
+            6,
+            6
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.9999999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          8,
+          7
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            8,
+            9
+          ],
+          "whisper_range": [
+            7,
+            7
+          ],
+          "lyrics_count": 2,
+          "whisper_count": 1,
+          "score": 0.9749999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          10,
+          8
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            10,
+            10
+          ],
+          "whisper_range": [
+            8,
+            8
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.9999999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          11,
+          9
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            11,
+            12
+          ],
+          "whisper_range": [
+            9,
+            9
+          ],
+          "lyrics_count": 2,
+          "whisper_count": 1,
+          "score": 0.9749999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          13,
+          10
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            13,
+            13
+          ],
+          "whisper_range": [
+            10,
+            10
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.9999999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          14,
+          11
+        ],
+        "type": "skip_whisper",
+        "data": {
+          "whisper_index": 11,
+          "whisper_line": "ご視聴ありがとうございました"
+        }
+      },
+      {
+        "prev": [
+          14,
+          12
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            14,
+            14
+          ],
+          "whisper_range": [
+            12,
+            12
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.9999999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          15,
+          13
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            15,
+            16
+          ],
+          "whisper_range": [
+            13,
+            14
+          ],
+          "lyrics_count": 2,
+          "whisper_count": 2,
+          "score": 0.8903050108932461,
+          "detail": {
+            "hira_score": 0.8888888888888888,
+            "roma_score": 0.9417989417989417,
+            "roma_mom_score": 0.9607843137254902
+          }
+        }
+      },
+      {
+        "prev": [
+          17,
+          15
+        ],
+        "type": "skip_whisper",
+        "data": {
+          "whisper_index": 15,
+          "whisper_line": "僕に"
+        }
+      },
+      {
+        "prev": [
+          17,
+          16
+        ],
+        "type": "skip_whisper",
+        "data": {
+          "whisper_index": 16,
+          "whisper_line": "僕に"
+        }
+      },
+      {
+        "prev": [
+          17,
+          17
+        ],
+        "type": "skip_whisper",
+        "data": {
+          "whisper_index": 17,
+          "whisper_line": "僕に"
+        }
+      },
+      {
+        "prev": [
+          17,
+          18
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            17,
+            17
+          ],
+          "whisper_range": [
+            18,
+            20
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 3,
+          "score": 0.9499999999999998,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          18,
+          21
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            18,
+            19
+          ],
+          "whisper_range": [
+            21,
+            21
+          ],
+          "lyrics_count": 2,
+          "whisper_count": 1,
+          "score": 0.8890112994350282,
+          "detail": {
+            "hira_score": 0.8666666666666667,
+            "roma_score": 0.9152542372881356,
+            "roma_mom_score": 0.9333333333333333
+          }
+        }
+      },
+      {
+        "prev": [
+          20,
+          22
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            20,
+            20
+          ],
+          "whisper_range": [
+            22,
+            22
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.898891129032258,
+          "detail": {
+            "hira_score": 0.8387096774193549,
+            "roma_score": 0.90625,
+            "roma_mom_score": 0.9032258064516129
+          }
+        }
+      },
+      {
+        "prev": [
+          21,
+          23
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            21,
+            22
+          ],
+          "whisper_range": [
+            23,
+            23
+          ],
+          "lyrics_count": 2,
+          "whisper_count": 1,
+          "score": 0.9749999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      },
+      {
+        "prev": [
+          23,
+          24
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            23,
+            23
+          ],
+          "whisper_range": [
+            24,
+            24
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.9207711792851111,
+          "detail": {
+            "hira_score": 0.8823529411764706,
+            "roma_score": 0.9122807017543859,
+            "roma_mom_score": 0.9696969696969697
+          }
+        }
+      },
+      {
+        "prev": [
+          24,
+          25
+        ],
+        "type": "skip_whisper",
+        "data": {
+          "whisper_index": 25,
+          "whisper_line": "最後までご視聴ありがとうございました!"
+        }
+      },
+      {
+        "prev": [
+          24,
+          26
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            24,
+            25
+          ],
+          "whisper_range": [
+            26,
+            27
+          ],
+          "lyrics_count": 2,
+          "whisper_count": 2,
+          "score": 0.8473270550753156,
+          "detail": {
+            "hira_score": 0.8235294117647058,
+            "roma_score": 0.9032258064516129,
+            "roma_mom_score": 0.9135802469135802
+          }
+        }
+      },
+      {
+        "prev": [
+          26,
+          28
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            26,
+            26
+          ],
+          "whisper_range": [
+            28,
+            28
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.8267690047952997,
+          "detail": {
+            "hira_score": 0.576271186440678,
+            "roma_score": 0.8598130841121495,
+            "roma_mom_score": 0.8363636363636363
+          }
+        }
+      },
+      {
+        "prev": [
+          27,
+          29
+        ],
+        "type": "match",
+        "data": {
+          "lyrics_range": [
+            27,
+            27
+          ],
+          "whisper_range": [
+            29,
+            29
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.9999999999999999,
+          "detail": {
+            "hira_score": 1.0,
+            "roma_score": 1.0,
+            "roma_mom_score": 1.0
+          }
+        }
+      }
+    ],
+    "skip_results": [
+      {
+        "type": "unknown_skip_whisper",
+        "whisper_index": 11,
+        "whisper_range": [
+          11,
+          11
+        ],
+        "score": 0.3793103448275862,
+        "best_candidate": {
+          "side": "left",
+          "lyrics_range": [
+            11,
+            12
+          ],
+          "score": 0.3793103448275862
+        },
+        "line": "ご視聴ありがとうございました"
+      },
+      {
+        "type": "repeat_whisper",
+        "whisper_index": 15,
+        "whisper_range": [
+          15,
+          17
+        ],
+        "repeat_of_lyrics_range": [
+          17,
+          17
+        ],
+        "side": "right",
+        "score": 1.0,
+        "line": "僕に / 僕に / 僕に"
+      },
+      {
+        "type": "unknown_skip_whisper",
+        "whisper_index": 25,
+        "whisper_range": [
+          25,
+          25
+        ],
+        "score": 0.3486238532110092,
+        "best_candidate": {
+          "side": "right",
+          "lyrics_range": [
+            24,
+            25
+          ],
+          "score": 0.3486238532110092
+        },
+        "line": "最後までご視聴ありがとうございました!"
+      }
+    ],
+    "boundary_results": [
+      {
+        "between_match": [
+          17,
+          18
+        ],
+        "case": "tail_to_next",
+        "current_match": {
+          "lyrics_range": [
+            24,
+            25
+          ],
+          "whisper_range": [
+            26,
+            27
+          ],
+          "lyrics_count": 2,
+          "whisper_count": 2,
+          "score": 0.8473270550753156,
+          "detail": {
+            "hira_score": 0.8235294117647058,
+            "roma_score": 0.9032258064516129,
+            "roma_mom_score": 0.9135802469135802
+          }
+        },
+        "next_match": {
+          "lyrics_range": [
+            26,
+            26
+          ],
+          "whisper_range": [
+            28,
+            28
+          ],
+          "lyrics_count": 1,
+          "whisper_count": 1,
+          "score": 0.8267690047952997,
+          "detail": {
+            "hira_score": 0.576271186440678,
+            "roma_score": 0.8598130841121495,
+            "roma_mom_score": 0.8363636363636363
+          }
+        },
+        "suggestion": {
+          "type": "tail_to_next",
+          "score": 1.0,
+          "whisper_index": 27,
+          "lyrics_index": 26,
+          "source_text": "neokinokimiga",
+          "target_text": "neokinokimiga",
+          "length": 13,
+          "split_at": 25
+        },
+        "validation": {
+          "old_score": 1.7630388905637624,
+          "new_score": 1.96924882629108,
+          "improvement": 0.2062099357273175,
+          "accepted": true,
+          "fixed_current_whisper_roma": "bakononakanochiisaiienoasanohiniyurerukaatenwoaketashizukanakyuujitsuno",
+          "fixed_next_whisper_roma": "neokinokimiganebokemanukodesuwattasonoasanodaininguteeburuni"
+        }
+      }
+    ]
+  }
+}

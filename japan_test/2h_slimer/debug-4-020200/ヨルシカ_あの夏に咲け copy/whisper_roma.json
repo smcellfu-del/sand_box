@@ -1,0 +1,43 @@
+[
+  {
+    "start": 5.5,
+    "end": 8.0,
+    "line": "君が触れた たったった",
+    "hira": "きみがふれたたったった",
+    "roma": "kimi ga fureta tattatta",
+    "roma_mom": "ii a uea aaa"
+  },
+  {
+    "start": 8.0,
+    "end": 12.0,
+    "line": "ただの花さえ笑って 宙に叫え",
+    "hira": "ただのはなさえわらってちゅうにさけびえ",
+    "roma": "tada no hana sae waratte chuu ni sakebi e",
+    "roma_mom": "aa o aa ae aae uu i aei e"
+  },
+  {
+    "start": 8.0,
+    "end": 12.0,
+    "line": "ただってただって ただって ただって  ",
+    "hira": "ただのはなさえわらってちゅうにさけびえ",
+    "roma": "tada no hana sae waratte chuu ni sakebi e",
+    "roma_mom": "aa o aa ae aae uu i aei e"
+  },
+  {
+    "start": 12.0,
+    "end": 16.0,
+    "line": "君にだって 照れるまま座って",
+    "hira": "きみにだっててれるまますわって",
+    "roma": "kimi ni datte tereru mama suwatte",
+    "roma_mom": "ii i ae eeu aa uae"
+  },
+  {
+    "start": 16.12,
+    "end": 19.0,
+    "line": "バスの最終時刻をパー",
+    "hira": "ばすのさいしゅうじこくをぱー",
+    "roma": "basu no saishuu jikoku wo paa",
+    "roma_mom": "au o aiuu iou o aa"
+  }
+  
+]

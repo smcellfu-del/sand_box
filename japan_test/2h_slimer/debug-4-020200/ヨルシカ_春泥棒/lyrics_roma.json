@@ -1,0 +1,402 @@
+[
+  {
+    "start": 0,
+    "end": 0,
+    "line": "高架橋を抜けたら雲の隙間に青が覗いた",
+    "hira": "こうかきょうをぬけたらくものすきまにあおがのぞいた",
+    "roma": "kou ka kyou wo nuketara kumo no sukima ni ao ga nozoita",
+    "roma_mom": "ou a ou o ueaa uo o uia i ao a ooia"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "最近どうも暑いからただ風が吹くのを待ってた",
+    "hira": "さいきんどうもあついからただかぜがふくのをまってた",
+    "roma": "saikin dou mo atsuikara tada kaze ga fuku no wo matteta",
+    "roma_mom": "aii ou o auiaa aa ae a uu o o aea"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "木陰に座る",
+    "hira": "こかげにすわる",
+    "roma": "kokage ni suwaru",
+    "roma_mom": "oae i uau"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "何か頬に付く",
+    "hira": "なにかほおにつく",
+    "roma": "nani ka hoo ni tsuku",
+    "roma_mom": "ai a oo i uu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "見上げれば頭上に咲いて散る",
+    "hira": "みあげればずじょうにさいてちる",
+    "roma": "miagereba zujou ni saite chiru",
+    "roma_mom": "iaeea uou i aie iu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "はらり僕らもう息も忘れて",
+    "hira": "はらりぼくらもういきもわすれて",
+    "roma": "harari bokura mou iki mo wasurete",
+    "roma_mom": "aai oua ou ii o auee"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "瞬きさえ億劫",
+    "hira": "またたきさえおっくう",
+    "roma": "matataki sae okkuu",
+    "roma_mom": "aaai ae ouu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "さぁ今日さえ明日過去に変わる",
+    "hira": "さぁきょうさえあしたかこにかわる",
+    "roma": "sa kyou sae ashita kako ni kawaru",
+    "roma_mom": "a ou ae aia ao i aau"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "ただ風を待つ",
+    "hira": "ただかぜをまつ",
+    "roma": "tada kaze wo matsu",
+    "roma_mom": "aa ae o au"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "だから僕らもう声も忘れて",
+    "hira": "だからぼくらもうこえもわすれて",
+    "roma": "dakara bokura mou koe mo wasurete",
+    "roma_mom": "aaa oua ou oe o auee"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "さよならさえ億劫",
+    "hira": "さよならさえおっくう",
+    "roma": "sayonara sae okkuu",
+    "roma_mom": "aoaa ae ouu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "ただ花が降るだけ晴れり",
+    "hira": "ただはながふるだけはれり",
+    "roma": "tada hana ga furu dake hareri",
+    "roma_mom": "aa aa a uu ae aei"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "今春吹雪",
+    "hira": "いまはるふぶき",
+    "roma": "ima haru fubuki",
+    "roma_mom": "ia au uui"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "次の日も待ち合わせ",
+    "hira": "つぎのひもまちあわせ",
+    "roma": "tsugi no himo machiawase",
+    "roma_mom": "ui o io aiaae"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "花見の客も少なくなった",
+    "hira": "はなみのきゃくもすくなくなった",
+    "roma": "hanami no kyaku mo sukunaku natta",
+    "roma_mom": "aai o au o uuau aa"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "春の匂いはもう止む",
+    "hira": "はるのにおいはもうやむ",
+    "roma": "haru no nioi wa mou yamu",
+    "roma_mom": "au o ioi a ou au"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "今年も夏が来るのか",
+    "hira": "ことしもなつがくるのか",
+    "roma": "kotoshi mo natsu ga kuru no ka",
+    "roma_mom": "ooi o au a uu o a"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "高架橋を抜けたら道の先に君が覗いた",
+    "hira": "こうかきょうをぬけたらみちのさきにきみがのぞいた",
+    "roma": "kou ka kyou wo nuketara michi no saki ni kimi ga nozoita",
+    "roma_mom": "ou a ou o ueaa ii o ai i ii a ooia"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "残りはどれだけかな",
+    "hira": "のこりはどれだけかな",
+    "roma": "nokori wa dore dake ka na",
+    "roma_mom": "ooi a oe ae a a"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "どれだけ春に会えるだろう",
+    "hira": "どれだけはるにあえるだろう",
+    "roma": "dore dake haru ni aerudarou",
+    "roma_mom": "oe ae au i aeuaou"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "川沿いの丘木陰に座る",
+    "hira": "かわぞいのおかこかげにすわる",
+    "roma": "kawazoi no okako kage ni suwaru",
+    "roma_mom": "aaoi o oao ae i uau"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "また昨日と変わらず今日も咲く花に",
+    "hira": "またきのうとかわらずきょうもさくはなに",
+    "roma": "mata kinou to kawarazu kyou mo saku wa nani",
+    "roma_mom": "aa iou o aaau ou o au a ai"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "僕らもう息も忘れて",
+    "hira": "ぼくらもういきもわすれて",
+    "roma": "bokura mou iki mo wasurete",
+    "roma_mom": "oua ou ii o auee"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "瞬きさえ億劫",
+    "hira": "またたきさえおっくう",
+    "roma": "matataki sae okkuu",
+    "roma_mom": "aaai ae ouu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "花散らせ今吹くこの嵐は",
+    "hira": "はなちらせいまふくこのあらしは",
+    "roma": "hana chirase ima fuku kono arashi wa",
+    "roma_mom": "aa iae ia uu oo aai a"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "まさに春泥棒",
+    "hira": "まさにはるどろぼう",
+    "roma": "masani haru dorobou",
+    "roma_mom": "aai au ooou"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "風に今日ももう時が流れて",
+    "hira": "かぜにきょうももうときがながれて",
+    "roma": "kaze ni kyou mo mou toki ga nagarete",
+    "roma_mom": "ae i ou o ou oi a aaee"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "立つことさえ億劫",
+    "hira": "たつことさえおっくう",
+    "roma": "tatsu koto sae okkuu",
+    "roma_mom": "au oo ae ouu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "花の隙間に空散れり",
+    "hira": "はなのすきまにそらちれり",
+    "roma": "hana no sukima ni sora chireri",
+    "roma_mom": "aa o uia i oa iei"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "まだ春吹雪",
+    "hira": "まだはるふぶき",
+    "roma": "mada haru fubuki",
+    "roma_mom": "aa au uui"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "今日も会いに行く",
+    "hira": "きょうもあいにいく",
+    "roma": "kyou mo ai ni iku",
+    "roma_mom": "ou o ai i iu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "木陰に座る",
+    "hira": "こかげにすわる",
+    "roma": "kokage ni suwaru",
+    "roma_mom": "oae i uau"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "溜息を吐く",
+    "hira": "ためいきをつく",
+    "roma": "tameiki wo tsuku",
+    "roma_mom": "aeii o uu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "花ももう終わる",
+    "hira": "はなももうおわる",
+    "roma": "hana mo mou owaru",
+    "roma_mom": "aa o ou oau"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "明日も会いに行く",
+    "hira": "あすもあいにいく",
+    "roma": "asu mo ai ni iku",
+    "roma_mom": "au o ai i iu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "春がもう終わる",
+    "hira": "はるがもうおわる",
+    "roma": "haru ga mou owaru",
+    "roma_mom": "au a ou oau"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "名残るように時間が散っていく",
+    "hira": "なごるようにじかんがちっていく",
+    "roma": "nagoru you ni jikan ga chitte iku",
+    "roma_mom": "aou ou i ia a ie iu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "愛を歌えば言葉足らず",
+    "hira": "あいをうたえばことばたらず",
+    "roma": "ai wo utaeba koto ba tarazu",
+    "roma_mom": "ai o uaea oo a aau"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "踏む韻さえ億劫",
+    "hira": "ふむいんさえおっくう",
+    "roma": "fumu in sae okkuu",
+    "roma_mom": "uu i ae ouu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "花開いた今を言葉如きが語れるものか",
+    "hira": "はなひらいたいまをことばごときがかたれるものか",
+    "roma": "hana hiraita ima wo kotoba gotokiga katareru mono ka",
+    "roma_mom": "aa iaia ia o ooa ooia aaeu oo a"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "はらり僕らもう声も忘れて",
+    "hira": "はらりぼくらもうこえもわすれて",
+    "roma": "harari bokura mou koe mo wasurete",
+    "roma_mom": "aai oua ou oe o auee"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "瞬きさえ億劫",
+    "hira": "またたきさえおっくう",
+    "roma": "matataki sae okkuu",
+    "roma_mom": "aaai ae ouu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "花見は僕らだけ",
+    "hira": "はなみはぼくらだけ",
+    "roma": "hanami wa bokura dake",
+    "roma_mom": "aai a oua ae"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "散るなまだ春吹雪",
+    "hira": "ちるなまだはるふぶき",
+    "roma": "chiru na mada haru fubuki",
+    "roma_mom": "iu a aa au uui"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "あともう少しだけ",
+    "hira": "あともうすこしだけ",
+    "roma": "ato mou sukoshi dake",
+    "roma_mom": "ao ou uoi ae"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "もう数えられるだけ",
+    "hira": "もうかぞえられるだけ",
+    "roma": "mou kazoerareru dake",
+    "roma_mom": "ou aoeaeu ae"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "あと花二つだけ",
+    "hira": "あとはなふたつだけ",
+    "roma": "ato hana futatsu dake",
+    "roma_mom": "ao aa uau ae"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "もう花一つだけ",
+    "hira": "もうはなひとつだけ",
+    "roma": "mou hana hitotsu dake",
+    "roma_mom": "ou aa iou ae"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "ただ葉が残るだけはらり",
+    "hira": "ただはがのこるだけはらり",
+    "roma": "tada wa ga nokoru dake harari",
+    "roma_mom": "aa a a oou ae aai"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "今春仕舞い",
+    "hira": "いまはるじまい",
+    "roma": "ima harujimai",
+    "roma_mom": "ia auiai"
+  }
+]

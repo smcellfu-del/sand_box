@@ -1,0 +1,280 @@
+[
+  {
+    "start": 11.5,
+    "end": 13.0,
+    "line": "ん",
+    "hira": "ん",
+    "roma": "n",
+    "roma_mom": ""
+  },
+  {
+    "start": 15.36,
+    "end": 17.0,
+    "line": "ん",
+    "hira": "ん",
+    "roma": "n",
+    "roma_mom": ""
+  },
+  {
+    "start": 20.26,
+    "end": 27.9,
+    "line": "風が | 表| で呼んでいる 呼んでいる さあ行こう海を抜いて",
+    "hira": "かぜが | ひょう |でよんでいる よんでいる さあいこうかいをぬいて"
+  }, 
+  {
+    "start": 27.9,
+    "end": 32.5,
+    "line": "あなたと私ちょうどいい昼間",
+    "hira": "あなたとわたくしちょうどいいひるま",
+    "roma": "anata to watakushi choudo ii hiruma",
+    "roma_mom": "aaa o aaui ouo ii iua"
+  },
+  {
+    "start": 34.8,
+    "end": 40.8,
+    "line": "風が表で呼んでいる 飛んでいる",
+    "hira": "かぜがひょうでよんでいるとんでいる",
+    "roma": "kaze ga hyou de yonde iru tonde iru",
+    "roma_mom": "ae a ou e oe iu oe iu"
+  },
+  {
+    "start": 41.02,
+    "end": 44.3,
+    "line": "3時半 腕を振って",
+    "hira": "3じはんうでをふって",
+    "roma": "ji han ude wo futte",
+    "roma_mom": "i a ue o ue"
+  },
+  {
+    "start": 44.3,
+    "end": 50.3,
+    "line": "地とり足のあたし 確かに今日も回り道",
+    "hira": "ちとりあしのあたしたしかにきょうもまわりみち",
+    "roma": "chi tori ashi no atashi tashika ni kyou mo mawarimichi",
+    "roma_mom": "i oi ai o aai aia i ou o aaiii"
+  },
+  {
+    "start": 52.3,
+    "end": 57.3,
+    "line": "多分私は生きている",
+    "hira": "たぶんわたくしはいきている",
+    "roma": "tabun watakushi wa ikite iru",
+    "roma_mom": "au aaui a iie iu"
+  },
+  {
+    "start": 58.3,
+    "end": 62.3,
+    "line": "風が私を呼んでいる",
+    "hira": "かぜがわたくしをよんでいる",
+    "roma": "kaze ga watakushi wo yonde iru",
+    "roma_mom": "ae a aaui o oe iu"
+  },
+  {
+    "start": 62.3,
+    "end": 66.3,
+    "line": "鳥が私を呼んでいる",
+    "hira": "とりがわたくしをよんでいる",
+    "roma": "tori ga watakushi wo yonde iru",
+    "roma_mom": "oi a aaui o oe iu"
+  },
+  {
+    "start": 66.3,
+    "end": 69.3,
+    "line": "ふざけたあれの変点",
+    "hira": "ふざけたあれのへんてん",
+    "roma": "fuzaketa are no hen ten",
+    "roma_mom": "uaea ae o e e"
+  },
+  {
+    "start": 69.3,
+    "end": 74.3,
+    "line": "ただ私は宵に酔ったふり",
+    "hira": "ただわたくしはよいによったふり",
+    "roma": "tada watakushi wa yoi ni yotta furi",
+    "roma_mom": "aa aaui a oi i oa ui"
+  },
+  {
+    "start": 74.3,
+    "end": 78.3,
+    "line": "雲が私を呼んでいる",
+    "hira": "くもがわたくしをよんでいる",
+    "roma": "kumo ga watakushi wo yonde iru",
+    "roma_mom": "uo a aaui o oe iu"
+  },
+  {
+    "start": 78.3,
+    "end": 82.3,
+    "line": "菊が私を呼んでいる",
+    "hira": "きくがわたくしをよんでいる",
+    "roma": "kiku ga watakushi wo yonde iru",
+    "roma_mom": "iu a aaui o oe iu"
+  },
+  {
+    "start": 82.3,
+    "end": 85.3,
+    "line": "風足もかなり変点",
+    "hira": "かざあしもかなりへんてん",
+    "roma": "kazaashi mo kanari hen ten",
+    "roma_mom": "aaai o aai e e"
+  },
+  {
+    "start": 85.3,
+    "end": 91.8,
+    "line": "眠いパリエウス 異境の月",
+    "hira": "ねむいぱりえうすいきょうのつき",
+    "roma": "nemui parieusu ikyou no tsuki",
+    "roma_mom": "eui aieuu iou o ui"
+  },
+  {
+    "start": 100.56,
+    "end": 101.4,
+    "line": "ん",
+    "hira": "ん",
+    "roma": "n",
+    "roma_mom": ""
+  },
+  {
+    "start": 108.52,
+    "end": 111.4,
+    "line": "すすきの中に立っている",
+    "hira": "すすきのなかにたっている",
+    "roma": "susuki no naka ni tatte iru",
+    "roma_mom": "uui o aa i ae iu"
+  },
+  {
+    "start": 111.4,
+    "end": 116.4,
+    "line": "ふいに吹く青風 雲の漁船",
+    "hira": "ふいにふくせいふうくものぎょせん",
+    "roma": "fui ni fuku seifuu kumo no gyosen",
+    "roma_mom": "ui i uu eiuu uo o oe"
+  },
+  {
+    "start": 116.4,
+    "end": 121.3,
+    "line": "私このまま死んでしまいそうだな",
+    "hira": "わたくしこのまましんでしまいそうだな",
+    "roma": "watakushi kono mama shinde shimai sou da na",
+    "roma_mom": "aaui oo aa ie iai ou a a"
+  },
+  {
+    "start": 124.28,
+    "end": 131.8,
+    "line": "風が表で呼んでいる 泣いている さあ行こう こっちを脱いで",
+    "hira": "かぜがひょうでよんでいるないているさあいこうこっちをぬいで",
+    "roma": "kaze ga hyou de yonde iru naite iru saa ikou kotchi wo nuide",
+    "roma_mom": "ae a ou e oe iu aie iu aa iou oi o uie"
+  },
+  {
+    "start": 131.8,
+    "end": 139.8,
+    "line": "ちぼり足の二人 俯瞰一面の花吹雪",
+    "hira": "ちぼりあしのふたりふかんいちめんのはなふぶき",
+    "roma": "chi bori ashi no futari fukan ichi men no hanafubuki",
+    "roma_mom": "i oi ai o uai ua ii e o aauui"
+  },
+  {
+    "start": 140.32,
+    "end": 145.8,
+    "line": "多分あなたも生きている",
+    "hira": "たぶんあなたもいきている",
+    "roma": "tabun anata mo ikite iru",
+    "roma_mom": "au aaa o iie iu"
+  },
+  {
+    "start": 146.24,
+    "end": 153.8,
+    "line": "風が私を呼んでいる 晴れも私を呼んでいる",
+    "hira": "かぜがわたくしをよんでいるはれもわたくしをよんでいる",
+    "roma": "kaze ga watakushi wo yonde iru hare mo watakushi wo yonde iru",
+    "roma_mom": "ae a aaui o oe iu ae o aaui o oe iu"
+  },
+  {
+    "start": 153.8,
+    "end": 161.8,
+    "line": "ふざけた雨のとんてみさえ 私は宵に寄ったくり",
+    "hira": "ふざけたあめのとんてみさえわたくしはよいによったくり",
+    "roma": "fuzaketa ame no tonte mi sae watakushi wa yoi ni yotta kuri",
+    "roma_mom": "uaea ae o oe i ae aaui a oi i oa ui"
+  },
+  {
+    "start": 161.8,
+    "end": 169.8,
+    "line": "雲が私を呼んでいる 菊が私を呼んでいる",
+    "hira": "くもがわたくしをよんでいるきくがわたくしをよんでいる",
+    "roma": "kumo ga watakushi wo yonde iru kiku ga watakushi wo yonde iru",
+    "roma_mom": "uo a aaui o oe iu iu a aaui o oe iu"
+  },
+  {
+    "start": 169.8,
+    "end": 173.3,
+    "line": "カツ足もかなりセーテン",
+    "hira": "かつあしもかなりせーてん",
+    "roma": "katsu ashi mo kanari seeten",
+    "roma_mom": "au ai o aai eee"
+  },
+  {
+    "start": 173.3,
+    "end": 176.8,
+    "line": "眠いバレエしろ",
+    "hira": "ねむいばれえしろ",
+    "roma": "nemui baree shiro",
+    "roma_mom": "eui aee io"
+  },
+  {
+    "start": 177.22,
+    "end": 179.8,
+    "line": "遺断の月",
+    "hira": "いだんのつき",
+    "roma": "idan no tsuki",
+    "roma_mom": "ia o ui"
+  },
+  {
+    "start": 197.74,
+    "end": 206.2,
+    "line": "風をあなたが呼んでいる 私の風を呼んでいる",
+    "hira": "かぜをあなたがよんでいるわたくしのかぜをよんでいる",
+    "roma": "kaze wo anata ga yonde iru watakushi no kaze wo yonde iru",
+    "roma_mom": "ae o aaa a oe iu aaui o ae o oe iu"
+  },
+  {
+    "start": 206.28,
+    "end": 214.2,
+    "line": "ふざけた晴れの炎天 行こう 私は酔いに酔ったふり",
+    "hira": "ふざけたはれのえんてんいこうわたくしはよいによったふり",
+    "roma": "fuzaketa hare no enten ikou watakushi wa yoi ni yotta furi",
+    "roma_mom": "uaea ae o ee iou aaui a oi i oa ui"
+  },
+  {
+    "start": 214.2,
+    "end": 222.2,
+    "line": "私が風を呼んでいる 聞きを叫べと呼んでいる",
+    "hira": "わたくしがかぜをよんでいるききをさけべとよんでいる",
+    "roma": "watakushi ga kaze wo yonde iru kiki wo sakebe to yonde iru",
+    "roma_mom": "aaui a ae o oe iu ii o aee o oe iu"
+  },
+  {
+    "start": 222.26,
+    "end": 225.48,
+    "line": "かざしもたらいえんて",
+    "hira": "かざしもたらいえんて",
+    "roma": "kazashi mo tarai ente",
+    "roma_mom": "aai o aai ee"
+  },
+  {
+    "start": 225.48,
+    "end": 228.64,
+    "line": "眠いパレウス",
+    "hira": "ねむいぱれうす",
+    "roma": "nemui pare usu",
+    "roma_mom": "eui ae uu"
+  },
+  {
+    "start": 229.52,
+    "end": 231.8,
+    "line": "卑怯の月",
+    "hira": "ひきょうのつき",
+    "roma": "hikyou no tsuki",
+    "roma_mom": "iou o ui"
+  }
+]

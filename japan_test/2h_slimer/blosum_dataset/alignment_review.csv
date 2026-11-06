@@ -1,0 +1,271 @@
+﻿song,pair_index,lyrics_global_index,asr_global_index,lyrics_token,asr_token,operation,pair_score,verified,corrected_lyrics_token,corrected_asr_token,review_note,lyrics_line_id,lyrics_line_index,lyrics_token_index_in_line,lyrics_text,lyrics_roma,asr_line_id,asr_line_index,asr_token_index_in_line,asr_text,asr_roma
+ヨルシカ_八月、某、月明かり,4,3,,i,-,DELETE,-2,,,,,L1,0,3,何もいらない,nanimoiranai,,,,,
+ヨルシカ_八月、某、月明かり,11,,9,-,a,INSERT,-2,,,,,,,,,,W1,0,9,何もいらない,nanmoiranai
+ヨルシカ_八月、某、月明かり,12,,10,-,i,INSERT,-2,,,,,,,,,,W1,0,10,何もいらない,nanmoiranai
+ヨルシカ_八月、某、月明かり,13,,11,-,h,INSERT,-2,,,,,,,,,,W2,1,0,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,14,,12,-,a,INSERT,-2,,,,,,,,,,W2,1,1,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,15,,13,-,i,INSERT,-2,,,,,,,,,,W2,1,2,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,16,,14,-,o,INSERT,-2,,,,,,,,,,W2,1,3,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,17,,15,-,ts,INSERT,-2,,,,,,,,,,W2,1,4,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,18,,16,-,u,INSERT,-2,,,,,,,,,,W2,1,5,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,19,,17,-,k,INSERT,-2,,,,,,,,,,W2,1,6,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,20,,18,-,a,INSERT,-2,,,,,,,,,,W2,1,7,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,21,,19,-,r,INSERT,-2,,,,,,,,,,W2,1,8,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,22,,20,-,e,INSERT,-2,,,,,,,,,,W2,1,9,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,23,,21,-,s,INSERT,-2,,,,,,,,,,W2,1,10,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,24,,22,-,a,INSERT,-2,,,,,,,,,,W2,1,11,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,25,,23,-,m,INSERT,-2,,,,,,,,,,W2,1,12,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,27,,25,-,d,INSERT,-2,,,,,,,,,,W2,1,14,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,28,,26,-,e,INSERT,-2,,,,,,,,,,W2,1,15,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,29,,27,-,sh,INSERT,-2,,,,,,,,,,W2,1,16,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,31,,29,-,t,INSERT,-2,,,,,,,,,,W2,1,18,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,32,,30,-,a,INSERT,-2,,,,,,,,,,W2,1,19,はい、お疲れ様でした。,haiotsukaresamadeshita
+ヨルシカ_八月、某、月明かり,60,39,,i,-,DELETE,-2,,,,,L2,1,27,心臓が煩かった歩くたび息が詰まった,shinzougaurusakatsutaarukutabiikigatsumatsuta,,,,,
+ヨルシカ_八月、某、月明かり,86,65,,o,-,DELETE,-2,,,,,L3,2,12,初めてバイトを逃げ出した,hajimetebaitowonigedashita,,,,,
+ヨルシカ_八月、某、月明かり,87,66,,w,-,DELETE,-2,,,,,L3,2,13,初めてバイトを逃げ出した,hajimetebaitowonigedashita,,,,,
+ヨルシカ_八月、某、月明かり,174,153,169,b,g,SUB,-1,,,,,L6,5,8,八月某月明かり自転車で飛んで,hachigatsuboutsukiakarijitenshadetonde,W6,5,8,8月号月明かり自転車で飛んで 東不思議の高架橋 古代ラフじみ通り途上展開,hachigatsugoutsukiakarijitenshadetondehigashifushiginokoukakyoukodairafujimitooritojoutenkai
+ヨルシカ_八月、某、月明かり,210,189,205,m,g,SUB,-1,,,,,L7,6,10,東伏見の高架橋小平富士見通りと商店街,higashifushiminokoukakyoukodairafujimidooritoshoutengai,W6,5,44,8月号月明かり自転車で飛んで 東不思議の高架橋 古代ラフじみ通り途上展開,hachigatsugoutsukiakarijitenshadetondehigashifushiginokoukakyoukodairafujimitooritojoutenkai
+ヨルシカ_八月、某、月明かり,235,214,230,d,t,SUB,-1,,,,,L7,6,35,東伏見の高架橋小平富士見通りと商店街,higashifushiminokoukakyoukodairafujimidooritoshoutengai,W6,5,69,8月号月明かり自転車で飛んで 東不思議の高架橋 古代ラフじみ通り途上展開,hachigatsugoutsukiakarijitenshadetondehigashifushiginokoukakyoukodairafujimitooritojoutenkai
+ヨルシカ_八月、某、月明かり,242,221,237,sh,j,SUB,-1,,,,,L7,6,42,東伏見の高架橋小平富士見通りと商店街,higashifushiminokoukakyoukodairafujimidooritoshoutengai,W6,5,76,8月号月明かり自転車で飛んで 東不思議の高架橋 古代ラフじみ通り途上展開,hachigatsugoutsukiakarijitenshadetondehigashifushiginokoukakyoukodairafujimitooritojoutenkai
+ヨルシカ_八月、某、月明かり,248,227,243,g,k,SUB,-1,,,,,L7,6,48,東伏見の高架橋小平富士見通りと商店街,higashifushiminokoukakyoukodairafujimidooritoshoutengai,W6,5,82,8月号月明かり自転車で飛んで 東不思議の高架橋 古代ラフじみ通り途上展開,hachigatsugoutsukiakarijitenshadetondehigashifushiginokoukakyoukodairafujimitooritojoutenkai
+ヨルシカ_八月、某、月明かり,265,,260,-,ts,INSERT,-2,,,,,,,,,,W7,6,14,夜風が花を潰すぐった この胸の痛みは気のせいだ,yokazegahanawotsubusugutsutakonomunenoitamihakinoseida
+ヨルシカ_八月、某、月明かり,266,,261,-,u,INSERT,-2,,,,,,,,,,W7,6,15,夜風が花を潰すぐった この胸の痛みは気のせいだ,yokazegahanawotsubusugutsutakonomunenoitamihakinoseida
+ヨルシカ_八月、某、月明かり,267,244,262,k,b,SUB,-1,,,,,L8,7,14,夜風が鼻を擽ぐったこの胸の痛みは気のせいだ,yokazegahanawokusugutsutakonomunenoitamihakinoseida,W7,6,16,夜風が花を潰すぐった この胸の痛みは気のせいだ,yokazegahanawotsubusugutsutakonomunenoitamihakinoseida
+ヨルシカ_八月、某、月明かり,310,287,305,e,a,SUB,-1,,,,,L9,8,7,わかってたわかった振りをした,wakatsutetawakatsutafuriwoshita,W8,7,7,分かっただ わかった 振り下,wakatsutadawakatsutafurishita
+ヨルシカ_八月、某、月明かり,311,288,306,t,d,SUB,-1,,,,,L9,8,8,わかってたわかった振りをした,wakatsutetawakatsutafuriwoshita,W8,7,8,分かっただ わかった 振り下,wakatsutadawakatsutafurishita
+ヨルシカ_八月、某、月明かり,325,302,,w,-,DELETE,-2,,,,,L9,8,22,わかってたわかった振りをした,wakatsutetawakatsutafuriwoshita,,,,,
+ヨルシカ_八月、某、月明かり,326,303,,o,-,DELETE,-2,,,,,L9,8,23,わかってたわかった振りをした,wakatsutetawakatsutafuriwoshita,,,,,
+ヨルシカ_八月、某、月明かり,378,355,371,n,sh,SUB,-1,,,,,L12,11,12,君を形に残したかった,kimiwokatachininokoshitakatsuta,W9,8,47,最低だ 最低だ 僕の全部最低だ 君を形し残したかった 想い出になんてしてやるもんか,saiteidasaiteidabokunozenbusaiteidakimiwokatachishinokoshitakatsutaomoideninanteshiteyarumonka
+ヨルシカ_八月、某、月明かり,495,472,,j,-,DELETE,-2,,,,,L17,16,8,人生二十七で死ねるならロックンロールは僕を救った,jinseinijuunanadeshinerunararokkunrooruhabokuwosukutsuta,,,,,
+ヨルシカ_八月、某、月明かり,496,473,,u,-,DELETE,-2,,,,,L17,16,9,人生二十七で死ねるならロックンロールは僕を救った,jinseinijuunanadeshinerunararokkunrooruhabokuwosukutsuta,,,,,
+ヨルシカ_八月、某、月明かり,497,474,,u,-,DELETE,-2,,,,,L17,16,10,人生二十七で死ねるならロックンロールは僕を救った,jinseinijuunanadeshinerunararokkunrooruhabokuwosukutsuta,,,,,
+ヨルシカ_八月、某、月明かり,564,,554,-,i,INSERT,-2,,,,,,,,,,W12,11,23,考えるのもやめだ 同性死ぬんだから,kangaerunomoyamedadouseishinundakara
+ヨルシカ_八月、某、月明かり,585,561,,i,-,DELETE,-2,,,,,L19,18,9,君も何もいらない,kimimonanimoiranai,,,,,
+ヨルシカ_八月、某、月明かり,735,711,724,b,g,SUB,-1,,,,,L25,24,8,八月某あの頃の景色を跨いだ,hachigatsubouanokoronokeshikiwomataida,W18,17,8,8月号あの頃の景色をまたいだ,hachigatsugouanokoronokeshikiwomataida
+ヨルシカ_八月、某、月明かり,784,760,773,u,n,SUB,-1,,,,,L26,25,22,ストックホルムの露天商キルナガムラスタンは石畳,sutokkuhorumunorotenshoukirunagamurasutanhaishidatami,W19,18,22,ストックホルムのロテンション キレナがムラスタンは石畳,sutokkuhorumunorotenshonkirenagamurasutanhaishidatami
+ヨルシカ_八月、某、月明かり,788,764,777,u,e,SUB,-1,,,,,L26,25,26,ストックホルムの露天商キルナガムラスタンは石畳,sutokkuhorumunorotenshoukirunagamurasutanhaishidatami,W19,18,26,ストックホルムのロテンション キレナがムラスタンは石畳,sutokkuhorumunorotenshonkirenagamurasutanhaishidatami
+ヨルシカ_八月、某、月明かり,869,845,858,e,a,SUB,-1,,,,,L29,28,7,笑ってた笑った顔のまま,waratsutetawaratsutakaonomama,W21,20,7,笑ったか 笑った顔のまま,waratsutakawaratsutakaonomama
+ヨルシカ_八月、某、月明かり,870,846,859,t,k,SUB,-1,,,,,L29,28,8,笑ってた笑った顔のまま,waratsutetawaratsutakaonomama,W21,20,8,笑ったか 笑った顔のまま,waratsutakawaratsutakaonomama
+ヨルシカ_八月、某、月明かり,922,898,911,d,t,SUB,-1,,,,,L30,29,33,最低だ傲慢だ君もみんな貪欲だ,saiteidagoumandakimimominnadonyokuda,W22,21,33,最低だ 傲慢だ 君もみんなどんよくた,saiteidagoumandakimimominnadonyokuta
+ヨルシカ_八月、某、月明かり,947,923,,a,-,DELETE,-2,,,,,L31,30,23,ドラマチックな歌も愛もさぁ馬鹿らしくて仕方がないわ,doramachikkunautamoaimosaabakarashikuteshikataganaiwa,,,,,
+ヨルシカ_八月、某、月明かり,1175,1151,1163,o,a,SUB,-1,,,,,L39,38,43,罪も過ちも犯罪も自殺も戦争もマイノリティも全部知らない,tsumimoayamachimohanzaimojisatsumosensoumomainoriteimozenbushiranai,W28,27,43,罪も 誤ちも 犯罪も 自殺も 戦争も マイナリティも,tsumimoayamachimohanzaimojisatsumosensoumomainariteimo
+ヨルシカ_八月、某、月明かり,1224,1200,,u,-,DELETE,-2,,,,,L40,39,29,最低だ最低だ別れなんて傲慢だ,saiteidasaiteidawakarenantegoumanda,,,,,
+ヨルシカ_八月、某、月明かり,1250,1226,1237,i,e,SUB,-1,,,,,L41,40,20,君の全てに頷きたいんだ,kiminosubeteniunazukitainda,W30,29,54,最低だ 最低だ 別れなんてごまんだ 君の全てにうなずけたいんだ そんなの欺瞞となし絶えれば,saiteidasaiteidawakarenantegomandakiminosubeteniunazuketaindasonnanogimantonashitaereba
+ヨルシカ_八月、某、月明かり,1270,1246,,o,-,DELETE,-2,,,,,L42,41,13,そんなの欺瞞と同じだエルマ,sonnanogimantoonajidaeruma,,,,,
+ヨルシカ_八月、某、月明かり,1274,1250,1260,j,sh,SUB,-1,,,,,L42,41,17,そんなの欺瞞と同じだエルマ,sonnanogimantoonajidaeruma,W30,29,77,最低だ 最低だ 別れなんてごまんだ 君の全てにうなずけたいんだ そんなの欺瞞となし絶えれば,saiteidasaiteidawakarenantegomandakiminosubeteniunazuketaindasonnanogimantonashitaereba
+ヨルシカ_八月、某、月明かり,1276,1252,1262,d,t,SUB,-1,,,,,L42,41,19,そんなの欺瞞と同じだエルマ,sonnanogimantoonajidaeruma,W30,29,79,最低だ 最低だ 別れなんてごまんだ 君の全てにうなずけたいんだ そんなの欺瞞となし絶えれば,saiteidasaiteidawakarenantegomandakiminosubeteniunazuketaindasonnanogimantonashitaereba
+ヨルシカ_八月、某、月明かり,1280,1256,1266,u,e,SUB,-1,,,,,L42,41,23,そんなの欺瞞と同じだエルマ,sonnanogimantoonajidaeruma,W30,29,83,最低だ 最低だ 別れなんてごまんだ 君の全てにうなずけたいんだ そんなの欺瞞となし絶えれば,saiteidasaiteidawakarenantegomandakiminosubeteniunazuketaindasonnanogimantonashitaereba
+ヨルシカ_八月、某、月明かり,1281,1257,1267,m,b,SUB,-1,,,,,L42,41,24,そんなの欺瞞と同じだエルマ,sonnanogimantoonajidaeruma,W30,29,84,最低だ 最低だ 別れなんてごまんだ 君の全てにうなずけたいんだ そんなの欺瞞となし絶えれば,saiteidasaiteidawakarenantegomandakiminosubeteniunazuketaindasonnanogimantonashitaereba
+ヨルシカ_八月、某、月明かり,1328,1304,1314,ch,j,SUB,-1,,,,,L44,43,6,ドラマチックな夜で僕を悼みたい,doramachikkunayorudebokuwoitamitai,W31,30,45,最低だ 最低だ 愛おしくて仕方がないわ ドラマジックな夜で僕を痛みたい,saiteidasaiteidaitooshikuteshikataganaiwadoramajikkunayorudebokuwoitamitai
+ヨルシカ_八月、某、月明かり,1387,1363,,u,-,DELETE,-2,,,,,L45,44,32,最低だ最低だ言葉なんて冗長だ,saiteidasaiteidakotobanantejouchouda,,,,,
+ヨルシカ_八月、某、月明かり,1439,1415,,o,-,DELETE,-2,,,,,L47,46,24,有りがちだなんて言わせるものか,arigachidananteiwaserumonoka,,,,,
+ヨルシカ_八月、某、月明かり,1495,1471,1479,g,k,SUB,-1,,,,,L49,48,11,最低なんて語呂だけの歌詞だ,saiteinantegorodakenokashida,W34,33,11,最低 なんて このだけの歌詞だ,saiteinantekonodakenokashida
+ヨルシカ_八月、某、月明かり,1497,1473,1481,r,n,SUB,-1,,,,,L49,48,13,最低なんて語呂だけの歌詞だ,saiteinantegorodakenokashida,W34,33,13,最低 なんて このだけの歌詞だ,saiteinantekonodakenokashida
+ヨルシカ_八月、某、月明かり,1519,1495,,j,-,DELETE,-2,,,,,L50,49,8,人生二十七で死ねるならロックンロールは僕を救った,jinseinijuunanadeshinerunararokkunrooruhabokuwosukutsuta,,,,,
+ヨルシカ_八月、某、月明かり,1520,1496,,u,-,DELETE,-2,,,,,L50,49,9,人生二十七で死ねるならロックンロールは僕を救った,jinseinijuunanadeshinerunararokkunrooruhabokuwosukutsuta,,,,,
+ヨルシカ_八月、某、月明かり,1521,1497,,u,-,DELETE,-2,,,,,L50,49,10,人生二十七で死ねるならロックンロールは僕を救った,jinseinijuunanadeshinerunararokkunrooruhabokuwosukutsuta,,,,,
+ヨルシカ_八月、某、月明かり,1641,,1622,-,y,INSERT,-2,,,,,,,,,,W38,37,21,思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない,omoidemohanautamousuiyumemoyorukasumimoyasashisamokurushisamokadenusamoyuuutsumoanonatsumokonoutamogizenmoyokazemousomokimimobokumotenjoumonanmoiranai
+ヨルシカ_八月、某、月明かり,1642,,1623,-,u,INSERT,-2,,,,,,,,,,W38,37,22,思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない,omoidemohanautamousuiyumemoyorukasumimoyasashisamokurushisamokadenusamoyuuutsumoanonatsumokonoutamogizenmoyokazemousomokimimobokumotenjoumonanmoiranai
+ヨルシカ_八月、某、月明かり,1649,,1630,-,r,INSERT,-2,,,,,,,,,,W38,37,29,思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない,omoidemohanautamousuiyumemoyorukasumimoyasashisamokurushisamokadenusamoyuuutsumoanonatsumokonoutamogizenmoyokazemousomokimimobokumotenjoumonanmoiranai
+ヨルシカ_八月、某、月明かり,1650,,1631,-,u,INSERT,-2,,,,,,,,,,W38,37,30,思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない,omoidemohanautamousuiyumemoyorukasumimoyasashisamokurushisamokadenusamoyuuutsumoanonatsumokonoutamogizenmoyokazemousomokimimobokumotenjoumonanmoiranai
+ヨルシカ_八月、某、月明かり,1651,1623,1632,g,k,SUB,-1,,,,,L52,51,48,今も愛も過去も夢も思い出も鼻歌も薄い目も夜霞も,imamoaimokakomoyumemoomoidemohanautamousuimemoyogasumimo,W38,37,31,思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない,omoidemohanautamousuiyumemoyorukasumimoyasashisamokurushisamokadenusamoyuuutsumoanonatsumokonoutamogizenmoyokazemousomokimimobokumotenjoumonanmoiranai
+ヨルシカ_八月、某、月明かり,1679,1651,1660,h,k,SUB,-1,,,,,L53,52,20,優しさも苦しさも花房も憂鬱もあの夏もこの歌も,yasashisamokurushisamohanafusamoyuuutsumoanonatsumokonoutamo,W38,37,59,思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない,omoidemohanautamousuiyumemoyorukasumimoyasashisamokurushisamokadenusamoyuuutsumoanonatsumokonoutamogizenmoyokazemousomokimimobokumotenjoumonanmoiranai
+ヨルシカ_八月、某、月明かり,1681,1653,1662,n,d,SUB,-1,,,,,L53,52,22,優しさも苦しさも花房も憂鬱もあの夏もこの歌も,yasashisamokurushisamohanafusamoyuuutsumoanonatsumokonoutamo,W38,37,61,思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない,omoidemohanautamousuiyumemoyorukasumimoyasashisamokurushisamokadenusamoyuuutsumoanonatsumokonoutamogizenmoyokazemousomokimimobokumotenjoumonanmoiranai
+ヨルシカ_八月、某、月明かり,1682,1654,1663,a,e,SUB,-1,,,,,L53,52,23,優しさも苦しさも花房も憂鬱もあの夏もこの歌も,yasashisamokurushisamohanafusamoyuuutsumoanonatsumokonoutamo,W38,37,62,思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない,omoidemohanautamousuiyumemoyorukasumimoyasashisamokurushisamokadenusamoyuuutsumoanonatsumokonoutamogizenmoyokazemousomokimimobokumotenjoumonanmoiranai
+ヨルシカ_八月、某、月明かり,1683,1655,1664,f,n,SUB,-1,,,,,L53,52,24,優しさも苦しさも花房も憂鬱もあの夏もこの歌も,yasashisamokurushisamohanafusamoyuuutsumoanonatsumokonoutamo,W38,37,63,思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない,omoidemohanautamousuiyumemoyorukasumimoyasashisamokurushisamokadenusamoyuuutsumoanonatsumokonoutamogizenmoyokazemousomokimimobokumotenjoumonanmoiranai
+ヨルシカ_八月、某、月明かり,1746,1718,,o,-,DELETE,-2,,,,,L54,53,31,偽善も夜風も嘘も君も僕も青天井も何もいらない,gizenmoyokazemousomokimimobokumoaotenjoumonanimoiranai,,,,,
+ヨルシカ_八月、某、月明かり,1747,1719,,a,-,DELETE,-2,,,,,L54,53,32,偽善も夜風も嘘も君も僕も青天井も何もいらない,gizenmoyokazemousomokimimobokumoaotenjoumonanimoiranai,,,,,
+ヨルシカ_八月、某、月明かり,1760,1732,,i,-,DELETE,-2,,,,,L54,53,45,偽善も夜風も嘘も君も僕も青天井も何もいらない,gizenmoyokazemousomokimimobokumoaotenjoumonanimoiranai,,,,,
+ヨルシカ_千鳥,1,,0,-,n,INSERT,-2,,,,,,,,,,W1,0,0,ん,n
+ヨルシカ_千鳥,2,,1,-,n,INSERT,-2,,,,,,,,,,W2,1,0,ん,n
+ヨルシカ_千鳥,9,6,,o,-,DELETE,-2,,,,,L1,0,6,風がおもてで呼んでいる,kazegaomotedeyondeiru,,,,,
+ヨルシカ_千鳥,10,7,8,m,hy,SUB,-1,,,,,L1,0,7,風がおもてで呼んでいる,kazegaomotedeyondeiru,W3,2,6,風が | 表| で呼んでいる 呼んでいる さあ行こう海を抜いて,kazegahyoudeyondeiruyondeirusaaikoukaiwonuite
+ヨルシカ_千鳥,12,9,,t,-,DELETE,-2,,,,,L1,0,9,風がおもてで呼んでいる,kazegaomotedeyondeiru,,,,,
+ヨルシカ_千鳥,13,10,10,e,u,SUB,-1,,,,,L1,0,10,風がおもてで呼んでいる,kazegaomotedeyondeiru,W3,2,8,風が | 表| で呼んでいる 呼んでいる さあ行こう海を抜いて,kazegahyoudeyondeiruyondeirusaaikoukaiwonuite
+ヨルシカ_千鳥,35,32,,y,-,DELETE,-2,,,,,L3,2,3,さぁ行こう海を脱いで,saayukouumiwonuide,,,,,
+ヨルシカ_千鳥,36,33,32,u,i,SUB,-1,,,,,L3,2,4,さぁ行こう海を脱いで,saayukouumiwonuide,W3,2,30,風が | 表| で呼んでいる 呼んでいる さあ行こう海を抜いて,kazegahyoudeyondeiruyondeirusaaikoukaiwonuite
+ヨルシカ_千鳥,40,37,36,u,k,SUB,-1,,,,,L3,2,8,さぁ行こう海を脱いで,saayukouumiwonuide,W3,2,34,風が | 表| で呼んでいる 呼んでいる さあ行こう海を抜いて,kazegahyoudeyondeiruyondeirusaaikoukaiwonuite
+ヨルシカ_千鳥,41,38,37,m,a,SUB,-1,,,,,L3,2,9,さぁ行こう海を脱いで,saayukouumiwonuide,W3,2,35,風が | 表| で呼んでいる 呼んでいる さあ行こう海を抜いて,kazegahyoudeyondeiruyondeirusaaikoukaiwonuite
+ヨルシカ_千鳥,48,45,44,d,t,SUB,-1,,,,,L3,2,16,さぁ行こう海を脱いで,saayukouumiwonuide,W3,2,42,風が | 表| で呼んでいる 呼んでいる さあ行こう海を抜いて,kazegahyoudeyondeiruyondeirusaaikoukaiwonuite
+ヨルシカ_千鳥,61,,57,-,k,INSERT,-2,,,,,,,,,,W4,3,11,あなたと私ちょうどいい昼間,anatatowatakushichoudoiihiruma
+ヨルシカ_千鳥,62,,58,-,u,INSERT,-2,,,,,,,,,,W4,3,12,あなたと私ちょうどいい昼間,anatatowatakushichoudoiihiruma
+ヨルシカ_千鳥,84,79,,o,-,DELETE,-2,,,,,L5,4,6,風がおもてで呼んでいる,kazegaomotedeyondeiru,,,,,
+ヨルシカ_千鳥,85,80,80,m,hy,SUB,-1,,,,,L5,4,7,風がおもてで呼んでいる,kazegaomotedeyondeiru,W5,4,6,風が表で呼んでいる 飛んでいる,kazegahyoudeyondeirutondeiru
+ヨルシカ_千鳥,87,82,,t,-,DELETE,-2,,,,,L5,4,9,風がおもてで呼んでいる,kazegaomotedeyondeiru,,,,,
+ヨルシカ_千鳥,88,83,82,e,u,SUB,-1,,,,,L5,4,10,風がおもてで呼んでいる,kazegaomotedeyondeiru,W5,4,8,風が表で呼んでいる 飛んでいる,kazegahyoudeyondeirutondeiru
+ヨルシカ_千鳥,128,123,122,d,t,SUB,-1,,,,,L8,7,2,千鳥足の私不確かに,chidoriashinowatashifutashikani,W7,6,2,地とり足のあたし 確かに今日も回り道,chitoriashinoatashitashikanikyoumomawarimichi
+ヨルシカ_千鳥,137,132,,w,-,DELETE,-2,,,,,L8,7,11,千鳥足の私不確かに,chidoriashinowatashifutashikani,,,,,
+ヨルシカ_千鳥,143,138,,f,-,DELETE,-2,,,,,L8,7,17,千鳥足の私不確かに,chidoriashinowatashifutashikani,,,,,
+ヨルシカ_千鳥,144,139,,u,-,DELETE,-2,,,,,L8,7,18,千鳥足の私不確かに,chidoriashinowatashifutashikani,,,,,
+ヨルシカ_千鳥,177,,168,-,k,INSERT,-2,,,,,,,,,,W8,7,9,多分私は生きている,tabunwatakushihaikiteiru
+ヨルシカ_千鳥,178,,169,-,u,INSERT,-2,,,,,,,,,,W8,7,10,多分私は生きている,tabunwatakushihaikiteiru
+ヨルシカ_千鳥,201,,192,-,k,INSERT,-2,,,,,,,,,,W9,8,10,風が私を呼んでいる,kazegawatakushiwoyondeiru
+ヨルシカ_千鳥,202,,193,-,u,INSERT,-2,,,,,,,,,,W9,8,11,風が私を呼んでいる,kazegawatakushiwoyondeiru
+ヨルシカ_千鳥,225,,216,-,k,INSERT,-2,,,,,,,,,,W10,9,10,鳥が私を呼んでいる,torigawatakushiwoyondeiru
+ヨルシカ_千鳥,226,,217,-,u,INSERT,-2,,,,,,,,,,W10,9,11,鳥が私を呼んでいる,torigawatakushiwoyondeiru
+ヨルシカ_千鳥,247,236,,h,-,DELETE,-2,,,,,L13,12,8,ふざけた晴れの炎天,fuzaketaharenoenten,,,,,
+ヨルシカ_千鳥,253,,243,-,h,INSERT,-2,,,,,,,,,,W11,10,13,ふざけたあれの変点,fuzaketaarenohenten
+ヨルシカ_千鳥,267,,257,-,k,INSERT,-2,,,,,,,,,,W12,11,8,ただ私は宵に酔ったふり,tadawatakushihayoiniyotsutafuri
+ヨルシカ_千鳥,268,,258,-,u,INSERT,-2,,,,,,,,,,W12,11,9,ただ私は宵に酔ったふり,tadawatakushihayoiniyotsutafuri
+ヨルシカ_千鳥,298,,288,-,k,INSERT,-2,,,,,,,,,,W13,12,10,雲が私を呼んでいる,kumogawatakushiwoyondeiru
+ヨルシカ_千鳥,299,,289,-,u,INSERT,-2,,,,,,,,,,W13,12,11,雲が私を呼んでいる,kumogawatakushiwoyondeiru
+ヨルシカ_千鳥,314,298,304,g,k,SUB,-1,,,,,L16,15,2,木々が私を呼んでいる,kigigawatashiwoyondeiru,W14,13,2,菊が私を呼んでいる,kikugawatakushiwoyondeiru
+ヨルシカ_千鳥,315,299,305,i,u,SUB,-1,,,,,L16,15,3,木々が私を呼んでいる,kigigawatashiwoyondeiru,W14,13,3,菊が私を呼んでいる,kikugawatakushiwoyondeiru
+ヨルシカ_千鳥,322,,312,-,k,INSERT,-2,,,,,,,,,,W14,13,10,菊が私を呼んでいる,kikugawatakushiwoyondeiru
+ヨルシカ_千鳥,323,,313,-,u,INSERT,-2,,,,,,,,,,W14,13,11,菊が私を呼んでいる,kikugawatakushiwoyondeiru
+ヨルシカ_千鳥,339,,329,-,a,INSERT,-2,,,,,,,,,,W15,14,3,風足もかなり変点,kazaashimokanarihenten
+ヨルシカ_千鳥,347,328,337,r,n,SUB,-1,,,,,L17,16,10,風下からり炎天,kazashimokararienten,W15,14,11,風足もかなり変点,kazaashimokanarihenten
+ヨルシカ_千鳥,351,,341,-,h,INSERT,-2,,,,,,,,,,W15,14,15,風足もかなり変点,kazaashimokanarihenten
+ヨルシカ_千鳥,357,337,347,m,n,SUB,-1,,,,,L18,17,0,目眩晴れ薄い今日の月,memaihareusuikyounotsuki,W16,15,0,眠いパリエウス 異境の月,nemuiparieusuikyounotsuki
+ヨルシカ_千鳥,360,340,350,a,u,SUB,-1,,,,,L18,17,3,目眩晴れ薄い今日の月,memaihareusuikyounotsuki,W16,15,3,眠いパリエウス 異境の月,nemuiparieusuikyounotsuki
+ヨルシカ_千鳥,362,342,352,h,p,SUB,-1,,,,,L18,17,5,目眩晴れ薄い今日の月,memaihareusuikyounotsuki,W16,15,5,眠いパリエウス 異境の月,nemuiparieusuikyounotsuki
+ヨルシカ_千鳥,365,,355,-,i,INSERT,-2,,,,,,,,,,W16,15,8,眠いパリエウス 異境の月,nemuiparieusuikyounotsuki
+ヨルシカ_千鳥,380,,370,-,n,INSERT,-2,,,,,,,,,,W17,16,0,ん,n
+ヨルシカ_千鳥,413,391,403,a,s,SUB,-1,,,,,L20,19,9,ふいに吹く青風雲の稜線,fuinifukuaokazekumonoryousen,W19,18,9,ふいに吹く青風 雲の漁船,fuinifukuseifuukumonogyosen
+ヨルシカ_千鳥,414,392,404,o,e,SUB,-1,,,,,L20,19,10,ふいに吹く青風雲の稜線,fuinifukuaokazekumonoryousen,W19,18,10,ふいに吹く青風 雲の漁船,fuinifukuseifuukumonogyosen
+ヨルシカ_千鳥,415,393,405,k,i,SUB,-1,,,,,L20,19,11,ふいに吹く青風雲の稜線,fuinifukuaokazekumonoryousen,W19,18,11,ふいに吹く青風 雲の漁船,fuinifukuseifuukumonogyosen
+ヨルシカ_千鳥,416,394,406,a,f,SUB,-1,,,,,L20,19,12,ふいに吹く青風雲の稜線,fuinifukuaokazekumonoryousen,W19,18,12,ふいに吹く青風 雲の漁船,fuinifukuseifuukumonogyosen
+ヨルシカ_千鳥,417,395,407,z,u,SUB,-1,,,,,L20,19,13,ふいに吹く青風雲の稜線,fuinifukuaokazekumonoryousen,W19,18,13,ふいに吹く青風 雲の漁船,fuinifukuseifuukumonogyosen
+ヨルシカ_千鳥,418,396,408,e,u,SUB,-1,,,,,L20,19,14,ふいに吹く青風雲の稜線,fuinifukuaokazekumonoryousen,W19,18,14,ふいに吹く青風 雲の漁船,fuinifukuseifuukumonogyosen
+ヨルシカ_千鳥,425,403,415,ry,gy,SUB,-1,,,,,L20,19,21,ふいに吹く青風雲の稜線,fuinifukuaokazekumonoryousen,W19,18,21,ふいに吹く青風 雲の漁船,fuinifukuseifuukumonogyosen
+ヨルシカ_千鳥,427,405,,u,-,DELETE,-2,,,,,L20,19,23,ふいに吹く青風雲の稜線,fuinifukuaokazekumonoryousen,,,,,
+ヨルシカ_千鳥,435,,424,-,k,INSERT,-2,,,,,,,,,,W20,19,4,私このまま死んでしまいそうだな,watakushikonomamashindeshimaisoudana
+ヨルシカ_千鳥,436,,425,-,u,INSERT,-2,,,,,,,,,,W20,19,5,私このまま死んでしまいそうだな,watakushikonomamashindeshimaisoudana
+ヨルシカ_千鳥,470,446,,o,-,DELETE,-2,,,,,L22,21,6,風がおもてで呼んでいる,kazegaomotedeyondeiru,,,,,
+ヨルシカ_千鳥,471,447,459,m,hy,SUB,-1,,,,,L22,21,7,風がおもてで呼んでいる,kazegaomotedeyondeiru,W21,20,6,風が表で呼んでいる 泣いている さあ行こう こっちを脱いで,kazegahyoudeyondeirunaiteirusaaikoukotchiwonuide
+ヨルシカ_千鳥,473,449,,t,-,DELETE,-2,,,,,L22,21,9,風がおもてで呼んでいる,kazegaomotedeyondeiru,,,,,
+ヨルシカ_千鳥,474,450,461,e,u,SUB,-1,,,,,L22,21,10,風がおもてで呼んでいる,kazegaomotedeyondeiru,W21,20,8,風が表で呼んでいる 泣いている さあ行こう こっちを脱いで,kazegahyoudeyondeirunaiteirusaaikoukotchiwonuide
+ヨルシカ_千鳥,496,472,,y,-,DELETE,-2,,,,,L24,23,3,さぁ行こう東風を脱いで,saayukoukochiwonuide,,,,,
+ヨルシカ_千鳥,497,473,483,u,i,SUB,-1,,,,,L24,23,4,さぁ行こう東風を脱いで,saayukoukochiwonuide,W21,20,30,風が表で呼んでいる 泣いている さあ行こう こっちを脱いで,kazegahyoudeyondeirunaiteirusaaikoukotchiwonuide
+ヨルシカ_千鳥,503,479,489,ch,tch,SUB,-1,,,,,L24,23,10,さぁ行こう東風を脱いで,saayukoukochiwonuide,W21,20,36,風が表で呼んでいる 泣いている さあ行こう こっちを脱いで,kazegahyoudeyondeirunaiteirusaaikoukotchiwonuide
+ヨルシカ_千鳥,514,490,500,d,b,SUB,-1,,,,,L25,24,2,千鳥足の二人俯瞰一面の花吹雪,chidoriashinofutarifukanichimennohanafubuki,W22,21,2,ちぼり足の二人 俯瞰一面の花吹雪,chiboriashinofutarifukanichimennohanafubuki
+ヨルシカ_千鳥,582,,568,-,k,INSERT,-2,,,,,,,,,,W24,23,10,風が私を呼んでいる 晴れも私を呼んでいる,kazegawatakushiwoyondeiruharemowatakushiwoyondeiru
+ヨルシカ_千鳥,583,,569,-,u,INSERT,-2,,,,,,,,,,W24,23,11,風が私を呼んでいる 晴れも私を呼んでいる,kazegawatakushiwoyondeiruharemowatakushiwoyondeiru
+ヨルシカ_千鳥,606,,592,-,k,INSERT,-2,,,,,,,,,,W24,23,34,風が私を呼んでいる 晴れも私を呼んでいる,kazegawatakushiwoyondeiruharemowatakushiwoyondeiru
+ヨルシカ_千鳥,607,,593,-,u,INSERT,-2,,,,,,,,,,W24,23,35,風が私を呼んでいる 晴れも私を呼んでいる,kazegawatakushiwoyondeiruharemowatakushiwoyondeiru
+ヨルシカ_千鳥,633,605,619,d,t,SUB,-1,,,,,L29,28,13,ふざけた雨の曇天でさえ,fuzaketaamenodontendesae,W25,24,13,ふざけた雨のとんてみさえ 私は宵に寄ったくり,fuzaketaamenotontemisaewatakushihayoiniyotsutakuri
+ヨルシカ_千鳥,638,610,,n,-,DELETE,-2,,,,,L29,28,18,ふざけた雨の曇天でさえ,fuzaketaamenodontendesae,,,,,
+ヨルシカ_千鳥,639,611,624,d,m,SUB,-1,,,,,L29,28,19,ふざけた雨の曇天でさえ,fuzaketaamenodontendesae,W25,24,18,ふざけた雨のとんてみさえ 私は宵に寄ったくり,fuzaketaamenotontemisaewatakushihayoiniyotsutakuri
+ヨルシカ_千鳥,640,612,625,e,i,SUB,-1,,,,,L29,28,20,ふざけた雨の曇天でさえ,fuzaketaamenodontendesae,W25,24,19,ふざけた雨のとんてみさえ 私は宵に寄ったくり,fuzaketaamenotontemisaewatakushihayoiniyotsutakuri
+ヨルシカ_千鳥,648,,633,-,k,INSERT,-2,,,,,,,,,,W25,24,27,ふざけた雨のとんてみさえ 私は宵に寄ったくり,fuzaketaamenotontemisaewatakushihayoiniyotsutakuri
+ヨルシカ_千鳥,649,,634,-,u,INSERT,-2,,,,,,,,,,W25,24,28,ふざけた雨のとんてみさえ 私は宵に寄ったくり,fuzaketaamenotontemisaewatakushihayoiniyotsutakuri
+ヨルシカ_千鳥,665,635,650,f,k,SUB,-1,,,,,L30,29,19,私は酔いに酔った振り,watashihayoiniyotsutafuri,W25,24,44,ふざけた雨のとんてみさえ 私は宵に寄ったくり,fuzaketaamenotontemisaewatakushihayoiniyotsutakuri
+ヨルシカ_千鳥,679,,664,-,k,INSERT,-2,,,,,,,,,,W26,25,10,雲が私を呼んでいる 菊が私を呼んでいる,kumogawatakushiwoyondeirukikugawatakushiwoyondeiru
+ヨルシカ_千鳥,680,,665,-,u,INSERT,-2,,,,,,,,,,W26,25,11,雲が私を呼んでいる 菊が私を呼んでいる,kumogawatakushiwoyondeirukikugawatakushiwoyondeiru
+ヨルシカ_千鳥,695,663,680,g,k,SUB,-1,,,,,L32,31,2,木々が私を呼んでいる,kigigawatashiwoyondeiru,W26,25,26,雲が私を呼んでいる 菊が私を呼んでいる,kumogawatakushiwoyondeirukikugawatakushiwoyondeiru
+ヨルシカ_千鳥,696,664,681,i,u,SUB,-1,,,,,L32,31,3,木々が私を呼んでいる,kigigawatashiwoyondeiru,W26,25,27,雲が私を呼んでいる 菊が私を呼んでいる,kumogawatakushiwoyondeirukikugawatakushiwoyondeiru
+ヨルシカ_千鳥,703,,688,-,k,INSERT,-2,,,,,,,,,,W26,25,34,雲が私を呼んでいる 菊が私を呼んでいる,kumogawatakushiwoyondeirukikugawatakushiwoyondeiru
+ヨルシカ_千鳥,704,,689,-,u,INSERT,-2,,,,,,,,,,W26,25,35,雲が私を呼んでいる 菊が私を呼んでいる,kumogawatakushiwoyondeirukikugawatakushiwoyondeiru
+ヨルシカ_千鳥,719,,704,-,ts,INSERT,-2,,,,,,,,,,W27,26,2,カツ足もかなりセーテン,katsuashimokanariseeten
+ヨルシカ_千鳥,720,685,705,z,u,SUB,-1,,,,,L33,32,2,風下からり晴天,kazashimokarariseiten,W27,26,3,カツ足もかなりセーテン,katsuashimokanariseeten
+ヨルシカ_千鳥,728,693,713,r,n,SUB,-1,,,,,L33,32,10,風下からり晴天,kazashimokarariseiten,W27,26,11,カツ足もかなりセーテン,katsuashimokanariseeten
+ヨルシカ_千鳥,734,699,719,i,e,SUB,-1,,,,,L33,32,16,風下からり晴天,kazashimokarariseiten,W27,26,17,カツ足もかなりセーテン,katsuashimokanariseeten
+ヨルシカ_千鳥,738,703,723,m,n,SUB,-1,,,,,L34,33,0,目眩晴れ白い蘭の月,memaihareshiroirannotsuki,W28,27,0,眠いバレエしろ,nemuibareeshiro
+ヨルシカ_千鳥,741,706,726,a,u,SUB,-1,,,,,L34,33,3,目眩晴れ白い蘭の月,memaihareshiroirannotsuki,W28,27,3,眠いバレエしろ,nemuibareeshiro
+ヨルシカ_千鳥,743,708,728,h,b,SUB,-1,,,,,L34,33,5,目眩晴れ白い蘭の月,memaihareshiroirannotsuki,W28,27,5,眠いバレエしろ,nemuibareeshiro
+ヨルシカ_千鳥,746,,731,-,e,INSERT,-2,,,,,,,,,,W28,27,8,眠いバレエしろ,nemuibareeshiro
+ヨルシカ_千鳥,753,717,738,r,d,SUB,-1,,,,,L34,33,14,目眩晴れ白い蘭の月,memaihareshiroirannotsuki,W29,28,1,遺断の月,idannotsuki
+ヨルシカ_千鳥,787,,772,-,k,INSERT,-2,,,,,,,,,,W30,29,25,風をあなたが呼んでいる 私の風を呼んでいる,kazewoanatagayondeiruwatakushinokazewoyondeiru
+ヨルシカ_千鳥,788,,773,-,u,INSERT,-2,,,,,,,,,,W30,29,26,風をあなたが呼んでいる 私の風を呼んでいる,kazewoanatagayondeiruwatakushinokazewoyondeiru
+ヨルシカ_千鳥,834,,819,-,k,INSERT,-2,,,,,,,,,,W31,30,27,ふざけた晴れの炎天 行こう 私は酔いに酔ったふり,fuzaketaharenoentenikouwatakushihayoiniyotsutafuri
+ヨルシカ_千鳥,835,,820,-,u,INSERT,-2,,,,,,,,,,W31,30,28,ふざけた晴れの炎天 行こう 私は酔いに酔ったふり,fuzaketaharenoentenikouwatakushihayoiniyotsutafuri
+ヨルシカ_千鳥,859,,844,-,k,INSERT,-2,,,,,,,,,,W32,31,4,私が風を呼んでいる 聞きを叫べと呼んでいる,watakushigakazewoyondeirukikiwosakebetoyondeiru
+ヨルシカ_千鳥,860,,845,-,u,INSERT,-2,,,,,,,,,,W32,31,5,私が風を呼んでいる 聞きを叫べと呼んでいる,watakushigakazewoyondeirukikiwosakebetoyondeiru
+ヨルシカ_千鳥,881,839,866,g,k,SUB,-1,,,,,L40,39,2,木々よ叫べと呼んでいる,kigiyosakebetoyondeiru,W32,31,26,私が風を呼んでいる 聞きを叫べと呼んでいる,watakushigakazewoyondeirukikiwosakebetoyondeiru
+ヨルシカ_千鳥,883,841,868,y,w,SUB,-1,,,,,L40,39,4,木々よ叫べと呼んでいる,kigiyosakebetoyondeiru,W32,31,28,私が風を呼んでいる 聞きを叫べと呼んでいる,watakushigakazewoyondeirukikiwosakebetoyondeiru
+ヨルシカ_千鳥,909,867,894,k,t,SUB,-1,,,,,L41,40,8,風下からり炎天,kazashimokararienten,W33,32,8,かざしもたらいえんて,kazashimotaraiente
+ヨルシカ_千鳥,913,871,,r,-,DELETE,-2,,,,,L41,40,12,風下からり炎天,kazashimokararienten,,,,,
+ヨルシカ_千鳥,920,878,,m,-,DELETE,-2,,,,,L42,41,0,目眩晴れ薄い今日の月,memaihareusuikyounotsuki,,,,,
+ヨルシカ_千鳥,923,881,906,a,u,SUB,-1,,,,,L42,41,3,目眩晴れ薄い今日の月,memaihareusuikyounotsuki,W34,33,3,眠いパレウス,nemuipareusu
+ヨルシカ_千鳥,925,883,908,h,p,SUB,-1,,,,,L42,41,5,目眩晴れ薄い今日の月,memaihareusuikyounotsuki,W34,33,5,眠いパレウス,nemuipareusu
+ヨルシカ_千鳥,932,,915,-,h,INSERT,-2,,,,,,,,,,W35,34,0,卑怯の月,hikyounotsuki
+ヨルシカ_左右盲,1,,0,-,k,INSERT,-2,,,,,,,,,,W1,0,0,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,2,,1,-,i,INSERT,-2,,,,,,,,,,W1,0,1,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,3,,2,-,m,INSERT,-2,,,,,,,,,,W1,0,2,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,4,,3,-,i,INSERT,-2,,,,,,,,,,W1,0,3,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,5,,4,-,n,INSERT,-2,,,,,,,,,,W1,0,4,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,6,,5,-,o,INSERT,-2,,,,,,,,,,W1,0,5,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,7,,6,-,m,INSERT,-2,,,,,,,,,,W1,0,6,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,8,,7,-,i,INSERT,-2,,,,,,,,,,W1,0,7,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,9,,8,-,g,INSERT,-2,,,,,,,,,,W1,0,8,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,10,,9,-,i,INSERT,-2,,,,,,,,,,W1,0,9,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,11,,10,-,t,INSERT,-2,,,,,,,,,,W1,0,10,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,12,,11,-,e,INSERT,-2,,,,,,,,,,W1,0,11,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,13,,12,-,h,INSERT,-2,,,,,,,,,,W1,0,12,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,14,,13,-,a,INSERT,-2,,,,,,,,,,W1,0,13,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,15,,14,-,h,INSERT,-2,,,,,,,,,,W1,0,14,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,16,,15,-,o,INSERT,-2,,,,,,,,,,W1,0,15,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,17,,16,-,o,INSERT,-2,,,,,,,,,,W1,0,16,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,18,,17,-,w,INSERT,-2,,,,,,,,,,W1,0,17,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,19,,18,-,o,INSERT,-2,,,,,,,,,,W1,0,18,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,20,,19,-,ts,INSERT,-2,,,,,,,,,,W1,0,19,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,21,,20,-,u,INSERT,-2,,,,,,,,,,W1,0,20,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,22,,21,-,i,INSERT,-2,,,,,,,,,,W1,0,21,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,23,,22,-,t,INSERT,-2,,,,,,,,,,W1,0,22,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,24,,23,-,e,INSERT,-2,,,,,,,,,,W1,0,23,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,25,,24,-,i,INSERT,-2,,,,,,,,,,W1,0,24,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,26,,25,-,r,INSERT,-2,,,,,,,,,,W1,0,25,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,27,,26,-,u,INSERT,-2,,,,,,,,,,W1,0,26,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,43,,42,-,o,INSERT,-2,,,,,,,,,,W2,1,15,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,44,,43,-,o,INSERT,-2,,,,,,,,,,W2,1,16,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,45,,44,-,w,INSERT,-2,,,,,,,,,,W2,1,17,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,46,,45,-,o,INSERT,-2,,,,,,,,,,W2,1,18,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,47,,46,-,ts,INSERT,-2,,,,,,,,,,W2,1,19,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,48,,47,-,u,INSERT,-2,,,,,,,,,,W2,1,20,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,49,,48,-,i,INSERT,-2,,,,,,,,,,W2,1,21,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,50,,49,-,t,INSERT,-2,,,,,,,,,,W2,1,22,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,51,,50,-,e,INSERT,-2,,,,,,,,,,W2,1,23,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,52,,51,-,i,INSERT,-2,,,,,,,,,,W2,1,24,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,53,,52,-,r,INSERT,-2,,,,,,,,,,W2,1,25,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,54,,53,-,u,INSERT,-2,,,,,,,,,,W2,1,26,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,55,,54,-,k,INSERT,-2,,,,,,,,,,W3,2,0,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,56,,55,-,i,INSERT,-2,,,,,,,,,,W3,2,1,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,57,,56,-,m,INSERT,-2,,,,,,,,,,W3,2,2,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,58,,57,-,i,INSERT,-2,,,,,,,,,,W3,2,3,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,59,,58,-,n,INSERT,-2,,,,,,,,,,W3,2,4,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,61,,60,-,m,INSERT,-2,,,,,,,,,,W3,2,6,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,62,,61,-,i,INSERT,-2,,,,,,,,,,W3,2,7,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,63,,62,-,g,INSERT,-2,,,,,,,,,,W3,2,8,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,64,,63,-,i,INSERT,-2,,,,,,,,,,W3,2,9,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,65,,64,-,t,INSERT,-2,,,,,,,,,,W3,2,10,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,66,,65,-,e,INSERT,-2,,,,,,,,,,W3,2,11,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,67,,66,-,h,INSERT,-2,,,,,,,,,,W3,2,12,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,68,,67,-,a,INSERT,-2,,,,,,,,,,W3,2,13,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,70,,69,-,o,INSERT,-2,,,,,,,,,,W3,2,15,君の右手は頬をついている,kiminomigitehahoowotsuiteiru
+ヨルシカ_左右盲,157,,156,-,u,INSERT,-2,,,,,,,,,,W6,5,14,朝がこんなにもう降った,asagakonnanimoufutsuta
+ヨルシカ_左右盲,174,119,173,ch,sh,SUB,-1,,,,,L6,5,0,散らぬ牡丹の一つでいい,chiranubotannohitotsudeii,W7,6,10,一つでいい 知らぬボタンの一つでいい,hitotsudeiishiranubotannohitotsudeii
+ヨルシカ_左右盲,312,,311,-,y,INSERT,-2,,,,,,,,,,W11,10,6,一人ゆく その静けさを,hitoriyukusonoshizukesawo
+ヨルシカ_左右盲,313,257,312,i,u,SUB,-1,,,,,L11,10,6,一人行くその静けさを,hitoriikusonoshizukesawo,W11,10,7,一人ゆく その静けさを,hitoriyukusonoshizukesawo
+ヨルシカ_左右盲,380,324,379,t,d,SUB,-1,,,,,L13,12,24,君の左眉は少し垂れている,kiminohidarimayuhasukoshitareteiru,W13,12,24,君の左眉は 少しだれている,kiminohidarimayuhasukoshidareteiru
+ヨルシカ_左右盲,468,412,,q,-,DELETE,-2,,,,,L17,16,7,あれそれって左手だっけ,aresorettehidaritedakke,,,,,
+ヨルシカ_左右盲,469,413,467,t,d,SUB,-1,,,,,L17,16,8,あれそれって左手だっけ,aresorettehidaritedakke,W18,17,4,それで左手だけ,soredehidaritedake
+ヨルシカ_左右盲,481,425,,q,-,DELETE,-2,,,,,L17,16,20,あれそれって左手だっけ,aresorettehidaritedakke,,,,,
+ヨルシカ_左右盲,561,505,,w,-,DELETE,-2,,,,,L20,19,43,君の胸を打つ心を覗けるほどの感傷を,kiminomunewoutsukokorowonozokeruhodonokanshouwo,,,,,
+ヨルシカ_左右盲,562,506,,o,-,DELETE,-2,,,,,L20,19,44,君の胸を打つ心を覗けるほどの感傷を,kiminomunewoutsukokorowonozokeruhodonokanshouwo,,,,,
+ヨルシカ_左右盲,598,542,593,m,w,SUB,-1,,,,,L22,21,22,夏に舞う雹のその中も手探りで行けることを,natsunimauhyounosononakamotesagurideikerukotowo,W20,19,35,ひとつでいいんだ 夏に舞う表の その中を 手探りで言えること,hitotsudeiindanatsunimauhyounosononakawotesagurideierukoto
+ヨルシカ_左右盲,611,555,,k,-,DELETE,-2,,,,,L22,21,35,夏に舞う雹のその中も手探りで行けることを,natsunimauhyounosononakamotesagurideikerukotowo,,,,,
+ヨルシカ_左右盲,618,562,,o,-,DELETE,-2,,,,,L22,21,42,夏に舞う雹のその中も手探りで行けることを,natsunimauhyounosononakamotesagurideikerukotowo,,,,,
+ヨルシカ_左右盲,619,563,,w,-,DELETE,-2,,,,,L22,21,43,夏に舞う雹のその中も手探りで行けることを,natsunimauhyounosononakamotesagurideikerukotowo,,,,,
+ヨルシカ_左右盲,635,579,627,n,m,SUB,-1,,,,,L23,22,14,君の目は閉じぬことを,kiminomehatojinukotowo,W21,20,14,君の目は閉じむこと,kiminomehatojimukoto
+ヨルシカ_左右盲,640,584,,o,-,DELETE,-2,,,,,L23,22,19,君の目は閉じぬことを,kiminomehatojinukotowo,,,,,
+ヨルシカ_左右盲,641,585,,w,-,DELETE,-2,,,,,L23,22,20,君の目は閉じぬことを,kiminomehatojinukotowo,,,,,
+ヨルシカ_左右盲,719,663,,ts,-,DELETE,-2,,,,,L26,25,0,剣の柄からルビーをこの瞳からサファイアを,tsuruginotsukakararubiiwokonohitomikarasafaiawo,,,,,
+ヨルシカ_左右盲,720,664,,u,-,DELETE,-2,,,,,L26,25,1,剣の柄からルビーをこの瞳からサファイアを,tsuruginotsukakararubiiwokonohitomikarasafaiawo,,,,,
+ヨルシカ_左右盲,721,665,,r,-,DELETE,-2,,,,,L26,25,2,剣の柄からルビーをこの瞳からサファイアを,tsuruginotsukakararubiiwokonohitomikarasafaiawo,,,,,
+ヨルシカ_左右盲,722,666,709,u,k,SUB,-1,,,,,L26,25,3,剣の柄からルビーをこの瞳からサファイアを,tsuruginotsukakararubiiwokonohitomikarasafaiawo,W23,22,0,剣の束からルビーを この瞳からサパイアを,kennotabakararubiiwokonohitomikarasapaiawo
+ヨルシカ_左右盲,723,667,710,g,e,SUB,-1,,,,,L26,25,4,剣の柄からルビーをこの瞳からサファイアを,tsuruginotsukakararubiiwokonohitomikarasafaiawo,W23,22,1,剣の束からルビーを この瞳からサパイアを,kennotabakararubiiwokonohitomikarasapaiawo
+ヨルシカ_左右盲,724,668,711,i,n,SUB,-1,,,,,L26,25,5,剣の柄からルビーをこの瞳からサファイアを,tsuruginotsukakararubiiwokonohitomikarasafaiawo,W23,22,2,剣の束からルビーを この瞳からサパイアを,kennotabakararubiiwokonohitomikarasapaiawo
+ヨルシカ_左右盲,727,671,714,ts,t,SUB,-1,,,,,L26,25,8,剣の柄からルビーをこの瞳からサファイアを,tsuruginotsukakararubiiwokonohitomikarasafaiawo,W23,22,5,剣の束からルビーを この瞳からサパイアを,kennotabakararubiiwokonohitomikarasapaiawo
+ヨルシカ_左右盲,728,672,715,u,a,SUB,-1,,,,,L26,25,9,剣の柄からルビーをこの瞳からサファイアを,tsuruginotsukakararubiiwokonohitomikarasafaiawo,W23,22,6,剣の束からルビーを この瞳からサパイアを,kennotabakararubiiwokonohitomikarasapaiawo
+ヨルシカ_左右盲,729,673,716,k,b,SUB,-1,,,,,L26,25,10,剣の柄からルビーをこの瞳からサファイアを,tsuruginotsukakararubiiwokonohitomikarasafaiawo,W23,22,7,剣の束からルビーを この瞳からサパイアを,kennotabakararubiiwokonohitomikarasapaiawo
+ヨルシカ_左右盲,758,702,745,f,p,SUB,-1,,,,,L26,25,39,剣の柄からルビーをこの瞳からサファイアを,tsuruginotsukakararubiiwokonohitomikarasafaiawo,W23,22,36,剣の束からルビーを この瞳からサパイアを,kennotabakararubiiwokonohitomikarasapaiawo
+ヨルシカ_左右盲,794,738,,h,-,DELETE,-2,,,,,L28,27,0,一つでいい,hitotsudeii,,,,,
+ヨルシカ_左右盲,795,739,781,i,r,SUB,-1,,,,,L28,27,1,一つでいい,hitotsudeii,W25,24,0,ローツでいい 散らぬボタンの一つでいい,rootsudeiichiranubotannohitotsudeii
+ヨルシカ_左右盲,796,740,782,t,o,SUB,-1,,,,,L28,27,2,一つでいい,hitotsudeii,W25,24,1,ローツでいい 散らぬボタンの一つでいい,rootsudeiichiranubotannohitotsudeii
+ヨルシカ_左右盲,915,859,,w,-,DELETE,-2,,,,,L33,32,29,今日の小雨が止むための太陽を,kyounokosamegayamutamenotaiyouwo,,,,,
+ヨルシカ_左右盲,916,860,,o,-,DELETE,-2,,,,,L33,32,30,今日の小雨が止むための太陽を,kyounokosamegayamutamenotaiyouwo,,,,,
+ヨルシカ_左右盲,962,906,,o,-,DELETE,-2,,,,,L35,34,35,君の世界に少しでいい僕の靴跡を,kiminosekainisukoshideiibokunokutsuatowo,,,,,
+ヨルシカ_左右盲,963,907,,w,-,DELETE,-2,,,,,L35,34,36,君の世界に少しでいい僕の靴跡を,kiminosekainisukoshideiibokunokutsuatowo,,,,,
+ヨルシカ_左右盲,1134,1078,,i,-,DELETE,-2,,,,,L42,41,3,何を食べても味がしないんだ,naniwotabetemoajigashinainda,,,,,
+ヨルシカ_左右盲,1203,,1184,-,k,INSERT,-2,,,,,,,,,,W37,36,19,あなたの心と私の心が ずっと一つだと思ってたんだ,anatanokokorotowatakushinokokorogazuttohitotsudatoomotsutetanda
+ヨルシカ_左右盲,1204,,1185,-,u,INSERT,-2,,,,,,,,,,W37,36,20,あなたの心と私の心が ずっと一つだと思ってたんだ,anatanokokorotowatakushinokokorogazuttohitotsudatoomotsutetanda

@@ -1,0 +1,1854 @@
+[
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 14,
+    "w_segments": [
+      "W14"
+    ],
+    "l_segments": [
+      "L16"
+    ],
+    "w_line": [
+      "菊が私を呼んでいる"
+    ],
+    "l_line": [
+      "木々が私を呼んでいる"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "g i",
+    "w_sequence": "k u",
+    "l_phonemes": [
+      "g",
+      "i"
+    ],
+    "w_phonemes": [
+      "k",
+      "u"
+    ],
+    "alignment": [
+      {
+        "l": "g",
+        "w": "k",
+        "op": "SUB"
+      },
+      {
+        "l": "i",
+        "w": "u",
+        "op": "SUB"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "g",
+        "w": "k"
+      },
+      {
+        "l": "i",
+        "w": "u"
+      }
+    ],
+    "counts": {
+      "MATCH": 0,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 26,
+    "w_segments": [
+      "W26"
+    ],
+    "l_segments": [
+      "L31",
+      "L32"
+    ],
+    "w_line": [
+      "雲が私を呼んでいる 菊が私を呼んでいる"
+    ],
+    "l_line": [
+      "雲が私を呼んでいる",
+      "木々が私を呼んでいる"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "g i",
+    "w_sequence": "k u",
+    "l_phonemes": [
+      "g",
+      "i"
+    ],
+    "w_phonemes": [
+      "k",
+      "u"
+    ],
+    "alignment": [
+      {
+        "l": "g",
+        "w": "k",
+        "op": "SUB"
+      },
+      {
+        "l": "i",
+        "w": "u",
+        "op": "SUB"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "g",
+        "w": "k"
+      },
+      {
+        "l": "i",
+        "w": "u"
+      }
+    ],
+    "counts": {
+      "MATCH": 0,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 31,
+    "w_segments": [
+      "W32"
+    ],
+    "l_segments": [
+      "L39",
+      "L40"
+    ],
+    "w_line": [
+      "私が風を呼んでいる 聞きを叫べと呼んでいる"
+    ],
+    "l_line": [
+      "私が風を呼んでいる",
+      "木々よ叫べと呼んでいる"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "g i y o",
+    "w_sequence": "k i w o",
+    "l_phonemes": [
+      "g",
+      "i",
+      "y",
+      "o"
+    ],
+    "w_phonemes": [
+      "k",
+      "i",
+      "w",
+      "o"
+    ],
+    "alignment": [
+      {
+        "l": "g",
+        "w": "k",
+        "op": "SUB"
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH"
+      },
+      {
+        "l": "y",
+        "w": "w",
+        "op": "SUB"
+      },
+      {
+        "l": "o",
+        "w": "o",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "g",
+        "w": "k"
+      },
+      {
+        "l": "y",
+        "w": "w"
+      }
+    ],
+    "counts": {
+      "MATCH": 2,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": "word + particle confusion"
+    }
+  },
+  {
+    "song": "ヨルシカ_八月、某、月明かり",
+    "block_id": 7,
+    "w_segments": [
+      "W8"
+    ],
+    "l_segments": [
+      "L9"
+    ],
+    "w_line": [
+      "分かっただ わかった 振り下"
+    ],
+    "l_line": [
+      "わかってたわかった振りをした"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "t e t a",
+    "w_sequence": "t a d a",
+    "l_phonemes": [
+      "t",
+      "e",
+      "t",
+      "a"
+    ],
+    "w_phonemes": [
+      "t",
+      "a",
+      "d",
+      "a"
+    ],
+    "alignment": [
+      {
+        "l": "t",
+        "w": "t",
+        "op": "MATCH"
+      },
+      {
+        "l": "e",
+        "w": "a",
+        "op": "SUB"
+      },
+      {
+        "l": "t",
+        "w": "d",
+        "op": "SUB"
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "e",
+        "w": "a"
+      },
+      {
+        "l": "t",
+        "w": "d"
+      }
+    ],
+    "counts": {
+      "MATCH": 2,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_八月、某、月明かり",
+    "block_id": 8,
+    "w_segments": [
+      "W9"
+    ],
+    "l_segments": [
+      "L10",
+      "L11",
+      "L12",
+      "L13"
+    ],
+    "w_line": [
+      "最低だ 最低だ 僕の全部最低だ 君を形し残したかった 想い出になんてしてやるもんか"
+    ],
+    "l_line": [
+      "最低だ最低だ",
+      "僕の全部最低だ",
+      "君を形に残したかった",
+      "想い出になんてしてやるもんか"
+    ],
+    "unit_id": 1,
+    "type": "SINGLE_SUB",
+    "l_sequence": "n i",
+    "w_sequence": "sh i",
+    "l_phonemes": [
+      "n",
+      "i"
+    ],
+    "w_phonemes": [
+      "sh",
+      "i"
+    ],
+    "alignment": [
+      {
+        "l": "n",
+        "w": "sh",
+        "op": "SUB"
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "n",
+        "w": "sh"
+      }
+    ],
+    "counts": {
+      "MATCH": 1,
+      "SUB": 1,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_八月、某、月明かり",
+    "block_id": 18,
+    "w_segments": [
+      "W19"
+    ],
+    "l_segments": [
+      "L26"
+    ],
+    "w_line": [
+      "ストックホルムのロテンション キレナがムラスタンは石畳"
+    ],
+    "l_line": [
+      "ストックホルムの露天商キルナガムラスタンは石畳"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "u k i r u",
+    "w_sequence": "n k i r e",
+    "l_phonemes": [
+      "u",
+      "k",
+      "i",
+      "r",
+      "u"
+    ],
+    "w_phonemes": [
+      "n",
+      "k",
+      "i",
+      "r",
+      "e"
+    ],
+    "alignment": [
+      {
+        "l": "u",
+        "w": "n",
+        "op": "SUB"
+      },
+      {
+        "l": "k",
+        "w": "k",
+        "op": "MATCH"
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH"
+      },
+      {
+        "l": "r",
+        "w": "r",
+        "op": "MATCH"
+      },
+      {
+        "l": "u",
+        "w": "e",
+        "op": "SUB"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "u",
+        "w": "n"
+      },
+      {
+        "l": "u",
+        "w": "e"
+      }
+    ],
+    "counts": {
+      "MATCH": 3,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_八月、某、月明かり",
+    "block_id": 20,
+    "w_segments": [
+      "W21"
+    ],
+    "l_segments": [
+      "L29"
+    ],
+    "w_line": [
+      "笑ったか 笑った顔のまま"
+    ],
+    "l_line": [
+      "笑ってた笑った顔のまま"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "t e t a",
+    "w_sequence": "t a k a",
+    "l_phonemes": [
+      "t",
+      "e",
+      "t",
+      "a"
+    ],
+    "w_phonemes": [
+      "t",
+      "a",
+      "k",
+      "a"
+    ],
+    "alignment": [
+      {
+        "l": "t",
+        "w": "t",
+        "op": "MATCH"
+      },
+      {
+        "l": "e",
+        "w": "a",
+        "op": "SUB"
+      },
+      {
+        "l": "t",
+        "w": "k",
+        "op": "SUB"
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "e",
+        "w": "a"
+      },
+      {
+        "l": "t",
+        "w": "k"
+      }
+    ],
+    "counts": {
+      "MATCH": 2,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_八月、某、月明かり",
+    "block_id": 32,
+    "w_segments": [
+      "W34"
+    ],
+    "l_segments": [
+      "L49"
+    ],
+    "w_line": [
+      "最低 なんて このだけの歌詞だ"
+    ],
+    "l_line": [
+      "最低なんて語呂だけの歌詞だ"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "g o r o",
+    "w_sequence": "k o n o",
+    "l_phonemes": [
+      "g",
+      "o",
+      "r",
+      "o"
+    ],
+    "w_phonemes": [
+      "k",
+      "o",
+      "n",
+      "o"
+    ],
+    "alignment": [
+      {
+        "l": "g",
+        "w": "k",
+        "op": "SUB"
+      },
+      {
+        "l": "o",
+        "w": "o",
+        "op": "MATCH"
+      },
+      {
+        "l": "r",
+        "w": "n",
+        "op": "SUB"
+      },
+      {
+        "l": "o",
+        "w": "o",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "g",
+        "w": "k"
+      },
+      {
+        "l": "r",
+        "w": "n"
+      }
+    ],
+    "counts": {
+      "MATCH": 2,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_八月、某、月明かり",
+    "block_id": 35,
+    "w_segments": [
+      "W37",
+      "W38"
+    ],
+    "l_segments": [
+      "L52",
+      "L53",
+      "L54"
+    ],
+    "w_line": [
+      "今も 愛も 過去も 夢も",
+      "思い出も 花歌も 薄い夢も 夜霞も 優しさも 苦しさも 花伝うさも 憂鬱も あの夏も この歌も 偽善も 夜風も 嘘も 君も 僕も 天井も 何もいらない"
+    ],
+    "l_line": [
+      "今も愛も過去も夢も思い出も鼻歌も薄い目も夜霞も",
+      "優しさも苦しさも花房も憂鬱もあの夏もこの歌も",
+      "偽善も夜風も嘘も君も僕も青天井も何もいらない"
+    ],
+    "unit_id": 2,
+    "type": "MULTI_SUB",
+    "l_sequence": "h a n a f u",
+    "w_sequence": "k a d e n u",
+    "l_phonemes": [
+      "h",
+      "a",
+      "n",
+      "a",
+      "f",
+      "u"
+    ],
+    "w_phonemes": [
+      "k",
+      "a",
+      "d",
+      "e",
+      "n",
+      "u"
+    ],
+    "alignment": [
+      {
+        "l": "h",
+        "w": "k",
+        "op": "SUB"
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH"
+      },
+      {
+        "l": "n",
+        "w": "d",
+        "op": "SUB"
+      },
+      {
+        "l": "a",
+        "w": "e",
+        "op": "SUB"
+      },
+      {
+        "l": "f",
+        "w": "n",
+        "op": "SUB"
+      },
+      {
+        "l": "u",
+        "w": "u",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "h",
+        "w": "k"
+      },
+      {
+        "l": "n",
+        "w": "d"
+      },
+      {
+        "l": "a",
+        "w": "e"
+      },
+      {
+        "l": "f",
+        "w": "n"
+      }
+    ],
+    "counts": {
+      "MATCH": 2,
+      "SUB": 4,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_左右盲",
+    "block_id": 17,
+    "w_segments": [
+      "W20"
+    ],
+    "l_segments": [
+      "L21",
+      "L22"
+    ],
+    "w_line": [
+      "ひとつでいいんだ 夏に舞う表の その中を 手探りで言えること"
+    ],
+    "l_line": [
+      "一つでいいんだ",
+      "夏に舞う雹のその中も手探りで行けることを"
+    ],
+    "unit_id": 1,
+    "type": "SINGLE_SUB",
+    "l_sequence": "m o",
+    "w_sequence": "w o",
+    "l_phonemes": [
+      "m",
+      "o"
+    ],
+    "w_phonemes": [
+      "w",
+      "o"
+    ],
+    "alignment": [
+      {
+        "l": "m",
+        "w": "w",
+        "op": "SUB"
+      },
+      {
+        "l": "o",
+        "w": "o",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "m",
+        "w": "w"
+      }
+    ],
+    "counts": {
+      "MATCH": 1,
+      "SUB": 1,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_左右盲",
+    "block_id": 18,
+    "w_segments": [
+      "W21"
+    ],
+    "l_segments": [
+      "L23"
+    ],
+    "w_line": [
+      "君の目は閉じむこと"
+    ],
+    "l_line": [
+      "君の目は閉じぬことを"
+    ],
+    "unit_id": 1,
+    "type": "SINGLE_SUB",
+    "l_sequence": "n u",
+    "w_sequence": "m u",
+    "l_phonemes": [
+      "n",
+      "u"
+    ],
+    "w_phonemes": [
+      "m",
+      "u"
+    ],
+    "alignment": [
+      {
+        "l": "n",
+        "w": "m",
+        "op": "SUB"
+      },
+      {
+        "l": "u",
+        "w": "u",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "n",
+        "w": "m"
+      }
+    ],
+    "counts": {
+      "MATCH": 1,
+      "SUB": 1,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": "morpheme/inflection confusion: ぬ → む"
+    }
+  },
+  {
+    "song": "ヨルシカ_忘れてください",
+    "block_id": 13,
+    "w_segments": [
+      "W14",
+      "W15",
+      "W16"
+    ],
+    "l_segments": [
+      "L16",
+      "L17"
+    ],
+    "w_line": [
+      "何もないのかい 海のそばの小さい駅を 歩いて5分の海岸の",
+      "僕と満たし水の色も 忘れてください",
+      "僕に"
+    ],
+    "l_line": [
+      "何もないのかい",
+      "海の側の小さい駅を歩いて五分の海岸の僕と見た翡翠の色も忘れてください"
+    ],
+    "unit_id": 2,
+    "type": "SINGLE_SUB",
+    "l_sequence": "h i",
+    "w_sequence": "sh i",
+    "l_phonemes": [
+      "h",
+      "i"
+    ],
+    "w_phonemes": [
+      "sh",
+      "i"
+    ],
+    "alignment": [
+      {
+        "l": "h",
+        "w": "sh",
+        "op": "SUB"
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "h",
+        "w": "sh"
+      }
+    ],
+    "counts": {
+      "MATCH": 1,
+      "SUB": 1,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": "lexical/word-boundary confusion: 見た翡翠 → 満たし水"
+    }
+  },
+  {
+    "song": "ヨルシカ_春泥棒",
+    "block_id": 9,
+    "w_segments": [
+      "W9",
+      "W10"
+    ],
+    "l_segments": [
+      "L12",
+      "L13"
+    ],
+    "w_line": [
+      "ただ花が降るだけ",
+      "晴れに芋春吹雪"
+    ],
+    "l_line": [
+      "ただ花が降るだけ晴れり",
+      "今春吹雪"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "r i i m a",
+    "w_sequence": "n i i m o",
+    "l_phonemes": [
+      "r",
+      "i",
+      "i",
+      "m",
+      "a"
+    ],
+    "w_phonemes": [
+      "n",
+      "i",
+      "i",
+      "m",
+      "o"
+    ],
+    "alignment": [
+      {
+        "l": "r",
+        "w": "n",
+        "op": "SUB"
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH"
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH"
+      },
+      {
+        "l": "m",
+        "w": "m",
+        "op": "MATCH"
+      },
+      {
+        "l": "a",
+        "w": "o",
+        "op": "SUB"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "r",
+        "w": "n"
+      },
+      {
+        "l": "a",
+        "w": "o"
+      }
+    ],
+    "counts": {
+      "MATCH": 3,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_春泥棒",
+    "block_id": 18,
+    "w_segments": [
+      "W21",
+      "W22"
+    ],
+    "l_segments": [
+      "L22",
+      "L23",
+      "L24"
+    ],
+    "w_line": [
+      "まだ昨日と変わらず今日も咲く",
+      "花に僕らも 幹も忘れて まだ抱きさえ置く"
+    ],
+    "l_line": [
+      "また昨日と変わらず今日も咲く花に",
+      "僕らもう息も忘れて",
+      "瞬きさえ億劫"
+    ],
+    "unit_id": 2,
+    "type": "SINGLE_SUB",
+    "l_sequence": "u i",
+    "w_sequence": "m i",
+    "l_phonemes": [
+      "u",
+      "i"
+    ],
+    "w_phonemes": [
+      "m",
+      "i"
+    ],
+    "alignment": [
+      {
+        "l": "u",
+        "w": "m",
+        "op": "SUB"
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "u",
+        "w": "m"
+      }
+    ],
+    "counts": {
+      "MATCH": 1,
+      "SUB": 1,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_春泥棒",
+    "block_id": 32,
+    "w_segments": [
+      "W37"
+    ],
+    "l_segments": [
+      "L43"
+    ],
+    "w_line": [
+      "花火は僕らだけ"
+    ],
+    "l_line": [
+      "花見は僕らだけ"
+    ],
+    "unit_id": 1,
+    "type": "SINGLE_SUB",
+    "l_sequence": "m i",
+    "w_sequence": "b i",
+    "l_phonemes": [
+      "m",
+      "i"
+    ],
+    "w_phonemes": [
+      "b",
+      "i"
+    ],
+    "alignment": [
+      {
+        "l": "m",
+        "w": "b",
+        "op": "SUB"
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "m",
+        "w": "b"
+      }
+    ],
+    "counts": {
+      "MATCH": 1,
+      "SUB": 1,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_へび",
+    "block_id": 12,
+    "w_segments": [
+      "W17"
+    ],
+    "l_segments": [
+      "L17",
+      "L18"
+    ],
+    "w_line": [
+      "寝付く木下のベッドを転がったあの頃みたいに"
+    ],
+    "l_line": [
+      "芽吹く苔のベッドを転がった",
+      "あの頃みたいに"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "m e b u",
+    "w_sequence": "n e ts u",
+    "l_phonemes": [
+      "m",
+      "e",
+      "b",
+      "u"
+    ],
+    "w_phonemes": [
+      "n",
+      "e",
+      "ts",
+      "u"
+    ],
+    "alignment": [
+      {
+        "l": "m",
+        "w": "n",
+        "op": "SUB"
+      },
+      {
+        "l": "e",
+        "w": "e",
+        "op": "MATCH"
+      },
+      {
+        "l": "b",
+        "w": "ts",
+        "op": "SUB"
+      },
+      {
+        "l": "u",
+        "w": "u",
+        "op": "MATCH"
+      }
+    ],
+    "substitutions": [
+      {
+        "l": "m",
+        "w": "n"
+      },
+      {
+        "l": "b",
+        "w": "ts"
+      }
+    ],
+    "counts": {
+      "MATCH": 2,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_あぶく",
+    "block_id": 8,
+    "w_segments": [
+      "W17",
+      "W18"
+    ],
+    "l_segments": [
+      "L18",
+      "L19",
+      "L20"
+    ],
+    "w_line": [
+      "さあ ねえねえ ご覧遊べ 私の可愛い化け物を",
+      "うつうつ怒った音を鳴らして"
+    ],
+    "l_line": [
+      "さぁ銘々ご覧遊べ",
+      "私の乾いた獣",
+      "ふつふつ怒った音を鳴らして"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "m e i m e i",
+    "w_sequence": "n e e n e e",
+    "l_phonemes": [
+      "m",
+      "e",
+      "i",
+      "m",
+      "e",
+      "i"
+    ],
+    "w_phonemes": [
+      "n",
+      "e",
+      "e",
+      "n",
+      "e",
+      "e"
+    ],
+    "alignment": [
+      {
+        "l": "m",
+        "w": "n",
+        "op": "SUB"
+      },
+      {
+        "l": "e",
+        "w": "e",
+        "op": "MATCH"
+      },
+      {
+        "l": "i",
+        "w": "e",
+        "op": "SUB"
+      },
+      {
+        "l": "m",
+        "w": "n",
+        "op": "SUB"
+      },
+      {
+        "l": "e",
+        "w": "e",
+        "op": "MATCH"
+      },
+      {
+        "l": "i",
+        "w": "e",
+        "op": "SUB"
+      }
+    ],
+    "context_alignment": [
+      {
+        "l": "s",
+        "w": "s",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "m",
+        "w": "n",
+        "op": "SUB",
+        "is_error_unit": true
+      },
+      {
+        "l": "e",
+        "w": "e",
+        "op": "MATCH",
+        "is_error_unit": true
+      },
+      {
+        "l": "i",
+        "w": "e",
+        "op": "SUB",
+        "is_error_unit": true
+      },
+      {
+        "l": "m",
+        "w": "n",
+        "op": "SUB",
+        "is_error_unit": true
+      },
+      {
+        "l": "e",
+        "w": "e",
+        "op": "MATCH",
+        "is_error_unit": true
+      },
+      {
+        "l": "i",
+        "w": "e",
+        "op": "SUB",
+        "is_error_unit": true
+      },
+      {
+        "l": "g",
+        "w": "g",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "o",
+        "w": "o",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "r",
+        "w": "r",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "n",
+        "w": "n",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH",
+        "is_error_unit": false
+      }
+    ],
+    "context_size": 6,
+    "substitutions": [
+      {
+        "l": "m",
+        "w": "n"
+      },
+      {
+        "l": "i",
+        "w": "e"
+      },
+      {
+        "l": "m",
+        "w": "n"
+      },
+      {
+        "l": "i",
+        "w": "e"
+      }
+    ],
+    "counts": {
+      "MATCH": 2,
+      "SUB": 4,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_アポリア(",
+    "block_id": 21,
+    "w_segments": [
+      "W22"
+    ],
+    "l_segments": [
+      "L29"
+    ],
+    "w_line": [
+      "この夢があの日にような ほんの続きだったらいい"
+    ],
+    "l_line": [
+      "この夢があの日に読んだ本の続きだったらいい"
+    ],
+    "unit_id": 1,
+    "type": "MULTI_SUB",
+    "l_sequence": "n d a",
+    "w_sequence": "u n a",
+    "l_phonemes": [
+      "n",
+      "d",
+      "a"
+    ],
+    "w_phonemes": [
+      "u",
+      "n",
+      "a"
+    ],
+    "alignment": [
+      {
+        "l": "n",
+        "w": "u",
+        "op": "SUB"
+      },
+      {
+        "l": "d",
+        "w": "n",
+        "op": "SUB"
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH"
+      }
+    ],
+    "context_alignment": [
+      {
+        "l": "h",
+        "w": "h",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "n",
+        "w": "n",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "y",
+        "w": "y",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "o",
+        "w": "o",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "n",
+        "w": "u",
+        "op": "SUB",
+        "is_error_unit": true
+      },
+      {
+        "l": "d",
+        "w": "n",
+        "op": "SUB",
+        "is_error_unit": true
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH",
+        "is_error_unit": true
+      },
+      {
+        "l": "h",
+        "w": "h",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "o",
+        "w": "o",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "n",
+        "w": "n",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "n",
+        "w": "n",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "o",
+        "w": "o",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "ts",
+        "w": "ts",
+        "op": "MATCH",
+        "is_error_unit": false
+      }
+    ],
+    "context_size": 6,
+    "substitutions": [
+      {
+        "l": "n",
+        "w": "u"
+      },
+      {
+        "l": "d",
+        "w": "n"
+      }
+    ],
+    "counts": {
+      "MATCH": 1,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_チノカテ",
+    "block_id": 5,
+    "w_segments": [
+      "W7",
+      "W8"
+    ],
+    "l_segments": [
+      "L10"
+    ],
+    "w_line": [
+      "これからさちのもっと先を描いた",
+      "実はないんだろうか"
+    ],
+    "l_line": [
+      "これから先のもっと先を描いた地図はないんだろうか"
+    ],
+    "unit_id": 2,
+    "type": "MULTI_SUB",
+    "l_sequence": "ch i z u",
+    "w_sequence": "j i ts u",
+    "l_phonemes": [
+      "ch",
+      "i",
+      "z",
+      "u"
+    ],
+    "w_phonemes": [
+      "j",
+      "i",
+      "ts",
+      "u"
+    ],
+    "alignment": [
+      {
+        "l": "ch",
+        "w": "j",
+        "op": "SUB"
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH"
+      },
+      {
+        "l": "z",
+        "w": "ts",
+        "op": "SUB"
+      },
+      {
+        "l": "u",
+        "w": "u",
+        "op": "MATCH"
+      }
+    ],
+    "context_alignment": [
+      {
+        "l": "e",
+        "w": "e",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "g",
+        "w": "g",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "t",
+        "w": "t",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "ch",
+        "w": "j",
+        "op": "SUB",
+        "is_error_unit": true
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH",
+        "is_error_unit": true
+      },
+      {
+        "l": "z",
+        "w": "ts",
+        "op": "SUB",
+        "is_error_unit": true
+      },
+      {
+        "l": "u",
+        "w": "u",
+        "op": "MATCH",
+        "is_error_unit": true
+      },
+      {
+        "l": "h",
+        "w": "h",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "n",
+        "w": "n",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "n",
+        "w": "n",
+        "op": "MATCH",
+        "is_error_unit": false
+      }
+    ],
+    "context_size": 6,
+    "substitutions": [
+      {
+        "l": "ch",
+        "w": "j"
+      },
+      {
+        "l": "z",
+        "w": "ts"
+      }
+    ],
+    "counts": {
+      "MATCH": 2,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  },
+  {
+    "song": "ヨルシカ_千鳥",
+    "block_id": 16,
+    "w_segments": [
+      "W16"
+    ],
+    "l_segments": [
+      "L18"
+    ],
+    "w_line": [
+      "眠いパリエウス 異境の月"
+    ],
+    "l_line": [
+      "目眩晴れ薄い今日の月"
+    ],
+    "unit_id": 2,
+    "type": "MULTI_SUB",
+    "l_sequence": "m a i h a",
+    "w_sequence": "m u i p a",
+    "l_phonemes": [
+      "m",
+      "a",
+      "i",
+      "h",
+      "a"
+    ],
+    "w_phonemes": [
+      "m",
+      "u",
+      "i",
+      "p",
+      "a"
+    ],
+    "alignment": [
+      {
+        "l": "m",
+        "w": "m",
+        "op": "MATCH"
+      },
+      {
+        "l": "a",
+        "w": "u",
+        "op": "SUB"
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH"
+      },
+      {
+        "l": "h",
+        "w": "p",
+        "op": "SUB"
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH"
+      }
+    ],
+    "context_alignment": [
+      {
+        "l": "m",
+        "w": "n",
+        "op": "SUB",
+        "is_error_unit": false
+      },
+      {
+        "l": "e",
+        "w": "e",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "m",
+        "w": "m",
+        "op": "MATCH",
+        "is_error_unit": true
+      },
+      {
+        "l": "a",
+        "w": "u",
+        "op": "SUB",
+        "is_error_unit": true
+      },
+      {
+        "l": "i",
+        "w": "i",
+        "op": "MATCH",
+        "is_error_unit": true
+      },
+      {
+        "l": "h",
+        "w": "p",
+        "op": "SUB",
+        "is_error_unit": true
+      },
+      {
+        "l": "a",
+        "w": "a",
+        "op": "MATCH",
+        "is_error_unit": true
+      },
+      {
+        "l": "r",
+        "w": "r",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "-",
+        "w": "i",
+        "op": "INSERT",
+        "is_error_unit": false
+      },
+      {
+        "l": "e",
+        "w": "e",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "u",
+        "w": "u",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "s",
+        "w": "s",
+        "op": "MATCH",
+        "is_error_unit": false
+      },
+      {
+        "l": "u",
+        "w": "u",
+        "op": "MATCH",
+        "is_error_unit": false
+      }
+    ],
+    "context_size": 6,
+    "substitutions": [
+      {
+        "l": "a",
+        "w": "u"
+      },
+      {
+        "l": "h",
+        "w": "p"
+      }
+    ],
+    "counts": {
+      "MATCH": 3,
+      "SUB": 2,
+      "INSERT": 0,
+      "DELETE": 0
+    },
+    "review": {
+      "category": "WORD_MULTI_SUB",
+      "keep_dataset": true,
+      "use_for_matrix": false,
+      "note": ""
+    }
+  }
+]

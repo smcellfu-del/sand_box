@@ -1,0 +1,234 @@
+[
+  {
+    "start": 0.86,
+    "end": 7.0,
+    "line": "あなたはどうして 僕に心をくれたんでしょう",
+    "hira": "あなたはどうしてぼくにこころをくれたんでしょう",
+    "roma": "anata wa dou shite boku ni kokoro wo kureta n deshou",
+    "roma_mom": "aaa a ou ie ou i ooo o uea eou"
+  },
+  {
+    "start": 7.0,
+    "end": 13.0,
+    "line": "あなたはどうして 僕に目をかいたんだ",
+    "hira": "あなたはどうしてぼくにめをかいたんだ",
+    "roma": "anata wa dou shite boku ni me wo kaita n da",
+    "roma_mom": "aaa a ou ie ou i e o aia a"
+  },
+  {
+    "start": 14.2,
+    "end": 20.0,
+    "line": "空より大きく 雲を流す風を飲み込んで",
+    "hira": "そらよりおおきくくもをながすかぜをのみこんで",
+    "roma": "sora yori ookiku kumo wo nagasu kaze wo nomikonde",
+    "roma_mom": "oa oi ooiu uo o aau ae o oioe"
+  },
+  {
+    "start": 20.0,
+    "end": 27.0,
+    "line": "僕の眼は また夢を見てた",
+    "hira": "ぼくのめはまたゆめをみてた",
+    "roma": "boku no me wa mata yume wo miteta",
+    "roma_mom": "ou o e a aa ue o iea"
+  },
+  {
+    "start": 28.38,
+    "end": 33.0,
+    "line": "裸足のままで",
+    "hira": "はだしのままで",
+    "roma": "hadashi no mama de",
+    "roma_mom": "aai o aa e"
+  },
+  {
+    "start": 37.74,
+    "end": 43.6,
+    "line": "あなたはゆっくりと変わっていく とても小さく",
+    "hira": "あなたはゆっくりとかわっていくとてもちいさく",
+    "roma": "anata wa yukkuri to kawatte iku totemo chiisaku",
+    "roma_mom": "aaa a uui o aae iu oeo iiau"
+  },
+  {
+    "start": 43.6,
+    "end": 50.6,
+    "line": "少しずつ膨らむパンを眺めるように",
+    "hira": "すこしずつふくらむぱんをながめるように",
+    "roma": "sukoshi zutsu fukuramu pan wo nagameru you ni",
+    "roma_mom": "uoi uu uuau a o aaeu ou i"
+  },
+  {
+    "start": 50.6,
+    "end": 54.6,
+    "line": "あなたはゆっくりと走っていく",
+    "hira": "あなたはゆっくりとはしっていく",
+    "roma": "anata wa yukkuri to hashitte iku",
+    "roma_mom": "aaa a uui o aie iu"
+  },
+  {
+    "start": 54.6,
+    "end": 63.6,
+    "line": "長い迷路の先も恐れないままで",
+    "hira": "ながいめいろのさきもおそれないままで",
+    "roma": "nagai meiro no saki mo osorenai mama de",
+    "roma_mom": "aai eio o ai o ooeai aa e"
+  },
+  {
+    "start": 65.88,
+    "end": 71.9,
+    "line": "あなたはどうして僕に名前をくれたんでしょう",
+    "hira": "あなたはどうしてぼくになまえをくれたんでしょう",
+    "roma": "anata wa dou shite boku ni namae wo kureta n deshou",
+    "roma_mom": "aaa a ou ie ou i aae o uea eou"
+  },
+  {
+    "start": 71.9,
+    "end": 77.9,
+    "line": "あなたはどうして僕に手を作ったんだ",
+    "hira": "あなたはどうしてぼくにてをつくったんだ",
+    "roma": "anata wa dou shite boku ni te wo tsukutta n da",
+    "roma_mom": "aaa a ou ie ou i e o uua a"
+  },
+  {
+    "start": 79.2,
+    "end": 84.9,
+    "line": "海より大きく砂を流す波も飲み込んで",
+    "hira": "うみよりおおきくすなをながすなみものみこんで",
+    "roma": "umi yori ookiku suna wo nagasu nami mo nomikonde",
+    "roma_mom": "ui oi ooiu ua o aau ai o oioe"
+  },
+  {
+    "start": 84.9,
+    "end": 90.9,
+    "line": "小さな両手はまだ遠くを見てた",
+    "hira": "ちいさなりょうてはまだとおくをみてた",
+    "roma": "chiisana ryoute wa mada tooku wo miteta",
+    "roma_mom": "iiaa oue a aa oou o iea"
+  },
+  {
+    "start": 90.9,
+    "end": 95.9,
+    "line": "悪夢をひとつ",
+    "hira": "あくむをひとつ",
+    "roma": "akumu wo hitotsu",
+    "roma_mom": "auu o iou"
+  },
+  {
+    "start": 101.08,
+    "end": 111.1,
+    "line": "僕らはゆっくりと眠っていく とても長く 頭の真ん中に育っていく",
+    "hira": "ぼくらはゆっくりとねむっていくとてもながくあたまのまんなかにそだっていく",
+    "roma": "bokura wa yukkuri to nemutte iku totemo nagaku atama no mannaka ni sodatte iku",
+    "roma_mom": "oua a uui o eue iu oeo aau aaa o aaa i oae iu"
+  },
+  {
+    "start": 111.1,
+    "end": 118.1,
+    "line": "大きな木の根元をゆっくりと歩いていく",
+    "hira": "おおきなきのねもとをゆっくりとあるいていく",
+    "roma": "ookina ki no nemoto wo yukkuri to aruite iku",
+    "roma_mom": "ooia i o eoo o uui o auie iu"
+  },
+  {
+    "start": 118.1,
+    "end": 127.1,
+    "line": "長い迷路の先を恐れないように",
+    "hira": "ながいめいろのさきをおそれないように",
+    "roma": "nagai meiro no saki wo osorenai you ni",
+    "roma_mom": "aai eio o ai o ooeai ou i"
+  },
+  {
+    "start": 127.96,
+    "end": 134.1,
+    "line": "いつかとても追いつけない人に出会うのだろうか",
+    "hira": "いつかとてもおいつけないひとにであうのだろうか",
+    "roma": "itsu ka totemo oitsukenai hito ni deau no darou ka",
+    "roma_mom": "iu a oeo oiueai io i eau o aou a"
+  },
+  {
+    "start": 134.58,
+    "end": 141.1,
+    "line": "いつかとても越えられない壁にすくむのだろうか",
+    "hira": "いつかとてもこえられないかべにすくむのだろうか",
+    "roma": "itsu ka totemo koerarenai kabe ni sukumu no darou ka",
+    "roma_mom": "iu a oeo oeaeai ae i uuu o aou a"
+  },
+  {
+    "start": 141.28,
+    "end": 148.1,
+    "line": "いつかあなたもそれを諦めてしまうのだろうか",
+    "hira": "いつかあなたもそれをあきらめてしまうのだろうか",
+    "roma": "itsu ka anata mo sore wo akiramete shimau no darou ka",
+    "roma_mom": "iu a aaa o oe o aiaee iau o aou a"
+  },
+  {
+    "start": 148.64,
+    "end": 151.1,
+    "line": "ゆっくりと変わっていく",
+    "hira": "ゆっくりとかわっていく",
+    "roma": "yukkuri to kawatte iku",
+    "roma_mom": "uui o aae iu"
+  },
+  {
+    "start": 151.1,
+    "end": 155.1,
+    "line": "ゆっくりと変わっていく",
+    "hira": "ゆっくりとかわっていく",
+    "roma": "yukkuri to kawatte iku",
+    "roma_mom": "uui o aae iu"
+  },
+  {
+    "start": 155.28,
+    "end": 161.74,
+    "line": "ゆっくりと変わっていく 僕らはゆっくりと忘れていく",
+    "hira": "ゆっくりとかわっていくぼくらはゆっくりとわすれていく",
+    "roma": "yukkuri to kawatte iku bokura wa yukkuri to wasurete iku",
+    "roma_mom": "uui o aae iu oua a uui o auee iu"
+  },
+  {
+    "start": 161.74,
+    "end": 170.9,
+    "line": "とても小さく 少しずつ崩れる塔を眺めるように",
+    "hira": "とてもちいさくすこしずつくずれるとうをながめるように",
+    "roma": "totemo chiisaku sukoshi zutsu kuzureru tou wo nagameru you ni",
+    "roma_mom": "oeo iiau uoi uu uueu ou o aaeu ou i"
+  },
+  {
+    "start": 171.12,
+    "end": 178.3,
+    "line": "僕らはゆっくりと眠っていく ゆっくりと眠っていく",
+    "hira": "ぼくらはゆっくりとねむっていくゆっくりとねむっていく",
+    "roma": "bokura wa yukkuri to nemutte iku yukkuri to nemutte iku",
+    "roma_mom": "oua a uui o eue iu uui o eue iu"
+  },
+  {
+    "start": 181.08,
+    "end": 186.9,
+    "line": "あなたはゆっくりと変わっていく とても小さく",
+    "hira": "あなたはゆっくりとかわっていくとてもちいさく",
+    "roma": "anata wa yukkuri to kawatte iku totemo chiisaku",
+    "roma_mom": "aaa a uui o aae iu oeo iiau"
+  },
+  {
+    "start": 186.9,
+    "end": 193.9,
+    "line": "あの木の真ん中に育っていく 木陰のように",
+    "hira": "あのきのまんなかにそだっていくこかげのように",
+    "roma": "ano ki no mannaka ni sodatte iku kokage no you ni",
+    "roma_mom": "ao i o aaa i oae iu oae o ou i"
+  },
+  {
+    "start": 193.9,
+    "end": 206.9,
+    "line": "あなたはゆっくりと走っていく 長い迷路の先も恐れないままで",
+    "hira": "あなたはゆっくりとはしっていくながいめいろのさきもおそれないままで",
+    "roma": "anata wa yukkuri to hashitte iku nagai meiro no saki mo osorenai mama de",
+    "roma_mom": "aaa a uui o aie iu aai eio o ai o ooeai aa e"
+  },
+  {
+    "start": 206.9,
+    "end": 214.9,
+    "line": "確かに迷いながら",
+    "hira": "たしかにまよいながら",
+    "roma": "tashika ni mayoinagara",
+    "roma_mom": "aia i aoiaaa"
+  }
+]

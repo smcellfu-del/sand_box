@@ -1,0 +1,266 @@
+[
+  {
+    "start": 0,
+    "end": 0,
+    "line": "時計が鳴ったからやっと眼を覚ました",
+    "hira": "とけいがなったからやっとめをさました",
+    "roma": "tokei ga nattakara yatto me wo samashita",
+    "roma_mom": "oei a aaaa ao e o aaia"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "昨日の風邪がちょっと嘘みたいだ",
+    "hira": "きのうのかぜがちょっとうそみたいだ",
+    "roma": "kinou no kaze ga chotto uso mitai da",
+    "roma_mom": "iou o ae a oo uo iai a"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "出かけようにもあぁ予報が雨模様だ",
+    "hira": "でかけようにもあぁよほうがあめもようだ",
+    "roma": "dekake you ni mo a yohou ga ame moyou da",
+    "roma_mom": "eae ou i o a oou a ae oou a"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "どうせ出ないのは夜が明けないから",
+    "hira": "どうせでないのはよるがあけないから",
+    "roma": "douse de nai no wa yoru ga akenaikara",
+    "roma_mom": "oue e ai o a ou a aeaiaa"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "喉が渇くとか心が痛いとか人間の全部が邪魔してるんだよ",
+    "hira": "のどがかわくとかこころがいたいとかにんげんのぜんぶがじゃましてるんだよ",
+    "roma": "nodo ga kawaku to ka kokoro ga itai to ka ningen no zenbu ga jama shiteru n da yo",
+    "roma_mom": "oo a aau o a ooo a iai o a ie o eu a aa ieu a o"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "さよならの速さで顔を上げて",
+    "hira": "さよならのはやさでかおをあげて",
+    "roma": "sayonara no hayasa de kao wo agete",
+    "roma_mom": "aoaa o aaa e ao o aee"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "いつかやっと夜が明けたら",
+    "hira": "いつかやっとよがあけたら",
+    "roma": "itsu ka yatto yo ga aketara",
+    "roma_mom": "iu a ao o a aeaa"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "もう目を覚まして見て",
+    "hira": "もうめをさましてみて",
+    "roma": "mou me wo samashite mite",
+    "roma_mom": "ou e o aaie ie"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "寝ぼけまなこの君を何度だって描いているから",
+    "hira": "ねぼけまなこのきみをなんどだってえがいているから",
+    "roma": "neboke manako no kimi wo nan do da tte egaite irukara",
+    "roma_mom": "eoe aao o ii o a o a e eaie iuaa"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "傘を出してやっと外に出てみようと決めたはいいけど靴を捨てたんだっけ",
+    "hira": "かさをだしてやっとそとにでてみようときめたはいいけどくつをすてたんだっけ",
+    "roma": "kasa wo dashite yatto soto ni dete miyou to kimeta wa iikedo kutsu wo suteta n da kke",
+    "roma_mom": "aa o aie ao oo i ee iou o iea a iieo uu o uea a e"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "裸足のままなんて度胸もある訳がないや",
+    "hira": "はだしのままなんてどきょうもあるわけがないや",
+    "roma": "hadashi no mama nante dokyou mo aru wake ga nai ya",
+    "roma_mom": "aai o aa ae oou o au ae a ai a"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "どうでもいいかな",
+    "hira": "どうでもいいかな",
+    "roma": "dou de mo ii ka na",
+    "roma_mom": "ou e o ii a a"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "何がしたいんだろう",
+    "hira": "なにがしたいんだろう",
+    "roma": "nani ga shitai n darou",
+    "roma_mom": "ai a iai aou"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "夕飯はどうしよう",
+    "hira": "ゆうはんはどうしよう",
+    "roma": "yuuhan wa dou shiyou",
+    "roma_mom": "uua a ou iou"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "晴れたら外に出よう",
+    "hira": "はれたらそとにでよう",
+    "roma": "haretara soto ni deyou",
+    "roma_mom": "aeaa oo i eou"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "人間なんてさ見たくもないけど",
+    "hira": "にんげんなんてさみたくもないけど",
+    "roma": "ningen nante sa mitaku mo naikedo",
+    "roma_mom": "ie ae a iau o aieo"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "このままの速さで今日を泳いで",
+    "hira": "このままのはやさできょうをおよいで",
+    "roma": "kono mama no hayasa de kyou wo oyoide",
+    "roma_mom": "oo aa o aaa e ou o ooie"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "君にやっと手が触れたら",
+    "hira": "きみにやっとてがふれたら",
+    "roma": "kimi ni yatto te ga furetara",
+    "roma_mom": "ii i ao e a ueaa"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "もう目を覚まして見て",
+    "hira": "もうめをさましてみて",
+    "roma": "mou me wo samashite mite",
+    "roma_mom": "ou e o aaie ie"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "寝ぼけまなこの君を忘れたって覚えているから",
+    "hira": "ねぼけまなこのきみをわすれたっておぼえているから",
+    "roma": "neboke manako no kimi wo wasureta tte oboete irukara",
+    "roma_mom": "eoe aao o ii o auea e ooee iuaa"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "丘の前には君がいて随分久しいねって笑いながら顔を寄せて",
+    "hira": "おかのまえにはきみがいてずいぶんひさしいねってわらいながらかおをよせて",
+    "roma": "oka no mae ni wa kimi ga ite zuibun hisashii ne tte warainagara kao wo yosete",
+    "roma_mom": "oa o ae i a ii a ie uiu iaii e e aaiaaa ao o oee"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "さぁ二人で行こうって言うんだ",
+    "hira": "さぁふたりでいこうっていうんだ",
+    "roma": "sa futari de ikou tte iu n da",
+    "roma_mom": "a uai e iou e iu a"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "ラップランドの納屋の下",
+    "hira": "ラップランドのなやのした",
+    "roma": "rappurando no naya no shita",
+    "roma_mom": "auao o aa o ia"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "ガムラスタンの古通り",
+    "hira": "ガムラスタンのふるどおり",
+    "roma": "gamurasutan no furu doori",
+    "roma_mom": "auaua o uu ooi"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "夏草が邪魔をする",
+    "hira": "なつくさがじゃまをする",
+    "roma": "natsukusa ga jama wo suru",
+    "roma_mom": "auua a aa o uu"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "このままの速さで今日を泳いで",
+    "hira": "このままのはやさできょうをおよいで",
+    "roma": "kono mama no hayasa de kyou wo oyoide",
+    "roma_mom": "oo aa o aaa e ou o ooie"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "君にやっと手が触れたら",
+    "hira": "きみにやっとてがふれたら",
+    "roma": "kimi ni yatto te ga furetara",
+    "roma_mom": "ii i ao e a ueaa"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "もう目を覚まして見て",
+    "hira": "もうめをさましてみて",
+    "roma": "mou me wo samashite mite",
+    "roma_mom": "ou e o aaie ie"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "君を忘れた僕を",
+    "hira": "きみをわすれたぼくを",
+    "roma": "kimi wo wasureta boku wo",
+    "roma_mom": "ii o auea ou o"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "さよならの速さで顔を上げて",
+    "hira": "さよならのはやさでかおをあげて",
+    "roma": "sayonara no hayasa de kao wo agete",
+    "roma_mom": "aoaa o aaa e ao o aee"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "いつかやっと夜が明けたら",
+    "hira": "いつかやっとよがあけたら",
+    "roma": "itsu ka yatto yo ga aketara",
+    "roma_mom": "iu a ao o a aeaa"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "もう目を覚まして見て",
+    "hira": "もうめをさましてみて",
+    "roma": "mou me wo samashite mite",
+    "roma_mom": "ou e o aaie ie"
+  },
+  {
+    "start": 0,
+    "end": 0,
+    "line": "寝ぼけまなこの君を何度だって描いているから",
+    "hira": "ねぼけまなこのきみをなんどだってえがいているから",
+    "roma": "neboke manako no kimi wo nan do da tte egaite irukara",
+    "roma_mom": "eoe aao o ii o a o a e eaie iuaa"
+  }
+]
