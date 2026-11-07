@@ -3,7 +3,7 @@ import csv
 from pathlib import Path
 from services.ThirdParty.worker.YtDlpWorker import YtDlpWorker
 # 
-name_raw_data = r"C:\Users\kniou\Documents\project_in_1141\fianl\backend\web_crawler\songs_output1.csv"
+name_raw_data = r"C:\Users\kniou\Documents\project_in_1141\fianl\backend\web_crawler\songs_output.csv"
 custom_save_path = Path(r"G:\我的雲端硬碟\a4")
 
 # 初始化 worker
@@ -46,7 +46,7 @@ async def main():
             song = row.get("Song_Name", "").strip()
 
             # 此處範例為過濾 Vaundy 的歌曲；若要下載所有歌手，可把條件改為 `if artist and song:`
-            if artist == "YOASOBI" and song:
+            if artist in ["ヨルシカ", "ずっと真夜中でいいのに。", "tuki."] and song:
                 tasks.append(
                     process_song(
                         worker,
@@ -68,4 +68,4 @@ async def main():
 
 
 if __name__ == "__main__":
-    asyncio.run(main()) #
+    asyncio.run(main()) #python -m sandbox.basic_tool.youtube_dl_by_name

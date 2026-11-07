@@ -192,21 +192,85 @@ def align_single_song(lyrics_raw_text, whisper_raw_list):
     }
 
 
+
+
+
+#這裡的目標是把歌曲資料處理成csv檔案 
+# tar 是 lyrics 的 羅馬拼音 # obs 是 whisper 的 羅馬拼音
+#然後這個csv 應該是要一直蒐集資料的 就是說 我會一直丟資料近來 前面的資料不能被蓋掉
+#除非這個csv太大了 但目前先不考慮這個問題 
+#傳進align_single_song 處理好的資料 然後應該也需要用到 build_alignment_blocks
+#csv
+#tar obs stat line line_id line_score song song_id song_score 
+import csv
+import os
+def build_matrix_data_frame(song_id, song_name, align_result):
+    if not align_result:
+        return []
+    
+    song_score = align_result["stats"]["score"]
+    blocks = align_result["blocks"]
+
+    rows = []
+
+    # 遍歷每一個 Segment (Block)
+    for block in blocks:
+        l_id, w_id = block["key"]
+        b_l = block["lyrics"]
+        b_w = block["whisper"]
+
+        # 1. 計算這個 Segment (Line) 的分數
+        m_cnt = sum(1 for l, w in zip(b_l, b_w) if l == w and l != "-")
+        x_cnt = sum(1 for l, w in zip(b_l, b_w) if l != w and l != "-" and w != "-")
+        g_cnt = sum(1 for l, w in zip(b_l, b_w) if l == "-" or w == "-")
+        seg_total = m_cnt + x_cnt + g_cnt
+        line_score = (m_cnt / seg_total * 100) if seg_total else 0.0
+        
+        # 處理 None 的情況 (有時候一整段都是 Gap)
+        l_label = f"L{l_id}" if l_id is not None else "L_NONE"
+        w_label = f"W{w_id}" if w_id is not None else "W_NONE"
+        line_id_str = f"{l_label}_{w_label}"
+        
+        # 2. 將這個 Segment 裡面的每一個 Token 對齊結果轉換成 Row
+        for tar, obs in zip(b_l, b_w):
+            # 判斷狀態 (stat)
+            if tar == obs and tar != "-":
+                stat = "match"
+            elif tar == "-":
+                stat = "gap_obs"   # Lyrics是空缺，代表 Whisper 多辨識了(贅字)
+            elif obs == "-":
+                stat = "gap_tar"   # Whisper是空缺，代表 Whisper 漏辨識了(漏字)
+            else:
+                stat = "miss"      # 兩者都有，但不一樣
+            
+            # 建立該筆資料
+            row = {
+                "song_id": song_id,             # 從參數直接接過來
+                "song": song_name,
+                "song_score": round(song_score, 2),
+                "line_id": line_id_str,
+                "line_score": round(line_score, 2),
+                "tar": tar,
+                "obs": obs,
+                "stat": stat
+            }
+            rows.append(row)
+            
+    return rows
+
+
 def build_alignment_blocks(aligned_l, aligned_w, lyric_ids, whisper_ids):
     arr = []
     li = 0
     wi = 0
     current = None
-
     for l, w in zip(aligned_l, aligned_w):
         l_id = lyric_ids[li] if l != "-" else None
         w_id = whisper_ids[wi] if w != "-" else None
-
         if l != "-":
             li += 1
         if w != "-":
             wi += 1
-
         key = (l_id, w_id)
         if current is None or current["key"] != key:
             current = {
@@ -215,12 +279,34 @@ def build_alignment_blocks(aligned_l, aligned_w, lyric_ids, whisper_ids):
                 "whisper": []
             }
             arr.append(current)
-
         current["lyrics"].append(l)
         current["whisper"].append(w)
-
     return arr
 
+
+import csv
+import os
+
+def save_to_csv(rows, csv_path="alignment_database.csv"):
+    if not rows:
+        return
+        
+    # 定義 CSV 的欄位名稱
+    fieldnames = ["song_id", "song", "song_score", "line_id", "line_score", "tar", "obs", "stat"]
+    
+    # 判斷檔案是否已存在且有內容
+    file_exists = os.path.exists(csv_path) and os.path.getsize(csv_path) > 0
+    
+    # 使用 'a' (append) 模式，資料會一直疊加在檔案最後面
+    with open(csv_path, 'a', encoding='utf-8-sig', newline='') as f:
+        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        
+        # 如果檔案是空的，第一步先寫入表頭 (欄位名稱)
+        if not file_exists:
+            writer.writeheader()
+            
+        # 接著寫入這首歌所有的 tokens 資料
+        writer.writerows(rows)
 
 # ==========================================
 # 5. 輸出排版 (解決不等寬錯位問題)
@@ -310,6 +396,49 @@ def run_alignment_pipeline(mode="inspect"):
                 )
                 print("\n" + "=" * 70)
 
+def align_and_save_all():
+    # 1. 讀取所有歌詞
+    # 回傳的是 Dictionary: {"正規化歌名": "歌詞原文"}
+    lyrics_dict = load_lyrics()
+    
+    # 2. 抓出 Whisper 資料夾底下所有的 .json 檔案
+    whisper_files = sorted(WHISPER_PATH.glob("*.json"))
+    
+    # 3. 使用 enumerate 自動產生 song_id (從 1 開始遞增)
+    for song_id, whisper_path in enumerate(whisper_files, start=1):
+        
+        # 取得不含副檔名的檔案名稱 (例如: "優しい彗星.json" -> "優しい彗星")
+        song_name = whisper_path.stem 
+        
+        # 將檔名轉成小寫與去空白 (對應你在 load_lyrics 裡的 title_key 邏輯)
+        normalized_name = title_key(song_name)
+        
+        # 判斷這首 Whisper 的歌，有沒有在我們的 Lyrics 字典裡
+        if normalized_name in lyrics_dict:
+            # 兩邊都有！把原始文字與列表抓出來
+            lyrics_raw_text = lyrics_dict[normalized_name]
+            whisper_raw_list = load_whisper(whisper_path)
+            
+            # 開始跑 DP 對齊
+            align_result = align_single_song(lyrics_raw_text, whisper_raw_list)
+            
+            if align_result:
+                # 轉成 CSV 的行資料
+                rows = build_matrix_data_frame(
+                    song_id=song_id, 
+                    song_name=song_name, 
+                    align_result=align_result
+                )
+                
+                # 存入 CSV (你寫好的 save_to_csv 會自動判斷要不要加表頭，且採用 append)
+                save_to_csv(rows)
+                print(f"[{song_id}] {song_name} 處理並儲存完畢！寫入 {len(rows)} 筆 Tokens。")
+        else:
+            print(f"[警告] 找不到 {song_name} 的歌詞，跳過處理。")
+
+# 執行主程式
+if __name__ == "__main__":
+    align_and_save_all()
 
 def main():
     run_alignment_pipeline(mode="summary")
@@ -319,12 +448,6 @@ def main2():
     run_alignment_pipeline(mode="inspect")
 
 
-# ==========================================
-# 7. 執行入口
-# ==========================================
-
-if __name__ == "__main__":
-    main()
     # main()  # 統計模式
 
 

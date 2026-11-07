@@ -98,6 +98,98 @@ def needleman_wunsch(seq1: str, seq2: str, match: int = 1, mismatch: int = -1, g
 
 
 
+def sub_need_ag(seq1: list, seq2: list, sub_matrix: dict, match_base: float = 1.0, mismatch_base: float = -1.0, gap: float = -2.0):
+    """
+    帶有 Substitution Matrix 支援的 Needleman-Wunsch 演算法，支援從矩陣讀取 Match 分數。
+    
+    seq1: 原文歌詞 (Lyrics)
+    seq2: 語音辨識 (Whisper)
+    sub_matrix: 替換矩陣字典，格式如 {'k': {'g': 4.85, 'k': 5.0}, ...}
+    match_base: 當配對不在矩陣中但字元相同時的基礎加分 (預設 1.0)
+    mismatch_base: 當配對不在矩陣中且字元不同時的基礎扣分 (預設 -1.0)
+    """
+    
+    # 1. 預處理：找出矩陣中的最大分數，用於將所有分數壓縮至合理範圍
+    max_raw_score = 1.0
+    for obs_dict in sub_matrix.values():
+        for val in obs_dict.values():
+            if val > max_raw_score:
+                max_raw_score = val
+
+    def get_pair_score(a, b):
+        """動態計算兩個字元的對齊分數 (Match & Substitution 均從矩陣讀取)"""
+        # 如果配對存在於矩陣中 (無論是 Match 還是 Substitution)
+        if a in sub_matrix and b in sub_matrix[a]:
+            raw_score = sub_matrix[a][b]
+            if raw_score > 0:
+                # 若 a == b (對角線 Match)，可以設定壓縮上限為 1.0
+                if a == b:
+                    normalized_score = 1.0 * (raw_score / max_raw_score)
+                    return max(0.5, normalized_score) # 給 Match 保底分數
+                # 若 a != b (Substitution)，設定壓縮上限為 0.9，確保低於最高 Match
+                else:
+                    normalized_score = 0.9 * (raw_score / max_raw_score)
+                    return max(0.1, normalized_score)
+                    
+        # 如果配對不在矩陣中，退回使用基礎分數
+        return match_base if a == b else mismatch_base
+
+    # 2. 初始化 DP 矩陣
+    rows = len(seq1) + 1
+    cols = len(seq2) + 1
+    scores = [[0.0] * cols for _ in range(rows)]
+
+    for i in range(1, rows):
+        scores[i][0] = scores[i - 1][0] + gap
+    for j in range(1, cols):
+        scores[0][j] = scores[0][j - 1] + gap
+
+    # 3. 動態規劃填表
+    for i in range(1, rows):
+        for j in range(1, cols):
+            char_a = seq1[i - 1]
+            char_b = seq2[j - 1]
+            
+            diagonal = scores[i - 1][j - 1] + get_pair_score(char_a, char_b)
+            up = scores[i - 1][j] + gap
+            left = scores[i][j - 1] + gap
+            
+            scores[i][j] = max(diagonal, up, left)
+
+    # 4. 回溯路徑 (Traceback)
+    aligned1 = []
+    aligned2 = []
+    i, j = len(seq1), len(seq2)
+
+    while i > 0 or j > 0:
+        if i > 0 and j > 0:
+            char_a = seq1[i - 1]
+            char_b = seq2[j - 1]
+            pair_score = get_pair_score(char_a, char_b)
+            
+            # 使用 round 避免浮點數精度誤差
+            if round(scores[i][j], 4) == round(scores[i - 1][j - 1] + pair_score, 4):
+                aligned1.append(char_a)
+                aligned2.append(char_b)
+                i -= 1
+                j -= 1
+                continue
+
+        if i > 0 and round(scores[i][j], 4) == round(scores[i - 1][j] + gap, 4):
+            aligned1.append(seq1[i - 1])
+            aligned2.append("-")
+            i -= 1
+        else:
+            aligned1.append("-")
+            aligned2.append(seq2[j - 1])
+            j -= 1
+
+    aligned1.reverse()
+    aligned2.reverse()
+
+    return aligned1, aligned2, scores[-1][-1]
+
+
 
 
 def semi_global_align_segment(
